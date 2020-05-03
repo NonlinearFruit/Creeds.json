@@ -1,0 +1,1431 @@
+{
+  "Metadata": {
+    "Title": "",
+    "AlternativeTitles": [
+      ""
+    ],
+    "Year": "",
+    "Authors": [
+      ""
+    ],
+    "Location": "",
+    "OriginalLanguage": "",
+    "OriginStory": "",
+    "SourceUrl": "",
+    "SourceAttribution": "",
+    "CreedFormat": ""
+  },
+  "Data": [
+    {
+      "Number": "1",
+      "Question": "Who is the first and best of beings?",
+      "Answer": "God is the first and best of beings.",
+      "AnswerWithProofs": "God is the first and best of beings.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Isaiah 44:6; Psalm 8:1; 97:9"
+        }
+      ]
+    },
+    {
+      "Number": "2",
+      "Question": "What is the chief end of man?",
+      "Answer": "Man's chief end is to glorify God and to enjoy Him forever.",
+      "AnswerWithProofs": "Man's chief end is to glorify God and to enjoy Him forever.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 10:31; Psalm 73:25-26"
+        }
+      ]
+    },
+    {
+      "Number": "3",
+      "Question": "How do we know there is a God?",
+      "Answer": "The light of nature in man, and the works of God, plainly declare that there is a God; but His Word and Spirit only, do effectually reveal Him unto us for our salvation.",
+      "AnswerWithProofs": "The light of nature in man, and the works of God, plainly declare that there is a God; but His Word and Spirit only, do effectually reveal Him unto us for our salvation.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 1:18-20; Psalm 19:1,2; 2 Tim. 3:15; 1 Cor.  1:21-24; 1 Cor. 2:9,10"
+        }
+      ]
+    },
+    {
+      "Number": "4",
+      "Question": "What is the Word of God?",
+      "Answer": "The Scriptures of the Old and New Testaments, being given by divine inspiration, are the Word of God, the only infallible rule of faith and practice.",
+      "AnswerWithProofs": "The Scriptures of the Old and New Testaments, being given by divine inspiration, are the Word of God, the only infallible rule of faith and practice.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "2 Peter 1:21; 2 Timothy 3:16,17; Isaiah 8:20"
+        }
+      ]
+    },
+    {
+      "Number": "5",
+      "Question": "How do we know that the Bible is the Word of God?",
+      "Answer": "The Bible evidences itself to be God's Word by the heavenliness of its doctrine, the unity of its parts, its power to convert sinners and to edify saints; but the Spirit of God only, bearing witness by and with the Scriptures in our hearts, is able fully to persuade us that the Bible is the Word of God.",
+      "AnswerWithProofs": "The Bible evidences itself to be God's Word by the heavenliness of its doctrine, the unity of its parts, its power to convert sinners and to edify saints; but the Spirit of God only, bearing witness by and with the Scriptures in our hearts, is able fully to persuade us that the Bible is the Word of God.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 2:6,7,13; Ps. 119:18, 129; Acts 10:43, 26:22; Acts 18:28; Heb 4:12; Ps. 19:7-9; Rom.  15:4; John 16:13,14; 1 John 2:20-27; 2 Cor.  3:14-17"
+        }
+      ]
+    },
+    {
+      "Number": "6",
+      "Question": "May all men make use of the Scriptures?",
+      "Answer": "All men are not only permitted, but commanded and exhorted, to read, hear, and understand the Scriptures.",
+      "AnswerWithProofs": "All men are not only permitted, but commanded and exhorted, to read, hear, and understand the Scriptures.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "John 5:39; Luke 16:29; Acts 8:28-30; 17:11"
+        }
+      ]
+    },
+    {
+      "Number": "7",
+      "Question": "What do the Scriptures principally teach?",
+      "Answer": "The Scriptures principally teach what man is to believe concerning God and what duty God requires of man.",
+      "AnswerWithProofs": "The Scriptures principally teach what man is to believe concerning God and what duty God requires of man.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "2 Tim. 3:16,17; John 20:31; Acts 24:14; 1 Cor.  10:11; Eccles. 12:13"
+        }
+      ]
+    },
+    {
+      "Number": "8",
+      "Question": "What is God?",
+      "Answer": "God is a Spirit, infinite, eternal, and unchangeable in His being, wisdom, power, holiness, justice, goodness and truth.",
+      "AnswerWithProofs": "God is a Spirit, infinite, eternal, and unchangeable in His being, wisdom, power, holiness, justice, goodness and truth.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "John 4:24; Ps. 147:5; Ps. 90:2; James 1:17; Rev.  4:8; Ps. 89:14; Exod. 34:6,7; 1 Tim. 1:17"
+        }
+      ]
+    },
+    {
+      "Number": "9",
+      "Question": "Are there more gods than one?",
+      "Answer": "There is but one only, the living and true God.",
+      "AnswerWithProofs": "There is but one only, the living and true God.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Deut. 6:4; Jeremiah 10:10"
+        }
+      ]
+    },
+    {
+      "Number": "10",
+      "Question": "How many persons are there in the Godhead?",
+      "Answer": "There are three persons in the Godhead, the Father, the Son, and the Holy Spirit; and these three are one God, the same in essence, equal in power and glory.",
+      "AnswerWithProofs": "There are three persons in the Godhead, the Father, the Son, and the Holy Spirit; and these three are one God, the same in essence, equal in power and glory.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 8:6; John 10:30; John 14:9; Acts 5:3,4; Matt. 28:19; 2 Cor. 13:14"
+        }
+      ]
+    },
+    {
+      "Number": "11",
+      "Question": "What are the decrees of God?",
+      "Answer": "The decrees of God are His eternal purpose, according to the counsel of His will, whereby for His own glory, He has fore-ordained whatsoever comes to pass",
+      "AnswerWithProofs": "The decrees of God are His eternal purpose, according to the counsel of His will, whereby for His own glory, He has fore-ordained whatsoever comes to pass[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph. 1:11; Rom. 11:36; Dan. 4:35"
+        }
+      ]
+    },
+    {
+      "Number": "12",
+      "Question": "How does God execute His decrees?",
+      "Answer": "God executes His decrees in the works of creation and providence.",
+      "AnswerWithProofs": "God executes His decrees in the works of creation and providence.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 1:1; Rev. 4:11; Matt. 6:26; Acts 14:17"
+        }
+      ]
+    },
+    {
+      "Number": "13",
+      "Question": "What is the work of creation?",
+      "Answer": "The work of creation is God's making all things of nothing, by the Word of His power, in the space of six days, and all very good.",
+      "AnswerWithProofs": "The work of creation is God's making all things of nothing, by the Word of His power, in the space of six days, and all very good.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 1:1; Heb. 11:3; Ex. 20:11; Gen. 1:31"
+        }
+      ]
+    },
+    {
+      "Number": "14",
+      "Question": "How did God create man?",
+      "Answer": "God created man male and female, after His own image, in knowledge, righteousness, and holiness, with dominion over the creatures.",
+      "AnswerWithProofs": "God created man male and female, after His own image, in knowledge, righteousness, and holiness, with dominion over the creatures.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 1:27; Col. 3:10; Eph. 4:24; Gen. 1:28"
+        }
+      ]
+    },
+    {
+      "Number": "15",
+      "Question": "What are God's works of providence?",
+      "Answer": "God's works of providence are His most holy, wise, and powerful preserving and governing all His creatures, and all their actions.",
+      "AnswerWithProofs": "God's works of providence are His most holy, wise, and powerful preserving and governing all His creatures, and all their actions.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Neh. 9:6; Col. 1:17; Heb. 1:3; Ps. 103:19; Matt.  10:29,30"
+        }
+      ]
+    },
+    {
+      "Number": "16",
+      "Question": "What special act of providence did God exercise towards man, in the estate wherein he was created?",
+      "Answer": "When God had created man, He entered into a covenant of works with him, upon condition of perfect obedience, forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.",
+      "AnswerWithProofs": "When God had created man, He entered into a covenant of works with him, upon condition of perfect obedience, forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 2:16,17; Gal. 3:12; Rom. 5:12"
+        }
+      ]
+    },
+    {
+      "Number": "17",
+      "Question": "Did our first parents continue in the estate wherein they were created?",
+      "Answer": "Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God.",
+      "AnswerWithProofs": "Our first parents, being left to the freedom of their own will, fell from the estate wherein they were created, by sinning against God.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 3:6; Eccles. 7:29; Rom. 5:12"
+        }
+      ]
+    },
+    {
+      "Number": "18",
+      "Question": "What is sin?",
+      "Answer": "Sin is any want of conformity unto, or transgression of, the law of God.",
+      "AnswerWithProofs": "Sin is any want of conformity unto, or transgression of, the law of God.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 John 3:4; Rom. 5:13"
+        }
+      ]
+    },
+    {
+      "Number": "19",
+      "Question": "What was the sin whereby our first parents fell from the estate wherein they were created?",
+      "Answer": "The sin whereby our first parents fell from the estate wherein they were created, was their eating the forbidden fruit.",
+      "AnswerWithProofs": "The sin whereby our first parents fell from the estate wherein they were created, was their eating the forbidden fruit.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 3:6,12,13"
+        }
+      ]
+    },
+    {
+      "Number": "20",
+      "Question": "Did all mankind fall in Adam's first transgression?",
+      "Answer": "The covenant being made with Adam, not only for himself but for his posterity, all mankind, descending from him by ordinary generation, sinned in him, and fell with him in his first transgression.",
+      "AnswerWithProofs": "The covenant being made with Adam, not only for himself but for his posterity, all mankind, descending from him by ordinary generation, sinned in him, and fell with him in his first transgression.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 15:21,22; Rom. 5:12,18,19"
+        }
+      ]
+    },
+    {
+      "Number": "21",
+      "Question": "Into what estate did the fall bring mankind?",
+      "Answer": "The fall brought mankind into an estate of sin and misery.",
+      "AnswerWithProofs": "The fall brought mankind into an estate of sin and misery.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ps. 51:5; Rom. 5:18,19: Is. 64:6"
+        }
+      ]
+    },
+    {
+      "Number": "22",
+      "Question": "Wherein consists the sinfulness of that estate whereunto man fell?",
+      "Answer": "The sinfulness of that estate whereunto man fell, consists in the guilt of Adam's first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin, together with all actual transgressions which proceed from it.",
+      "AnswerWithProofs": "The sinfulness of that estate whereunto man fell, consists in the guilt of Adam's first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin, together with all actual transgressions which proceed from it.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 5:19; 3:10; Eph. 2:1; Is. 53:6; Ps. 51:5; Matt. 15:19"
+        }
+      ]
+    },
+    {
+      "Number": "23",
+      "Question": "What is the misery of that estate whereunto man fell?",
+      "Answer": "All mankind, by their fall lost communion with God, are under His wrath and curse, and 80 made liable to all the miseries of this life, to death itself, and to the pains of hell forever.",
+      "AnswerWithProofs": "All mankind, by their fall lost communion with God, are under His wrath and curse, and 80 made liable to all the miseries of this life, to death itself, and to the pains of hell forever.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 3:8,24; Eph. 2:3; Gal. 3:10; Rom. 6:23; Matt.  25:41-46; Ps. 9:17"
+        }
+      ]
+    },
+    {
+      "Number": "24",
+      "Question": "Did God leave all mankind to perish in the estate of sin and misery?",
+      "Answer": "God, out of His mere good pleasure, from all eternity, having chosen a people to everlasting life, did enter into a covenant of grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation, by a Redeemer.",
+      "AnswerWithProofs": "God, out of His mere good pleasure, from all eternity, having chosen a people to everlasting life, did enter into a covenant of grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation, by a Redeemer.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph. 1:3,4; 2 Thess. 2:13; Rom. 5:21; Acts 13:8; Jer. 31:33"
+        }
+      ]
+    },
+    {
+      "Number": "25",
+      "Question": "Who is the Redeemer of God's elect?",
+      "Answer": "The only Redeemer of God's elect is the Lord Jesus Christ, who, being the eternal Son of God, became man, and so was and continues to be God and man, in two distinct natures and one person, forever.",
+      "AnswerWithProofs": "The only Redeemer of God's elect is the Lord Jesus Christ, who, being the eternal Son of God, became man, and so was and continues to be God and man, in two distinct natures and one person, forever.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gal. 3:13;1 Tim. 2:5; John 1:14; 1 Tim. 3:16; Rom.  9:5; Col. 2:9"
+        }
+      ]
+    },
+    {
+      "Number": "26",
+      "Question": "How did Christ, being the Son of God, become man?",
+      "Answer": "Christ, the Son of God became man by taking to himself a true body and a reasonable soul; being conceived by the power of the Holy Spirit in the womb of the Virgin Mary and born of her, yet without sin.",
+      "AnswerWithProofs": "Christ, the Son of God became man by taking to himself a true body and a reasonable soul; being conceived by the power of the Holy Spirit in the womb of the Virgin Mary and born of her, yet without sin.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Heb. 2:14; Matt. 26:38; Luke 2:52; John 12:27; Luke 1:31,35; Heb. 4:15; 7:26"
+        }
+      ]
+    },
+    {
+      "Number": "27",
+      "Question": "What offices does Christ execute as our Redeemer?",
+      "Answer": "Christ, as our Redeemer, executes the offices of a prophet, of a priest, and of a king, both in His estate of humiliation and exaltation.",
+      "AnswerWithProofs": "Christ, as our Redeemer, executes the offices of a prophet, of a priest, and of a king, both in His estate of humiliation and exaltation.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Acts 3:22; Heb. 5:6; Ps. 2:6"
+        }
+      ]
+    },
+    {
+      "Number": "28",
+      "Question": "How does Christ execute the office of a prophet?",
+      "Answer": "Christ executes the office of a prophet, in revealing to us, by this Word and Spirit, the will of God for our salvation.",
+      "AnswerWithProofs": "Christ executes the office of a prophet, in revealing to us, by this Word and Spirit, the will of God for our salvation.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "John 1:18; 14:26; 15:15"
+        }
+      ]
+    },
+    {
+      "Number": "29",
+      "Question": "How does Christ execute the office of a priest?",
+      "Answer": "Christ executes the office of a priest, in His once offering up of Himself, a sacrifice to satisfy divine justice, and reconcile us to God, and in making continual intercession for us.",
+      "AnswerWithProofs": "Christ executes the office of a priest, in His once offering up of Himself, a sacrifice to satisfy divine justice, and reconcile us to God, and in making continual intercession for us.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Peter 2:24; Heb. 9:28; Eph. 5:2; Heb. 2:17; 7:25; Rom. 8:34"
+        }
+      ]
+    },
+    {
+      "Number": "30",
+      "Question": "How does Christ execute the office of a king?",
+      "Answer": "Christ executes the office of a king, in subduing us to Himself, in ruling and defending us, and in restraining and conquering all His and our enemies.",
+      "AnswerWithProofs": "Christ executes the office of a king, in subduing us to Himself, in ruling and defending us, and in restraining and conquering all His and our enemies.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ps. 110:3; Matt. 2:6; 1 Cor. 15:25"
+        }
+      ]
+    },
+    {
+      "Number": "31",
+      "Question": "Wherein did Christ's humiliation consist?",
+      "Answer": "Christ's humiliation consisted in His being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross, in being buried, and continuing under the power of death for a time.",
+      "AnswerWithProofs": "Christ's humiliation consisted in His being born, and that in a low condition, made under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross, in being buried, and continuing under the power of death for a time.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Luke 2:7; Gal. 4:4; Is. 53:3; Luke 22:44; Matt.  27:46; Phil. 2:8; Matt. 12:40; Mark 15:45,46"
+        }
+      ]
+    },
+    {
+      "Number": "32",
+      "Question": "Wherein consists Christ's exaltation?",
+      "Answer": "Christ's exaltation consists in His rising again from the dead on the third day, in ascending up into heaven, in sitting at the right hand of God the Father, and in coming to judge the world at the last day.",
+      "AnswerWithProofs": "Christ's exaltation consists in His rising again from the dead on the third day, in ascending up into heaven, in sitting at the right hand of God the Father, and in coming to judge the world at the last day.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 15:4; Acts 1:11; Mark 16:19; Acts 17:31"
+        }
+      ]
+    },
+    {
+      "Number": "33",
+      "Question": "How are we made partakers of the redemption purchased by Christ?",
+      "Answer": "We are made partakers of the redemption purchased by Christ, by the effectual application of it to us, by His Holy Spirit.",
+      "AnswerWithProofs": "We are made partakers of the redemption purchased by Christ, by the effectual application of it to us, by His Holy Spirit.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "John 3:5,6; Titus 3:5,6"
+        }
+      ]
+    },
+    {
+      "Number": "34",
+      "Question": "How does the Spirit apply to us the redemption purchased by Christ?",
+      "Answer": "The Spirit applies to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling.",
+      "AnswerWithProofs": "The Spirit applies to us the redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our effectual calling.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph. 2:8; 3:17"
+        }
+      ]
+    },
+    {
+      "Number": "35",
+      "Question": "What is effectual calling?",
+      "Answer": "Effectual calling is the work of God's Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, He does persuade and enable us to embrace Jesus Christ, freely offered to us in the Gospel.",
+      "AnswerWithProofs": "Effectual calling is the work of God's Spirit, whereby, convincing us of our sin and misery, enlightening our minds in the knowledge of Christ, and renewing our wills, He does persuade and enable us to embrace Jesus Christ, freely offered to us in the Gospel.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "2 Tim. 1:9; John 16:8-11; Acts 2:37; 26:18; Ezekiel 36:26; John 6:44,45; 1 Cor. 12:3"
+        }
+      ]
+    },
+    {
+      "Number": "36",
+      "Question": "What benefits do they that are effectually called, partake of in this life?",
+      "Answer": "They that are effectually called, do in this life partake of justification, adoption, sanctification, and the several benefits which in this life do either accompany or flow from them.",
+      "AnswerWithProofs": "They that are effectually called, do in this life partake of justification, adoption, sanctification, and the several benefits which in this life do either accompany or flow from them.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 8:30; Gal. 3:26; 1 Cor. 6:11; Rom. 8:31,32; Eph. 1:5; 1 Cor. 1:30"
+        }
+      ]
+    },
+    {
+      "Number": "37",
+      "Question": "What is justification?",
+      "Answer": "Justification is an act of God's free grace, wherein He pardons all our sins, and accepts us as righteous in His sight, only for the righteousness of Christ imputed to us, and received by faith alone.",
+      "AnswerWithProofs": "Justification is an act of God's free grace, wherein He pardons all our sins, and accepts us as righteous in His sight, only for the righteousness of Christ imputed to us, and received by faith alone.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 3:24; Eph. 1:7; 2 Cor. 5:21; Rom. 5:19; Phil.  3:9; Gal. 2:16"
+        }
+      ]
+    },
+    {
+      "Number": "38",
+      "Question": "What is adoption?",
+      "Answer": "Adoption is an act of God's free grace, whereby we are received into the number, and have a right to all the privileges of the sons of God.",
+      "AnswerWithProofs": "Adoption is an act of God's free grace, whereby we are received into the number, and have a right to all the privileges of the sons of God.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 John 3:1; John 1:12; Rom. 8:16,17"
+        }
+      ]
+    },
+    {
+      "Number": "39",
+      "Question": "What is sanctification?",
+      "Answer": "Sanctification is a work of God's free grace whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.",
+      "AnswerWithProofs": "Sanctification is a work of God's free grace whereby we are renewed in the whole man after the image of God, and are enabled more and more to die unto sin, and live unto righteousness.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "2 Thess. 2:13; Eph. 4:23,24; Rom. 6:11"
+        }
+      ]
+    },
+    {
+      "Number": "40",
+      "Question": "What are the benefits which in this life do accompany or flow from justification, adoption, and sanctification?",
+      "Answer": "The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are, assurance of God's love, peace of conscience, joy in the Holy Spirit, increase of grace, and perseverance therein to the end.",
+      "AnswerWithProofs": "The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are, assurance of God's love, peace of conscience, joy in the Holy Spirit, increase of grace, and perseverance therein to the end.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 5:1-5; 14:17; Prov. 4:18; 1 Peter 1:5;1 John 5:13"
+        }
+      ]
+    },
+    {
+      "Number": "41",
+      "Question": "What benefits do believers receive from Christ at death?",
+      "Answer": "The souls of believers are at death made perfect in holiness, and do immediately pass into glory, and their bodies, being still united to Christ, do rest in their graves till the resurrection.",
+      "AnswerWithProofs": "The souls of believers are at death made perfect in holiness, and do immediately pass into glory, and their bodies, being still united to Christ, do rest in their graves till the resurrection.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Heb. 12:23; Phil. 1:23; 2 Cor. 5:8; Luke 23:43; 1 Thess 4:14; Is. 57:2; Job 19:26"
+        }
+      ]
+    },
+    {
+      "Number": "42",
+      "Question": "What benefits do believers receive from Christ at the Resurrection?",
+      "Answer": "At the resurrection, believers become raised up in glory, shall be openly acknowledged and acquitted in the day of judgment, and made perfectly blessed in the full enjoyment of God to all eternity.",
+      "AnswerWithProofs": "At the resurrection, believers become raised up in glory, shall be openly acknowledged and acquitted in the day of judgment, and made perfectly blessed in the full enjoyment of God to all eternity.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Phil. 3:20,21; 1 Cor. 15:42,43; Matt. 10:32; 1 John 3:2; 1 Thess. 4:17"
+        }
+      ]
+    },
+    {
+      "Number": "43",
+      "Question": "What shall be done to the wicked at death?",
+      "Answer": "The souls of the wicked shall at death, be cast into the torments of hell, and their bodies lie in their graves till the resurrection and judgement of the great day.",
+      "AnswerWithProofs": "The souls of the wicked shall at death, be cast into the torments of hell, and their bodies lie in their graves till the resurrection and judgement of the great day.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Luke 16:22-24; Ps. 49:14"
+        }
+      ]
+    },
+    {
+      "Number": "44",
+      "Question": "What shall be done to the wicked at the day of judgement?",
+      "Answer": "At the day of judgement, the bodies of the wicked, being raised out of their graves, shall be sentenced, together with their souls, to unspeakable torments with the devil and his angels forever.",
+      "AnswerWithProofs": "At the day of judgement, the bodies of the wicked, being raised out of their graves, shall be sentenced, together with their souls, to unspeakable torments with the devil and his angels forever.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Dan. 12:2; John 5:28,29; 2 Thess. 1:9; Matt.  25:41"
+        }
+      ]
+    },
+    {
+      "Number": "45",
+      "Question": "What is the duty which God requires of man?",
+      "Answer": "The duty which God requires of man, is obedience to His revealed will.",
+      "AnswerWithProofs": "The duty which God requires of man, is obedience to His revealed will.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Micah 6:8; Eccles. 12:13; Ps. 119:4; Luke 10:26-28"
+        }
+      ]
+    },
+    {
+      "Number": "46",
+      "Question": "What did God at first reveal to man for the rule of his obedience?",
+      "Answer": "The rule which God at first revealed to man for his obedience was the moral law.",
+      "AnswerWithProofs": "The rule which God at first revealed to man for his obedience was the moral law.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 2:14,15; 5:13,14"
+        }
+      ]
+    },
+    {
+      "Number": "47",
+      "Question": "Where is the moral law summarily comprehended?",
+      "Answer": "The moral law is summarily comprehended in the Ten Commandments.",
+      "AnswerWithProofs": "The moral law is summarily comprehended in the Ten Commandments.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Deut. 10:4; Matt. 19:17"
+        }
+      ]
+    },
+    {
+      "Number": "48",
+      "Question": "What is the sum of the Ten Commandments?",
+      "Answer": "The sum of the Ten Commandments is, to love the Lord our God, with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves.",
+      "AnswerWithProofs": "The sum of the Ten Commandments is, to love the Lord our God, with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbor as ourselves.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 22:36-40; Mark 12:28-33"
+        }
+      ]
+    },
+    {
+      "Number": "49",
+      "Question": "What is the preface to the Ten Commandments?",
+      "Answer": "The preface to the Ten Commandments is, \"I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.\"",
+      "AnswerWithProofs": "The preface to the Ten Commandments is, \"I am the Lord thy God, which have brought thee out of the land of Egypt, out of the house of bondage.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:2"
+        }
+      ]
+    },
+    {
+      "Number": "50",
+      "Question": "What does the preface to the Ten Commandments teach us?",
+      "Answer": "The preface to the Ten Commandments teaches us, that because God is the Lord, and our God and Redeemer, therefore we are bound to keep all His commandments.",
+      "AnswerWithProofs": "The preface to the Ten Commandments teaches us, that because God is the Lord, and our God and Redeemer, therefore we are bound to keep all His commandments.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Deut 11:1"
+        }
+      ]
+    },
+    {
+      "Number": "51",
+      "Question": "Which is the first commandment?",
+      "Answer": "The first commandment is, \"Thou shalt have no other Gods before me.\"",
+      "AnswerWithProofs": "The first commandment is, \"Thou shalt have no other Gods before me.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:3"
+        }
+      ]
+    },
+    {
+      "Number": "52",
+      "Question": "What is required in the first commandment?",
+      "Answer": "The first commandment requires us to know and acknowledge God to be the only true God, and our God, and to worship and glorify Him accordingly.",
+      "AnswerWithProofs": "The first commandment requires us to know and acknowledge God to be the only true God, and our God, and to worship and glorify Him accordingly.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Joshua 24:15; 1 Chron. 28:9; Deut. 26:17; Ps.  29:2; Matt. 4:10"
+        }
+      ]
+    },
+    {
+      "Number": "53",
+      "Question": "What is forbidden in the first commandment?",
+      "Answer": "The first commandment forbids the denying, or not worshipping and glorifying the true God, as God and our God; and the giving that worship and glory to any other, which is due unto Him alone.",
+      "AnswerWithProofs": "The first commandment forbids the denying, or not worshipping and glorifying the true God, as God and our God; and the giving that worship and glory to any other, which is due unto Him alone.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Joshua 24:27; Rom. 1:20,21; Ps. 14:1; Rom. 1:25"
+        }
+      ]
+    },
+    {
+      "Number": "54",
+      "Question": "What are we especially taught by these words, \"before me,\" in the first commandment?",
+      "Answer": "These words, \"before me\", in the first commandment, teach us, that God, who sees all things, takes notice of, and is much displeased with the sin of having any other God.",
+      "AnswerWithProofs": "These words, \"before me\", in the first commandment, teach us, that God, who sees all things, takes notice of, and is much displeased with the sin of having any other God.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Deut.30:17,18; Ps. 44:20,21; Ps. 90:8"
+        }
+      ]
+    },
+    {
+      "Number": "55",
+      "Question": "Which is the second commandment?",
+      "Answer": "The second commandment is, \"Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Thou shalt not bow down thyself to them, nor serve them; for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children, unto the third and fourth generation of them that hate me: and showing mercy unto thousands of them that love me and keep my commandments.\"",
+      "AnswerWithProofs": "The second commandment is, \"Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. Thou shalt not bow down thyself to them, nor serve them; for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children, unto the third and fourth generation of them that hate me: and showing mercy unto thousands of them that love me and keep my commandments.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:4-6"
+        }
+      ]
+    },
+    {
+      "Number": "56",
+      "Question": "What is required in the second commandment?",
+      "Answer": "The second commandment requires the receiving, observing, and keeping pure and entire, all such religious worship and ordinances, as God has appointed in His Word.",
+      "AnswerWithProofs": "The second commandment requires the receiving, observing, and keeping pure and entire, all such religious worship and ordinances, as God has appointed in His Word.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Deut. 32:46; Matt. 28:20; Deut. 12:32"
+        }
+      ]
+    },
+    {
+      "Number": "57",
+      "Question": "What is forbidden in the second commandment?",
+      "Answer": "The second commandment forbids the worshipping of God by images, or any other way not appointed in His Word.",
+      "AnswerWithProofs": "The second commandment forbids the worshipping of God by images, or any other way not appointed in His Word.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 1:22,23; Deut. 4:15,16; Matt. 15:9; Col.  2:18"
+        }
+      ]
+    },
+    {
+      "Number": "58",
+      "Question": "What are the reasons annexed to the second commandment?",
+      "Answer": "The reasons annexed to the second commandment, are, God's sovereignty over us, His propriety in us, and the zeal He has for His own worship.",
+      "AnswerWithProofs": "The reasons annexed to the second commandment, are, God's sovereignty over us, His propriety in us, and the zeal He has for His own worship.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ps. 45:11; Ex. 34:14; 1 Cor. 10:22"
+        }
+      ]
+    },
+    {
+      "Number": "59",
+      "Question": "Which is the third commandment?",
+      "Answer": "The third commandment is, \"Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain.\"",
+      "AnswerWithProofs": "The third commandment is, \"Thou shalt not take the name of the Lord thy God in vain: for the Lord will not hold him guiltless that taketh his name in vain.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:7"
+        }
+      ]
+    },
+    {
+      "Number": "60",
+      "Question": "What is required in the third commandment?",
+      "Answer": "The third commandment requires the holy and reverent use of God's names, titles, attributes, ordinances, words, and works.",
+      "AnswerWithProofs": "The third commandment requires the holy and reverent use of God's names, titles, attributes, ordinances, words, and works.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ps.29:2; Deut. 32:1-4; Deut.28:58,59; Ps.111:9; Matt. 6:9, Eccles. 5:1; Ps. 138:2, Job 36:24; Rev.  15:3,4; Reve 4:8"
+        }
+      ]
+    },
+    {
+      "Number": "61",
+      "Question": "What is forbidden in the third commandment?",
+      "Answer": "The third commandment forbids all profaning and abusing of any thing whereby God makes Himself known.",
+      "AnswerWithProofs": "The third commandment forbids all profaning and abusing of any thing whereby God makes Himself known.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Malachi 1:6,7; Lev. 20:3;19:12; Matt. 5:34-37; Isa. 52:5"
+        }
+      ]
+    },
+    {
+      "Number": "62",
+      "Question": "What is the reason annexed to the third commandment?",
+      "Answer": "The reason annexed to the third commandment is, that howsoever the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape His righteous judgment.",
+      "AnswerWithProofs": "The reason annexed to the third commandment is, that howsoever the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape His righteous judgment.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Deut. 28:58,59; Malachi 2:2"
+        }
+      ]
+    },
+    {
+      "Number": "63",
+      "Question": "Which is the fourth commandment?",
+      "Answer": "The fourth commandment is, \"Remember the Sabbath day to keep it holy. Six days shalt thou labor and do all thy work; but the seventh day is the Sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maid servant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the Sabbath day and hallowed it.\"",
+      "AnswerWithProofs": "The fourth commandment is, \"Remember the Sabbath day to keep it holy. Six days shalt thou labor and do all thy work; but the seventh day is the Sabbath of the Lord thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maid servant, nor thy cattle, nor thy stranger that is within thy gates: for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the Lord blessed the Sabbath day and hallowed it.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:8-11"
+        }
+      ]
+    },
+    {
+      "Number": "64",
+      "Question": "What is required in the fourth commandment?",
+      "Answer": "The fourth commandment requires the keeping holy to God such set times as He has appointed in His Word, expressly one whole day in seven to be a holy Sabbath to Himself.",
+      "AnswerWithProofs": "The fourth commandment requires the keeping holy to God such set times as He has appointed in His Word, expressly one whole day in seven to be a holy Sabbath to Himself.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Lev. 19:30; Deut. 5:12"
+        }
+      ]
+    },
+    {
+      "Number": "65",
+      "Question": "Which day of the seven has God appointed to be the weekly Sabbath?",
+      "Answer": "From the creation of the world to the resurrection of Christ, God appointed the seventh day of the week to be the weekly Sabbath; and the first day of the week ever since, to continue to the end of the world, which is the Christian Sabbath.",
+      "AnswerWithProofs": "From the creation of the world to the resurrection of Christ, God appointed the seventh day of the week to be the weekly Sabbath; and the first day of the week ever since, to continue to the end of the world, which is the Christian Sabbath.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 2:3; John 20:19; Acts 20:7; 1 Cor. 16:1,2; Rev. 1:10"
+        }
+      ]
+    },
+    {
+      "Number": "66",
+      "Question": "How is the Sabbath to be sanctified?",
+      "Answer": "The Sabbath is to sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days, and spending the time in the public and private exercises of God's worship, except so much as is to be taken up in the works of necessity and mercy.",
+      "AnswerWithProofs": "The Sabbath is to sanctified by a holy resting all that day, even from such worldly employments and recreations as are lawful on other days, and spending the time in the public and private exercises of God's worship, except so much as is to be taken up in the works of necessity and mercy.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Lev. 23:3; Isa. 58:13,14; Isa. 66:23; Matt.  12:11,12"
+        }
+      ]
+    },
+    {
+      "Number": "67",
+      "Question": "What is forbidden in the fourth commandment?",
+      "Answer": "The fourth commandment forbids the ommission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.",
+      "AnswerWithProofs": "The fourth commandment forbids the ommission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ezekiel 22:26; 23:38; Jer. 17:21; Neh. 13:15,17; Acts 20:7"
+        }
+      ]
+    },
+    {
+      "Number": "68",
+      "Question": "What are the reasons annexed to the fourth commandment?",
+      "Answer": "The reasons annexed to the fourth commandment are, God's allowing us six days of the week for our own employments, His challenging a special propriety in the seventh, His own example and His blessing the Sabbath day.",
+      "AnswerWithProofs": "The reasons annexed to the fourth commandment are, God's allowing us six days of the week for our own employments, His challenging a special propriety in the seventh, His own example and His blessing the Sabbath day.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 34:21; 31:16,17; Gen. 2:2,3"
+        }
+      ]
+    },
+    {
+      "Number": "69",
+      "Question": "Which is the fifth commandment?",
+      "Answer": "The fifth commandment is, \"Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.\"",
+      "AnswerWithProofs": "The fifth commandment is, \"Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:12"
+        }
+      ]
+    },
+    {
+      "Number": "70",
+      "Question": "What is required in the fifth commandment?",
+      "Answer": "The fifth commandment requires the preserving the honor, and performing the duties, belonging to every one in their several places and relations, as superiors, inferiors, or equals.",
+      "AnswerWithProofs": "The fifth commandment requires the preserving the honor, and performing the duties, belonging to every one in their several places and relations, as superiors, inferiors, or equals.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Lev. 19:32; 1 Peter 2:17; Rom. 13:1; Eph. 5:21,22; Eph. 6:1,5,9; Col. 3:19-22; Rom. 12:10"
+        }
+      ]
+    },
+    {
+      "Number": "71",
+      "Question": "What is forbidden in the fifth commandment?",
+      "Answer": "The fifth commandment forbids the neglecting of, or doing anything against the honor and duty which belongs to every one in their several places and relations.",
+      "AnswerWithProofs": "The fifth commandment forbids the neglecting of, or doing anything against the honor and duty which belongs to every one in their several places and relations.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Prov. 30:17; Rom. 13:7,8"
+        }
+      ]
+    },
+    {
+      "Number": "72",
+      "Question": "What is the reason annexed to the fifth commandment?",
+      "Answer": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve God's glory and their own good), to all such as keep this commandment.",
+      "AnswerWithProofs": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve God's glory and their own good), to all such as keep this commandment.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph. 6:2,3; Prov. 4:3-6; 6:20-22"
+        }
+      ]
+    },
+    {
+      "Number": "73",
+      "Question": "Which is the sixth commandment?",
+      "Answer": "The sixth commandment is, \"Thou shalt not kill.\"",
+      "AnswerWithProofs": "The sixth commandment is, \"Thou shalt not kill.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:13"
+        }
+      ]
+    },
+    {
+      "Number": "74",
+      "Question": "What is required in the sixth commandment?",
+      "Answer": "The sixth commandment requires all lawful endeavors to preserve our own life and the life of others.",
+      "AnswerWithProofs": "The sixth commandment requires all lawful endeavors to preserve our own life and the life of others.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph. 5:29,30; Ps. 82:3,4; Prov. 24:11,12; Act 16:28"
+        }
+      ]
+    },
+    {
+      "Number": "75",
+      "Question": "What is forbidden in the sixth commandment?",
+      "Answer": "The sixth commandment forbids the taking away our own life, or the life of our neighbor unjustly, or whatsoever tends thereto.",
+      "AnswerWithProofs": "The sixth commandment forbids the taking away our own life, or the life of our neighbor unjustly, or whatsoever tends thereto.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Gen. 4:10,11; 9:6; Matt. 5:21-26"
+        }
+      ]
+    },
+    {
+      "Number": "76",
+      "Question": "Which is the seventh commandment?",
+      "Answer": "The seventh commandment is, \"Thou shalt not commit adultery.\"",
+      "AnswerWithProofs": "The seventh commandment is, \"Thou shalt not commit adultery.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:14"
+        }
+      ]
+    },
+    {
+      "Number": "77",
+      "Question": "What is required in the seventh commandment?",
+      "Answer": "The seventh commandment requires the preservation of our own and our neighbor's chastity, in heart, speech, and behavior.",
+      "AnswerWithProofs": "The seventh commandment requires the preservation of our own and our neighbor's chastity, in heart, speech, and behavior.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 6:18; 7:2; 2 Tim. 2:22; Matt. 5:28; 1 Peter 3:2"
+        }
+      ]
+    },
+    {
+      "Number": "78",
+      "Question": "What is forbidden in the seventh commandment?",
+      "Answer": "The seventh commandment forbids all unchaste thoughts, words, and actions.",
+      "AnswerWithProofs": "The seventh commandment forbids all unchaste thoughts, words, and actions.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 5:28-32; Job 31:1; Eph. 5:3,4; Rom. 13:13; Col. 4:6"
+        }
+      ]
+    },
+    {
+      "Number": "79",
+      "Question": "Which is the eighth commandment?",
+      "Answer": "The eighth commandment is, \"Thou shalt not steal.\"",
+      "AnswerWithProofs": "The eighth commandment is, \"Thou shalt not steal.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:15"
+        }
+      ]
+    },
+    {
+      "Number": "80",
+      "Question": "What is required in the eighth commandment?",
+      "Answer": "The eighth commandment requires the lawful procuring and furthering the wealth and outward state of ourselves and others.",
+      "AnswerWithProofs": "The eighth commandment requires the lawful procuring and furthering the wealth and outward state of ourselves and others.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Prov. 27:23; Lev. 25:35; Deut. 15:10; 22:14"
+        }
+      ]
+    },
+    {
+      "Number": "81",
+      "Question": "What is forbidden in the eighth commandment?",
+      "Answer": "The eighth commandment forbids whatsoever does or may unjustly hinder our own or our neighbor's wealth or outward state.",
+      "AnswerWithProofs": "The eighth commandment forbids whatsoever does or may unjustly hinder our own or our neighbor's wealth or outward state.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Tim. 5:8; Prov. 28:19; 23:20,21; Eph. 4:28"
+        }
+      ]
+    },
+    {
+      "Number": "82",
+      "Question": "Which is the ninth commandment?",
+      "Answer": "The ninth commandment is, \"Thou shalt not bear false witness against thy neighbor.\"",
+      "AnswerWithProofs": "The ninth commandment is, \"Thou shalt not bear false witness against thy neighbor.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:16"
+        }
+      ]
+    },
+    {
+      "Number": "83",
+      "Question": "What is required in the ninth commandment?",
+      "Answer": "The ninth commandment requires the maintaining and promoting of truth between man and man, and of our own and our neighbor's good name, especially in witness bearing.",
+      "AnswerWithProofs": "The ninth commandment requires the maintaining and promoting of truth between man and man, and of our own and our neighbor's good name, especially in witness bearing.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Zech. 8:16; Acts 25:10; Eccles. 7:1; 3 John 12; Prov. 14:5,25"
+        }
+      ]
+    },
+    {
+      "Number": "84",
+      "Question": "What is forbidden in the ninth commandment?",
+      "Answer": "The ninth commandment forbids whatsoever is pre- judicial to truth, or injurious to our own, or our neighbor's good name.",
+      "AnswerWithProofs": "The ninth commandment forbids whatsoever is pre- judicial to truth, or injurious to our own, or our neighbor's good name.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph. 4:25; Ps. 15:3; 2 Cor. 8:20,21"
+        }
+      ]
+    },
+    {
+      "Number": "85",
+      "Question": "Which is the tenth commandment?",
+      "Answer": "The tenth commandment is, \"Thou shalt not covet thy neighbor's house. Thou shalt not covet thy neighbor's wife, nor his man servant, nor his maid servant, nor his ox, nor his ass, nor anything that is thy neighbor's.\"",
+      "AnswerWithProofs": "The tenth commandment is, \"Thou shalt not covet thy neighbor's house. Thou shalt not covet thy neighbor's wife, nor his man servant, nor his maid servant, nor his ox, nor his ass, nor anything that is thy neighbor's.\"[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Exodus 20:17"
+        }
+      ]
+    },
+    {
+      "Number": "86",
+      "Question": "What is required in the tenth commandment?",
+      "Answer": "The tenth commandment requires full contentment with our own condition, with a right and charitable frame of spirit towards our neighbor, and all that is his.",
+      "AnswerWithProofs": "The tenth commandment requires full contentment with our own condition, with a right and charitable frame of spirit towards our neighbor, and all that is his.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Heb. 13:5;1 Tim. 6:6; Rom. 12:15; 1 Cor. 13:4-7; Lev. 19:18"
+        }
+      ]
+    },
+    {
+      "Number": "87",
+      "Question": "What is forbidden in the tenth commandment?",
+      "Answer": "The tenth commandment forbids all discontentment with our own estate, envying or grieving at the good of our neighbor, and all inordinate motions and affections to anything that is his.",
+      "AnswerWithProofs": "The tenth commandment forbids all discontentment with our own estate, envying or grieving at the good of our neighbor, and all inordinate motions and affections to anything that is his.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 10:10; James 5:9; Gal. 5:26; Col. 3:5"
+        }
+      ]
+    },
+    {
+      "Number": "88",
+      "Question": "Is any man able perfectly to keep the commandments of God?",
+      "Answer": "No mere man, since the fall, is able in this life, perfectly to keep the commandments of God, but daily breaks them in thought, word, and deed.",
+      "AnswerWithProofs": "No mere man, since the fall, is able in this life, perfectly to keep the commandments of God, but daily breaks them in thought, word, and deed.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eccles. 7:20; Gen. 6:5; Gen. 8:21; 1 John 1:8; James 3:8; James 3:2; Rom. 3:23"
+        }
+      ]
+    },
+    {
+      "Number": "89",
+      "Question": "What then is the purpose of the law since the fall?",
+      "Answer": "The purpose of the law, since, the fall, is to reveal the perfect righteousness of God, that His people may know his will for their lives and the ungodly, being convicted of their sin, may be restrained therein and brought to Christ for salvation.",
+      "AnswerWithProofs": "The purpose of the law, since, the fall, is to reveal the perfect righteousness of God, that His people may know his will for their lives and the ungodly, being convicted of their sin, may be restrained therein and brought to Christ for salvation.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ps. 19:7-11; Rom. 3:20,31; 7:7; 12:2; Titus 2:12-14; Gal. 3:22,24; 1 Tim. 1:8"
+        }
+      ]
+    },
+    {
+      "Number": "90",
+      "Question": "Are all transgressions of the law equally heinous?",
+      "Answer": "Some sins in themselves and by reason of several aggravations, are more heinous in the sight of God than others.",
+      "AnswerWithProofs": "Some sins in themselves and by reason of several aggravations, are more heinous in the sight of God than others.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ezekiel 8:13; John 19:11; 1 John 5:16"
+        }
+      ]
+    },
+    {
+      "Number": "91",
+      "Question": "What does every sin deserve?",
+      "Answer": "Every sin deserves God's wrath and curse, both in this life, and in that which is to come.",
+      "AnswerWithProofs": "Every sin deserves God's wrath and curse, both in this life, and in that which is to come.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph.5:6; Gal. 3:10; Prov. 3:33; Ps. 11:6; Rev.  21:8"
+        }
+      ]
+    },
+    {
+      "Number": "92",
+      "Question": "What does God require of us, that we may escape His wrath and curse, due to us for sin?",
+      "Answer": "To escape the wrath and curse of God due to us for sin, God requires of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward and ordinary means whereby Christ communicates to us the benefits of redemption.",
+      "AnswerWithProofs": "To escape the wrath and curse of God due to us for sin, God requires of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward and ordinary means whereby Christ communicates to us the benefits of redemption.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Acts 20:21; Acts 16:30,31; 17:30"
+        }
+      ]
+    },
+    {
+      "Number": "93",
+      "Question": "What is faith in Jesus Christ?",
+      "Answer": "Faith in Jesus Christ is a saving grace, whereby we receive and rest upon Him alone for salvation, as He is offered to us in the Gospel.",
+      "AnswerWithProofs": "Faith in Jesus Christ is a saving grace, whereby we receive and rest upon Him alone for salvation, as He is offered to us in the Gospel.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Heb. 10:39; John 1:12; Phil. 3-9; Gal. 2:15,16"
+        }
+      ]
+    },
+    {
+      "Number": "94",
+      "Question": "What is repentance unto life?",
+      "Answer": "Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience.",
+      "AnswerWithProofs": "Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Acts 2:37; Joel 2:13; Jer. 31:18,19: 2 Cor.  7:10,11; Rom. 6:18"
+        }
+      ]
+    },
+    {
+      "Number": "95",
+      "Question": "What are the outward and ordinary means whereby Christ communicates to us the benefits of redemption?",
+      "Answer": "The outward and ordinary means whereby Christ communicates to us the benefits of redemption are His ordinances, especially the Word, Baptism, the Lord's Supper and Prayer; all which are made effectual to the elect for salvation.",
+      "AnswerWithProofs": "The outward and ordinary means whereby Christ communicates to us the benefits of redemption are His ordinances, especially the Word, Baptism, the Lord's Supper and Prayer; all which are made effectual to the elect for salvation.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Rom. 10:17; James 1:18; 1 Cor. 3:5; Acts 14:1; 2:41,42"
+        }
+      ]
+    },
+    {
+      "Number": "96",
+      "Question": "How is the Word made effectual to salvation?",
+      "Answer": "The Spirit of God makes the reading, but especially the preaching of the Word an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith unto salvation.",
+      "AnswerWithProofs": "The Spirit of God makes the reading, but especially the preaching of the Word an effectual means of convincing and converting sinners, and of building them up in holiness and comfort, through faith unto salvation.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Ps. 119:11,18; 1 Thess. 1:6; 1 Peter 2:1,2; Rom.  1:16; Ps. 19:7"
+        }
+      ]
+    },
+    {
+      "Number": "97",
+      "Question": "How is the Word to be read and heard that it may become effectual to salvation?",
+      "Answer": "That the Word may become effectual to salvation we must attend thereunto with diligence, preparation and prayer, receive it in faith and love, lay it up in our hearts and practice it in our lives.",
+      "AnswerWithProofs": "That the Word may become effectual to salvation we must attend thereunto with diligence, preparation and prayer, receive it in faith and love, lay it up in our hearts and practice it in our lives.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Prov. 8:34; 1 Peter 2:1,2; 1 Tim. 4:13; Heb.  2:1,3; Heb. 4:2; 2 Thess. 2:10; Ps. 119:11; James 1:21,25"
+        }
+      ]
+    },
+    {
+      "Number": "98",
+      "Question": "How do Baptism and the Lord's Supper become effectual means of salvation?",
+      "Answer": "Baptism and the Lord's Supper become effectual means of salvation, not from any virtue in them or in him that administers them, but only by the blessing of Christ and the working of His Spirit in them that by faith receive them.",
+      "AnswerWithProofs": "Baptism and the Lord's Supper become effectual means of salvation, not from any virtue in them or in him that administers them, but only by the blessing of Christ and the working of His Spirit in them that by faith receive them.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Peter 3:21; 1 Cor. 3:6,7; 1 Cor. 12:13"
+        }
+      ]
+    },
+    {
+      "Number": "99",
+      "Question": "Wherein do Baptism and the Lord's Supper differ from the other ordinances of God?",
+      "Answer": "Baptism and the Lord's Supper differ from the other ordinances of God in that they were specially instituted by Christ to represent and apply to believers the benefits of the new covenant by visible and outward signs.",
+      "AnswerWithProofs": "Baptism and the Lord's Supper differ from the other ordinances of God in that they were specially instituted by Christ to represent and apply to believers the benefits of the new covenant by visible and outward signs.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 28:19; Acts 22:16; Matt. 26:26-28; Rom. 6:4"
+        }
+      ]
+    },
+    {
+      "Number": "100",
+      "Question": "What is Baptism?",
+      "Answer": "Baptism is an holy ordinance, wherein the washing with water in the name of the Father, the Son and the Holy Spirit, signifies our ingrafting into Christ and partaking of the benefits of the covenant of grace, and our engagement to be the Lord's.",
+      "AnswerWithProofs": "Baptism is an holy ordinance, wherein the washing with water in the name of the Father, the Son and the Holy Spirit, signifies our ingrafting into Christ and partaking of the benefits of the covenant of grace, and our engagement to be the Lord's.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 28:19; Rom. 6:3-5; Col. 2:12; Gal. 3:27"
+        }
+      ]
+    },
+    {
+      "Number": "101",
+      "Question": "To whom is Baptism to be administered?",
+      "Answer": "Baptism is to be administered to all those who actually profess repentance towards God, faith in, and obedience to our Lord Jesus Christ; and to none other.",
+      "AnswerWithProofs": "Baptism is to be administered to all those who actually profess repentance towards God, faith in, and obedience to our Lord Jesus Christ; and to none other.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Acts 2:38; Matt. 3:6; Mark 16:16; Acts 8:12,36; Acts 10:47,48"
+        }
+      ]
+    },
+    {
+      "Number": "102",
+      "Question": "Are the infants of such as are professing believers to be baptized?",
+      "Answer": "The infants of such as are professing believers are not to be baptized; because there is neither command nor example in the Holy Scriptures, or certain consequence from them, to baptize such.",
+      "AnswerWithProofs": "",
+      "Proofs": []
+    },
+    {
+      "Number": "103",
+      "Question": "How is Baptism rightly administered?",
+      "Answer": "Baptism is rightly administered by immersion, or dipping the whole body of the person in water, in the name of the Father, and of the Son, and of the Holy Spirit.",
+      "AnswerWithProofs": "Baptism is rightly administered by immersion, or dipping the whole body of the person in water, in the name of the Father, and of the Son, and of the Holy Spirit.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 3:16; John 3:23; Acts 8:38,39"
+        }
+      ]
+    },
+    {
+      "Number": "104",
+      "Question": "What is the duty of those who are rightly baptized?",
+      "Answer": "It is the duty of those who are rightly baptized to give up (join) themselves to some visible and orderly church of Jesus Christ, that they may walk in all the command- ments and ordinances of the Lord blameless.",
+      "AnswerWithProofs": "It is the duty of those who are rightly baptized to give up (join) themselves to some visible and orderly church of Jesus Christ, that they may walk in all the command- ments and ordinances of the Lord blameless.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Acts 2:46,47; Acts 9:26; 1 Peter 2:5; Heb. 10:25; Rom. 16:5"
+        }
+      ]
+    },
+    {
+      "Number": "105",
+      "Question": "What is the visible church?",
+      "Answer": "The visible church is the organized society of professing believers, in all ages and places, wherein the Gospel is truly preached and the ordinances of Baptism and the Lord's Supper rightly administered.",
+      "AnswerWithProofs": "The visible church is the organized society of professing believers, in all ages and places, wherein the Gospel is truly preached and the ordinances of Baptism and the Lord's Supper rightly administered.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Acts 2:42; 20:7; Acts 7:38; Eph. 4:11,12"
+        }
+      ]
+    },
+    {
+      "Number": "106",
+      "Question": "What is the invisible church?",
+      "Answer": "The invisible church is the whole number of the elect, that have been, are, or shall be gathered into one under Christ the head.",
+      "AnswerWithProofs": "The invisible church is the whole number of the elect, that have been, are, or shall be gathered into one under Christ the head.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Eph. 1:10; 1:22,23; John 10:16; 11:52"
+        }
+      ]
+    },
+    {
+      "Number": "107",
+      "Question": "What is the Lord's Supper?",
+      "Answer": "The Lord's Supper is a holy ordinance, wherein, by giving and receiving bread and wine, according to Christ's appointment, His death is showed forth, and the worthy receivers are, not after a corporeal and carnal manner, but by faith, made partakers of His body and blood, with all His benefits, to their spiritual nourishment, and growth in grace.",
+      "AnswerWithProofs": "The Lord's Supper is a holy ordinance, wherein, by giving and receiving bread and wine, according to Christ's appointment, His death is showed forth, and the worthy receivers are, not after a corporeal and carnal manner, but by faith, made partakers of His body and blood, with all His benefits, to their spiritual nourishment, and growth in grace.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 11:23-26; 10:16"
+        }
+      ]
+    },
+    {
+      "Number": "108",
+      "Question": "What is required to the worthy receiving of the Lord's Supper?",
+      "Answer": "It is required of them that would worthily (that is, suitably) partake of the Lord's Supper, that they examine themselves, of their knowledge to discern the Lord's body; of their faith to feed upon Him; of their repentance, love, and new obedience: lest, coming unworthily, they eat and drink judgment to themselves.",
+      "AnswerWithProofs": "It is required of them that would worthily (that is, suitably) partake of the Lord's Supper, that they examine themselves, of their knowledge to discern the Lord's body; of their faith to feed upon Him; of their repentance, love, and new obedience: lest, coming unworthily, they eat and drink judgment to themselves.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 Cor. 11:27-31; 1 Cor. 5:8; 2 Cor. 13:5"
+        }
+      ]
+    },
+    {
+      "Number": "109",
+      "Question": "What is Prayer?",
+      "Answer": "Prayer is an offering up of our desires to God, for things agreeable to His will, in the name of Christ, with confession of our sins and thankful acknowledgment of His mercies.",
+      "AnswerWithProofs": "Prayer is an offering up of our desires to God, for things agreeable to His will, in the name of Christ, with confession of our sins and thankful acknowledgment of His mercies.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "1 John 5:14; 1 John 1:9; Phil. 4:6; Ps. 10:17; 145:19; John 14:13,14"
+        }
+      ]
+    },
+    {
+      "Number": "110",
+      "Question": "What rule has God given for our direction in prayer?",
+      "Answer": "The whole Word of God is of use to direct us in prayer, but the special rule of direction is that prayer, which Christ taught His disciples, commonly called the Lord's Prayer.",
+      "AnswerWithProofs": "The whole Word of God is of use to direct us in prayer, but the special rule of direction is that prayer, which Christ taught His disciples, commonly called the Lord's Prayer.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:9-13; 2 Tim. 3:16,17"
+        }
+      ]
+    },
+    {
+      "Number": "111",
+      "Question": "What does the preface of the Lord's Prayer teach us?",
+      "Answer": "The preface of the Lord's Prayer, which is, \"Our Father, which art in heaven,\" teaches us to draw near to God, with all holy reverence and confidence, as children to a father, able and ready to help us, and that we should pray with and for others.",
+      "AnswerWithProofs": "The preface of the Lord's Prayer, which is, \"Our Father, which art in heaven,\" teaches us to draw near to God, with all holy reverence and confidence, as children to a father, able and ready to help us, and that we should pray with and for others.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:9; Luke 11:13; Rom. 8:15; Acts 12:5; 1 Tim. 2:1-3"
+        }
+      ]
+    },
+    {
+      "Number": "112",
+      "Question": "What do we pray for in the first petition?",
+      "Answer": "In the first petition, which is \"Hallowed be thy name,\" we pray that God would enable us and others to glorify Him in all that whereby He makes Himself known, and that He would dispose all things to His own glory.",
+      "AnswerWithProofs": "In the first petition, which is \"Hallowed be thy name,\" we pray that God would enable us and others to glorify Him in all that whereby He makes Himself known, and that He would dispose all things to His own glory.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:9; Ps. 67:1-3; Rom. 11:36; Rev. 4:11"
+        }
+      ]
+    },
+    {
+      "Number": "113",
+      "Question": "What do we pray for in the second petition?",
+      "Answer": "In the second petition, which is \"Thy kingdom come,\" we pray that satan's kingdom may be destroyed, and that the kingdom of grace may be advanced; ourselves and others brought into it, and kept in it, and that the kingdom of glory may be hastened.",
+      "AnswerWithProofs": "In the second petition, which is \"Thy kingdom come,\" we pray that satan's kingdom may be destroyed, and that the kingdom of grace may be advanced; ourselves and others brought into it, and kept in it, and that the kingdom of glory may be hastened.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:10; Ps. 68:1-18; Rom. 10:1; 2 Thess. 3:1; Matt. 9:37,38; Rev. 22:20"
+        }
+      ]
+    },
+    {
+      "Number": "114",
+      "Question": "What do we pray for in the third petition?",
+      "Answer": "In the third petition, which is, \"Thy will be done in earth as it is in heaven,\" we pray that God by His grace, would make us able and willing to know, obey, and submit to His will in all things, as the angels do in heaven.",
+      "AnswerWithProofs": "In the third petition, which is, \"Thy will be done in earth as it is in heaven,\" we pray that God by His grace, would make us able and willing to know, obey, and submit to His will in all things, as the angels do in heaven.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:10; Ps. 103:20,21; Ps. 25:4,5; Ps. 119:26"
+        }
+      ]
+    },
+    {
+      "Number": "115",
+      "Question": "What do we pray for in the fourth petition?",
+      "Answer": "In the fourth petition, which is, \"Give us this day our daily bread,\" we pray that of God's free gift, we may receive a competent portion of the good things of this life and enjoy His blessing with them.",
+      "AnswerWithProofs": "In the fourth petition, which is, \"Give us this day our daily bread,\" we pray that of God's free gift, we may receive a competent portion of the good things of this life and enjoy His blessing with them.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:11; Prov. 30:8,9; 1 Tim. 6:6-8; 4:4,5"
+        }
+      ]
+    },
+    {
+      "Number": "116",
+      "Question": "What do we pray for in the fifth petition?",
+      "Answer": "In the fifth petition, which is, \"And forgive us our debts, as we forgive our debtors,\" we pray that God, for Christ's sake, would freely pardon all our sins; which we are the rather encouraged to ask, because by His grace we are enabled from the heart to forgive others.",
+      "AnswerWithProofs": "In the fifth petition, which is, \"And forgive us our debts, as we forgive our debtors,\" we pray that God, for Christ's sake, would freely pardon all our sins; which we are the rather encouraged to ask, because by His grace we are enabled from the heart to forgive others.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:12; Ps. 51:1,3,7; Mark 11:25; Matt. 18:35"
+        }
+      ]
+    },
+    {
+      "Number": "117",
+      "Question": "What do we pray for in the sixth petition?",
+      "Answer": "In the sixth petition, which is, \"And lead us not into temptation, but deliver us from evil,\" we pray that God would either keep us from being tempted to sin, or support and deliver us when we are tempted.",
+      "AnswerWithProofs": "In the sixth petition, which is, \"And lead us not into temptation, but deliver us from evil,\" we pray that God would either keep us from being tempted to sin, or support and deliver us when we are tempted.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:13; 26:41; Ps. 19:13; 1 Cor. 10:13; John 17:15"
+        }
+      ]
+    },
+    {
+      "Number": "118",
+      "Question": "What does the conclusion of the Lord's Prayer teach us?",
+      "Answer": "The conclusion of the Lord's Prayer, which is, \"For thine is the kingdom, and the power, and the glory, forever, Amen,\" teaches us to take our encouragement in prayer from God only, and in our prayers to praise Him, ascribing kingdom, power, and glory to Him; and in testimony of our desire, and assurance to be heard, we say, AMEN.",
+      "AnswerWithProofs": "The conclusion of the Lord's Prayer, which is, \"For thine is the kingdom, and the power, and the glory, forever, Amen,\" teaches us to take our encouragement in prayer from God only, and in our prayers to praise Him, ascribing kingdom, power, and glory to Him; and in testimony of our desire, and assurance to be heard, we say, AMEN.[1]",
+      "Proofs": [
+        {
+          "Id": "1",
+          "Reference": "Matt. 6:13; Dan. 9:18,19; 1 Chron. 29:11-13; 1 Cor. 14:16; Phil. 4:6; Rev. 22:20"
+        }
+      ]
+    }
+  ]
+}
