@@ -1,5 +1,43 @@
+<p align="center">
+  <img src="./metadata/feature_graphic.png">
+</p>
+
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
 
+## Creeds Included
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
+- [x] [ ()]()
 ## Json Structure
 
 Every json file includes a `Metadata` and `Data` attribute on the root object. The metadata structure is identical across every file. The data varies depending on the `CreedFormat` but there are some conventions.
