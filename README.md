@@ -32,12 +32,11 @@ This is a collection of historic creeds of the Christian faith. This repo focuse
 - [x] [ ()]()
 - [x] [ ()]()
 - [x] [ ()]()
-- [x] [ ()]()
-- [x] [ ()]()
-- [x] [ ()]()
-- [x] [ ()]()
-- [x] [ ()]()
-- [x] [ ()]()
+- [x] [Canons of Dort (1619)](http://apostles-creed.org/wp-content/uploads/2014/07/canons-of-dort.pdf)
+- [x] [Belgic Confession (1561)](http://apostles-creed.org/wp-content/uploads/2014/07/belgic_confession.pdf)
+- [x] [Athanasian Creed (800)](https://www.wikiwand.com/en/Athanasian_Creed)
+- [x] [Apostles' Creed (710)](https://www.crcna.org/welcome/beliefs/creeds/apostles-creed)
+- [x] [Abstract of Principles (1858)](https://www.sbts.edu/about/abstract/)
 ## Json Structure
 
 Every json file includes a `Metadata` and `Data` attribute on the root object. The metadata structure is identical across every file. The data varies depending on the `CreedFormat` but there are some conventions.
