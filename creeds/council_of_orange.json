@@ -1,19 +1,32 @@
 {
   "Metadata": {
-    "Title": "",
+    "Title": "Council of Orange",
     "AlternativeTitles": [
-      ""
+      "Second Council of Orange", "Second Synod of Orange"
     ],
-    "Year": "",
+    "Year": "529",
     "Authors": [
-      ""
+      "Caesarius of Arles",
+      "Julianus Amartolus, Bishop of Carpentras",
+      "Constantius, Bishop of Gap",
+      "Cyprianus, Bishop of Toulon",
+      "Eucherius, Bishop of Avignon",
+      "Eucherius",
+      "Heraclius, Bishop of Saint-Paul-trois-Châteaux",
+      "Principius",
+      "Philagrius, Bishop of Cavaillon",
+      "Maximus",
+      "Praetextatus, Bishop of Apt",
+      "Alethius, Bishop of Vaison",
+      "Lupercianus, Bishop of Fréjus",
+      "Vindemialis, Bishop of Orange"
     ],
-    "Location": "",
-    "OriginalLanguage": "",
-    "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
+    "Location": "Orange, France",
+    "OriginalLanguage": "Latin",
+    "OriginStory": "This councel met to decide between semi-Pelagianism and Augustinianism. They decided on semi-Augustinianism",
+    "SourceUrl": "www.onthewing.org/user/Creed_Council%20of%20Orange%20-%20Pelagianism.pdf",
+    "SourceAttribution": "Public Domain",
+    "CreedFormat": "Canon"
   },
   "Data": [
     {

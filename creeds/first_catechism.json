@@ -1,19 +1,18 @@
 {
   "Metadata": {
-    "Title": "",
+    "Title": "First Catechism",
     "AlternativeTitles": [
-      ""
     ],
-    "Year": "",
+    "Year": "1996",
     "Authors": [
-      ""
+      "GCP", "OPC", "PCA"
     ],
-    "Location": "",
-    "OriginalLanguage": "",
+    "Location": null,
+    "OriginalLanguage": "English",
     "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
+    "SourceUrl": "https://opc.org/cce/FirstCatechism.html",
+    "SourceAttribution": "Copyright - Great Commission Publications, Inc",
+    "CreedFormat": "Catechism"
   },
   "Data": [
     {

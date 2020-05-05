@@ -1,19 +1,18 @@
 {
   "Metadata": {
-    "Title": "",
+    "Title": "French Confession of Faith",
     "AlternativeTitles": [
-      ""
+      "Confession de La Rochelle", "Gallic Confession of Faith", "La Rochelle Confession of Faith"
     ],
-    "Year": "",
+    "Year": "1559",
     "Authors": [
-      ""
     ],
-    "Location": "",
-    "OriginalLanguage": "",
-    "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
+    "Location": "Paris, France",
+    "OriginalLanguage": "French",
+    "OriginStory": null,
+    "SourceUrl": "https://www.ccel.org/ccel/schaff/creeds3.iv.vii.html",
+    "SourceAttribution": "Public Domain - Translated by Emily O. Bulter (1692)",
+    "CreedFormat": "Canon"
   },
   "Data": [
     {

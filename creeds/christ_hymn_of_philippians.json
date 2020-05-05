@@ -1,21 +1,22 @@
 {
   "Metadata": {
-    "Title": "",
+    "Title": "Christ Hymn of Philippians",
     "AlternativeTitles": [
-      ""
     ],
-    "Year": "",
+    "Year": "60",
     "Authors": [
-      ""
+      "Paul"
     ],
-    "Location": "",
-    "OriginalLanguage": "",
-    "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
+    "Location": "Rome, Italy",
+    "OriginalLanguage": "Greek",
+    "OriginStory": "To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons",
+    "SourceUrl": "https://esv.literalword.com/?q=Philippians+2%3A6-10",
+    "SourceAttribution": "Copyright - ESV",
+    "CreedFormat": "Creed"
   },
   "Data": {
-    "Content": "Who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father."
+    "Content": "Who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.",
+    "ContentWithProofs": "Who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men. And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. Therefore God has highly exalted him and bestowed on him the name that is above every name, so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.[1]",
+    "Proofs": [ {"Id": "1", "References": "Phil. 2:6-10"}]
   }
 }

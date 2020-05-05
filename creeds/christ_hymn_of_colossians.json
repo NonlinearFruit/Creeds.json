@@ -1,21 +1,22 @@
 {
   "Metadata": {
-    "Title": "",
+    "Title": "Christ Hymn of Colossians",
     "AlternativeTitles": [
-      ""
     ],
-    "Year": "",
+    "Year": "60",
     "Authors": [
-      ""
+      "Paul"
     ],
-    "Location": "",
-    "OriginalLanguage": "",
-    "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
+    "Location": "Rome, Italy",
+    "OriginalLanguage": "Greek",
+    "OriginStory": "To the saints and faithful brothers in Christ at Colossae",
+    "SourceUrl": "https://esv.literalword.com/?q=colossians+1%3A15-19",
+    "SourceAttribution": "Copyright - ESV",
+    "CreedFormat": "Creed"
   },
   "Data": {
-    "Content": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together. And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross."
+    "Content": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together. And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.",
+    "ContentWithProofs": "He is the image of the invisible God, the firstborn of all creation. For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. And he is before all things, and in him all things hold together. And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. For in him all the fullness of God was pleased to dwell, and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.[1]",
+    "Proofs": [{ "Id": "1", "Reference": "Col. 1:15-19"}]
   }
 }
