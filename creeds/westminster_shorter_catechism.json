@@ -1,19 +1,18 @@
 {
   "Metadata": {
-    "Title": "",
+    "Title": "Westminster Shorter Catechism",
     "AlternativeTitles": [
-      ""
     ],
-    "Year": "",
+    "Year": "1647",
     "Authors": [
-      ""
+      "Westminster Assembly"
     ],
-    "Location": "",
-    "OriginalLanguage": "",
-    "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
+    "Location": "London, England",
+    "OriginalLanguage": "English",
+    "OriginStory": null,
+    "SourceUrl": "https://www.apuritansmind.com/westminster-standards/shorter-catechism/",
+    "SourceAttribution": "Public Domain",
+    "CreedFormat": "Catechism"
   },
   "Data": [
     {

@@ -1,21 +1,23 @@
 {
   "Metadata": {
-    "Title": "",
+    "Title": "Shema Yisrael",
     "AlternativeTitles": [
-      ""
+      "Shema Israel", "Sh'ma Yisrael"
     ],
-    "Year": "",
+    "Year": "-1500",
     "Authors": [
-      ""
+      "Moses"
     ],
     "Location": "",
-    "OriginalLanguage": "",
+    "OriginalLanguage": "Hebrew",
     "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
+    "SourceUrl": "https://esv.literalword.com/?q=deut+6%3A4",
+    "SourceAttribution": "Copyright - ESV",
+    "CreedFormat": "Creed"
   },
   "Data": {
-    "Content": "Hear, O Israel: The LORD our God, the LORD is one."
+    "Content": "Hear, O Israel: The LORD our God, the LORD is one.",
+    "ContentWithProofs": "Hear, O Israel: The LORD our God, the LORD is one.[1]",
+    "Proofs": [{"Id": "1", "References":"Deut. 6:4"}]
   }
 }
