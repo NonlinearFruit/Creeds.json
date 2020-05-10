@@ -22,6 +22,7 @@ This is a collection of historic creeds of the Christian faith. This repo focuse
 - [x] [First Helvetic Confession (1536)](https://quod.lib.umich.edu/e/eebo/A13256.0001.001?rgn=main;view=fulltext)
 - [x] [French Confession of Faith (1559)](https://www.ccel.org/ccel/schaff/creeds3.iv.vii.html)
 - [x] [Heidelberg Catechism (1563)](http://apostles-creed.org/wp-content/uploads/2014/07/Heidelberg-Catechism-with-Intro.pdf)
+- [x] [Helvetic Consensus (1675)](http://apostles-creed.org/wp-content/uploads/2014/07/Creed_Helvetic.pdf)
 - [x] [Irenaeus' Rule of Faith (180)](https://ccel.org/ccel/irenaeus/against_heresies_i/anf01.ix.ii.xi.html)
 - [x] [Keach's Catechism (1693)](http://www.reformedreader.org/ccc/keachcat.htm)
 - [x] [1689 London Baptist Confession (1677)](http://apostles-creed.org/wp-content/uploads/2014/07/London-Baptist-of-Faith-1689.pdf)
