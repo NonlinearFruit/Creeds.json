@@ -16,6 +16,7 @@ This is a collection of historic creeds of the Christian faith. This repo focuse
 - [x] [Christ Hymn of Colossians (60)](https://esv.literalword.com/?q=colossians+1%3A15-19)
 - [x] [Christ Hymn of Philippians (60)](https://esv.literalword.com/?q=Philippians+2%3A6-10)
 - [x] [Confession of Peter (30)]()
+- [x] [Consensus Tigurinus (1549)](http://apostles-creed.org/wp-content/uploads/2014/07/The-Consenus-Tigurinus-Zurich.pdf)
 - [x] [Council of Orange (529)](www.onthewing.org/user/Creed_Council%20of%20Orange%20-%20Pelagianism.pdf)
 - [x] [First Catechism (1996)](https://opc.org/cce/FirstCatechism.html)
 - [x] [First Confession of Basel (1534)](http://apostles-creed.org/wp-content/uploads/2014/09/The-First-Confession-of-Basel-1534.pdf)
