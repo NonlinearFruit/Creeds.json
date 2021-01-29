@@ -40,6 +40,7 @@ This is a collection of historic creeds of the Christian faith. This repo focuse
 - [x] [Westminster Larger Catechism (1647)](http://apostles-creed.org/wp-content/uploads/2014/07/the-westminster-larger-catechism.pdf)
 - [x] [Westminster Shorter Catechism (1647)](https://www.apuritansmind.com/westminster-standards/shorter-catechism/)
 - [x] [Zwingli's 67 Articles (1523)](https://christianhistoryinstitute.org/study/module/zwinglis-sixty-seven-articles/)
+- [x] [Zwingli's Fidei Ratio (1530)](https://quod.lib.umich.edu/e/eebo2/A15880.0001.001?rgn=main;view=fulltext)
 ## Json Structure
 
 Every json file includes a `Metadata` and `Data` attribute on the root object. The metadata structure is identical across every file. The data varies depending on the `CreedFormat` but there are some conventions.
