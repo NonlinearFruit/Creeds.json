@@ -3,7 +3,16 @@
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
+## Copyrights
 
+This repo is not licensed for reuse due to the copyright right status of several texts (listed here). To reuse these texts, explicit permission needs to be granted by the copyright holder.
+
+- [Chicago Statement on Biblical Inerrancy](https://library.dts.edu/Pages/TL/Special/ICBI_1.pdf) <Copyright - Alliance of Confessing Evangelicals, Inc>
+- [Christ Hymn of Colossians](https://esv.literalword.com/?q=colossians+1%3A15-19) <Copyright - Crossway>
+- [Christ Hymn of Philippians](https://esv.literalword.com/?q=Philippians+2%3A6-10) <Copyright - Crossway>
+- [Confession of Peter](https://esv.literalword.com/?q=Matthew+16%3A16) <Copyright - Crossway>
+- [Helvetic Consensus](http://apostles-creed.org/wp-content/uploads/2014/07/Creed_Helvetic.pdf) <Translation Copyright 1990 - Martin Klauber>
+- [Shema Yisrael](https://esv.literalword.com/?q=deut+6%3A4) <Copyright - Crossway>
 ## Creeds Included
 - [x] [Abstract of Principles (1858)](https://www.sbts.edu/about/abstract/)
 - [x] [Apostles' Creed (710)](https://www.crcna.org/welcome/beliefs/creeds/apostles-creed)
@@ -15,10 +24,9 @@ This is a collection of historic creeds of the Christian faith. This repo focuse
 - [x] [Chicago Statement on Biblical Inerrancy (1978)](https://library.dts.edu/Pages/TL/Special/ICBI_1.pdf)
 - [x] [Christ Hymn of Colossians (60)](https://esv.literalword.com/?q=colossians+1%3A15-19)
 - [x] [Christ Hymn of Philippians (60)](https://esv.literalword.com/?q=Philippians+2%3A6-10)
-- [x] [Confession of Peter (30)]()
+- [x] [Confession of Peter (30)](https://esv.literalword.com/?q=Matthew+16%3A16)
 - [x] [Consensus Tigurinus (1549)](http://apostles-creed.org/wp-content/uploads/2014/07/The-Consenus-Tigurinus-Zurich.pdf)
 - [x] [Council of Orange (529)](www.onthewing.org/user/Creed_Council%20of%20Orange%20-%20Pelagianism.pdf)
-- [x] [First Catechism (1996)](https://opc.org/cce/FirstCatechism.html)
 - [x] [First Confession of Basel (1534)](http://apostles-creed.org/wp-content/uploads/2014/09/The-First-Confession-of-Basel-1534.pdf)
 - [x] [First Helvetic Confession (1536)](https://quod.lib.umich.edu/e/eebo/A13256.0001.001?rgn=main;view=fulltext)
 - [x] [French Confession of Faith (1559)](https://www.ccel.org/ccel/schaff/creeds3.iv.vii.html)
