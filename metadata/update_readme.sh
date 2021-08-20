@@ -53,7 +53,7 @@ jq '.Books[] | " - [\(.Title) by \(.Author) (\(.PublishYear))](\(.Url)) » \(.De
 cat >> $readme << 'END'
 ## Data
 END
-jq '.Data[] | " - [\(.Title)](\(.Url)) » \(.Description) ![GitHub last commit](https://img.shields.io/github/last-commit/\(.UserRepo)) ![GitHub Repo stars](https://img.shields.io/github/stars/\(.UserRepo))"' $resources --raw-output >> $readme
+jq '.Data[] | " - [\(.Title)](\(.Url)) » \(.Description) ![GitHub last commit](https://img.shields.io/github/last-commit/\(.UserRepo).svg) ![GitHub Repo stars](https://img.shields.io/github/stars/\(.UserRepo).svg)"' $resources --raw-output >> $readme
 
 # WEBSITES
 cat >> $readme << 'END'
