@@ -1,4 +1,5 @@
 readme="README.md"
+resources="metadata/resources.json"
 
 # BEGINNING
 cat > $readme << 'END'
@@ -23,137 +24,45 @@ done
 # CREEDS
 cat >> $readme << 'END'
 ## Creeds Included
+
+Read more about the json structure [here](https://github.com/NonlinearFruit/Creeds.json/wiki/Json-Structure)
+
 END
 for file in $(ls creeds/); do
   jq '.Metadata | " - [x] [\(.Title) (\(.Year))](\(.SourceUrl))"' "creeds/${file}" --raw-output >> $readme
 done
 
-# END
+# EXTRAS
 cat >> $readme << 'END'
-## Json Structure
-
-Every json file includes a `Metadata` and `Data` attribute on the root object. The metadata structure is identical across every file. The data varies depending on the `CreedFormat` but there are some conventions.
-
-### Json Conventions
-
-- The bulk text of a creed should be in `Content` attributes
-
-### Metadata Structure
-
-```
-{
-  "Metadata": {
-    "Title": "",
-    "AlternativeTitles": [""],
-    "Year": "",
-    "Authors": [""],
-    "Location": "",
-    "OriginalLanguage": "",
-    "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
-  }
-}
-```
-
-### Creed Formats
-
-There are several 'formats' to these creeds. Here are the big 4 and what they are called.
-
-#### Creed
-
-This format is named such due to most of the earliest creeds falling into this category.
-
-```
-{
-  "Data": {
-    "Content": "..."
-  }
-}
-```
-
-#### Canon
-
-This format needed a name and so it has one. Though maybe 'Consensus' would be more fitting.
-
-```
-{
-  "Data": [
-    {
-      "Article": "",
-      "Title": "",
-      "Content": "..."
-    }
-  ]
-}
-```
-
-#### Confession
-
-This format is named after the Westminster Confession, which has chapters with sections.
-
-```
-{
-  "Data": [
-    {
-      "Chapter": "",
-      "Title": "",
-      "Sections": [
-        {
-          "Section": "",
-          "Content": "..."
-        }
-      ]
-    }
-  ]
-}
-```
-
-#### Catechism
-
-The only format with an intuitive name.
-
-```
-{
-  "Data": [
-    {
-      "Number": "",
-      "Question": "...",
-      "Answer": "..."
-    }
-  ]
-}
-```
-
-### Proof Texts
-
-Any object with a `Content` attribute could optionally have proof texts for that content.
-
-```
-{
-  "Content": "...",
-  "ContentWithProofs": "...",
-  "Proofs": [
-    {
-      "Id": "",
-      "References": ""
-    }
-  ],
-  "ProofsWithScripture`": [
-    {
-      "Id": "",
-      "References": ""
-    }
-  ]
-}
-```
-
-## Handy Dandy Scripts
-
-Add metadata to existing json:
-
-```
-jq '{ "Metadata": { "Title": "", "AlternativeTitles": [""], "Year": "", "Authors": [""], "Location": "", "OriginalLanguage": "", "OriginStory": "", "SourceUrl": "", "SourceAttribution": "", "CreedFormat": "" }, "Data": . }' ten_theses_of_berne.json
-```
+# Additional Resources (aka Bonus Content!)
 END
+
+# ANDROID
+cat >> $readme << 'END'
+## Android Apps
+END
+jq '.Android[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme
+
+# BOOKS
+cat >> $readme << 'END'
+## Books
+END
+jq '.Books[] | " - [\(.Title) by \(.Author) (\(.PublishYear))](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme
+
+# DATA
+cat >> $readme << 'END'
+## Data
+END
+jq '.Data[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme
+
+# WEBSITES
+cat >> $readme << 'END'
+## Websites
+END
+jq '.Websites[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme
+
+# IOS
+cat >> $readme << 'END'
+## iOS
+END
+jq '.iOS[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme

@@ -14,6 +14,9 @@ This repo is not licensed for reuse due to the copyright right status of several
  - [Helvetic Consensus](http://apostles-creed.org/wp-content/uploads/2014/07/Creed_Helvetic.pdf) <Translation Copyright 1990 - Martin Klauber>
  - [Shema Yisrael](https://esv.literalword.com/?q=deut+6%3A4) <Copyright - Crossway>
 ## Creeds Included
+
+Read more about the json structure [here](https://github.com/NonlinearFruit/Creeds.json/wiki/Json-Structure)
+
  - [x] [Abstract of Principles (1858)](https://www.sbts.edu/about/abstract/)
  - [x] [Apostles' Creed (710)](https://www.crcna.org/welcome/beliefs/creeds/apostles-creed)
  - [x] [Athanasian Creed (800)](https://www.wikiwand.com/en/Athanasian_Creed)
@@ -50,129 +53,21 @@ This repo is not licensed for reuse due to the copyright right status of several
  - [x] [Westminster Shorter Catechism (1647)](https://www.apuritansmind.com/westminster-standards/shorter-catechism/)
  - [x] [Zwingli's 67 Articles (1523)](https://christianhistoryinstitute.org/study/module/zwinglis-sixty-seven-articles/)
  - [x] [Zwingli's Fidei Ratio (1530)](https://quod.lib.umich.edu/e/eebo2/A15880.0001.001?rgn=main;view=fulltext)
-## Json Structure
-
-Every json file includes a `Metadata` and `Data` attribute on the root object. The metadata structure is identical across every file. The data varies depending on the `CreedFormat` but there are some conventions.
-
-### Json Conventions
-
-- The bulk text of a creed should be in `Content` attributes
-
-### Metadata Structure
-
-```
-{
-  "Metadata": {
-    "Title": "",
-    "AlternativeTitles": [""],
-    "Year": "",
-    "Authors": [""],
-    "Location": "",
-    "OriginalLanguage": "",
-    "OriginStory": "",
-    "SourceUrl": "",
-    "SourceAttribution": "",
-    "CreedFormat": ""
-  }
-}
-```
-
-### Creed Formats
-
-There are several 'formats' to these creeds. Here are the big 4 and what they are called.
-
-#### Creed
-
-This format is named such due to most of the earliest creeds falling into this category.
-
-```
-{
-  "Data": {
-    "Content": "..."
-  }
-}
-```
-
-#### Canon
-
-This format needed a name and so it has one. Though maybe 'Consensus' would be more fitting.
-
-```
-{
-  "Data": [
-    {
-      "Article": "",
-      "Title": "",
-      "Content": "..."
-    }
-  ]
-}
-```
-
-#### Confession
-
-This format is named after the Westminster Confession, which has chapters with sections.
-
-```
-{
-  "Data": [
-    {
-      "Chapter": "",
-      "Title": "",
-      "Sections": [
-        {
-          "Section": "",
-          "Content": "..."
-        }
-      ]
-    }
-  ]
-}
-```
-
-#### Catechism
-
-The only format with an intuitive name.
-
-```
-{
-  "Data": [
-    {
-      "Number": "",
-      "Question": "...",
-      "Answer": "..."
-    }
-  ]
-}
-```
-
-### Proof Texts
-
-Any object with a `Content` attribute could optionally have proof texts for that content.
-
-```
-{
-  "Content": "...",
-  "ContentWithProofs": "...",
-  "Proofs": [
-    {
-      "Id": "",
-      "References": ""
-    }
-  ],
-  "ProofsWithScripture`": [
-    {
-      "Id": "",
-      "References": ""
-    }
-  ]
-}
-```
-
-## Handy Dandy Scripts
-
-Add metadata to existing json:
-
-```
-jq '{ "Metadata": { "Title": "", "AlternativeTitles": [""], "Year": "", "Authors": [""], "Location": "", "OriginalLanguage": "", "OriginStory": "", "SourceUrl": "", "SourceAttribution": "", "CreedFormat": "" }, "Data": . }' ten_theses_of_berne.json
-```
+# Additional Resources (aka Bonus Content!)
+## Android Apps
+ - [Creeds](https://play.google.com/store/apps/details?id=com.nonlinearfruit.creeds) » Read, search, copy classic creeds
+ - [Creeds and Confessions](play.google.com/store/apps/details?id=nz.co.conglomo.confessions) » Creeds and Confessions Mobile App
+## Books
+ - [Creeds of Christendom (Vol 1-3) by Philip Schaff (1876)](https://www.ccel.org/ccel/schaff/creeds1) » Through Creeds of Christendom, Schaff aims to bring understanding to those who adhere to different creeds. He wisely reminds us that despite varying Christian denominations, Christ always remains at the center of the creeds.
+ - [Reformed Confessions of the 16th and 17th Centuries (Vol 1-4) by James T. Dennison Jr (2008)](https://www.heritagebooks.org/products/reformed-confessions-of-the-16th-and-17th-centuries-in-english-translation-volume-1-1523-1552-dennison-ed.html) » This four volume set compiles numerous Reformed confessions of the sixteenth and seventeenth centuries translated into English. For many of these texts, this is their debut in the Anglo-Saxon vernacular.
+## Data
+ - [Creeds.json](https://github.com/NonlinearFruit/Creeds.json) » You're looking at it!
+ - [Standards Bot](https://github.com/Nokeo08/standardsbot) » A reddit bot that is triggered by reddit comments made in /r/Reformed that references various christian confessions and catechisms.
+ - [Reformed Standards](https://github.com/reformed-standards/compendium) » The compendium is a collection of reformed documents, such as confessions and catechisms.
+## Websites
+ - [Creeds](https://nonlinearfruit.github.io/Creeds-Blazor/) » Read, search, copy classic creeds
+ - [Reformed Standards](https://reformedstandards.com) » All the reformed documents in one tidy package
+ - [Westminster Assembly Project](https://westminsterassembly.org) » The Westminster Assembly Project exists to make the writings of the Westminster Assembly and its members available to scholars and to the general public.
+ - [Relight](https://relight.app) » Relight dreams of one day becoming a fully-featured app for studying the Bible and theology from a reformed perspective.
+## iOS
+ - [Christian Creeds & Confessions](https://apps.apple.com/us/app/christian-creeds-confessions/id359513722#?platform=iphone) » This application provides a searchable library of the most universally used Christian creeds, confessions and catechisms of the Continental Reformed and English Presbyterian churches.

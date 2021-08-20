@@ -1,0 +1,76 @@
+{
+  "Android": [ 
+    {
+      "Title": "Creeds",
+      "Url": "https://play.google.com/store/apps/details?id=com.nonlinearfruit.creeds",
+      "Description": "Read, search, copy classic creeds"
+    },
+    {
+      "Title": "Creeds and Confessions",
+      "Url": "play.google.com/store/apps/details?id=nz.co.conglomo.confessions",
+      "Description": "Creeds and Confessions Mobile App"
+    }
+  ],
+  "Books": [ 
+    {
+      "Title": "Creeds of Christendom (Vol 1-3)",
+      "Author": "Philip Schaff",
+      "PublishYear": 1876,
+      "Url": "https://www.ccel.org/ccel/schaff/creeds1",
+      "Description": "Through Creeds of Christendom, Schaff aims to bring understanding to those who adhere to different creeds. He wisely reminds us that despite varying Christian denominations, Christ always remains at the center of the creeds."
+    },
+    {
+      "Title": "Reformed Confessions of the 16th and 17th Centuries (Vol 1-4)",
+      "Author": "James T. Dennison Jr",
+      "PublishYear": 2008,
+      "Url": "https://www.heritagebooks.org/products/reformed-confessions-of-the-16th-and-17th-centuries-in-english-translation-volume-1-1523-1552-dennison-ed.html",
+      "Description": "This four volume set compiles numerous Reformed confessions of the sixteenth and seventeenth centuries translated into English. For many of these texts, this is their debut in the Anglo-Saxon vernacular."
+    }
+  ],
+  "Data": [ 
+    {
+      "Title": "Creeds.json",
+      "Url": "https://github.com/NonlinearFruit/Creeds.json",
+      "Description": "You're looking at it!"
+    },
+    {
+      "Title": "Standards Bot",
+      "Url": "https://github.com/Nokeo08/standardsbot",
+      "Description": "A reddit bot that is triggered by reddit comments made in /r/Reformed that references various christian confessions and catechisms."
+    },
+    {
+      "Title": "Reformed Standards",
+      "Url": "https://github.com/reformed-standards/compendium",
+      "Description": "The compendium is a collection of reformed documents, such as confessions and catechisms."
+    }
+  ],
+  "Websites": [ 
+    {
+      "Title": "Creeds",
+      "Url": "https://nonlinearfruit.github.io/Creeds-Blazor/",
+      "Description": "Read, search, copy classic creeds"
+    },
+    {
+      "Title": "Reformed Standards",
+      "Url": "https://reformedstandards.com",
+      "Description": "All the reformed documents in one tidy package"
+    },
+    {
+      "Title": "Westminster Assembly Project",
+      "Url": "https://westminsterassembly.org",
+      "Description": "The Westminster Assembly Project exists to make the writings of the Westminster Assembly and its members available to scholars and to the general public."
+    },
+    {
+      "Title": "Relight",
+      "Url": "https://relight.app",
+      "Description": "Relight dreams of one day becoming a fully-featured app for studying the Bible and theology from a reformed perspective."
+    }
+  ],
+  "iOS": [ 
+    {
+      "Title": "Christian Creeds & Confessions",
+      "Url": "https://apps.apple.com/us/app/christian-creeds-confessions/id359513722#?platform=iphone",
+      "Description": "This application provides a searchable library of the most universally used Christian creeds, confessions and catechisms of the Continental Reformed and English Presbyterian churches."
+    }
+  ]
+}
