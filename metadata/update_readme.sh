@@ -41,7 +41,7 @@ END
 cat >> $readme << 'END'
 ## Android Apps
 END
-jq '.Android[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme
+jq '.Android[] | " - [\(.Title)](\(.Url)) » \(.Description) ![Installs](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3D\(.Id)%26l%3Dinstalls%26m%3D%24installs) ![Rating](https://img.shields.io/endpoint?color=blue&logo=google-play&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3D\(.Id)%26l%3Drating%26m%3D%24rating)"' $resources --raw-output >> $readme
 
 # BOOKS
 cat >> $readme << 'END'
@@ -53,7 +53,7 @@ jq '.Books[] | " - [\(.Title) by \(.Author) (\(.PublishYear))](\(.Url)) » \(.De
 cat >> $readme << 'END'
 ## Data
 END
-jq '.Data[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme
+jq '.Data[] | " - [\(.Title)](\(.Url)) » \(.Description) ![GitHub last commit](https://img.shields.io/github/last-commit/\(.UserRepo)) ![GitHub Repo stars](https://img.shields.io/github/stars/\(.UserRepo))"' $resources --raw-output >> $readme
 
 # WEBSITES
 cat >> $readme << 'END'
@@ -63,6 +63,6 @@ jq '.Websites[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw
 
 # IOS
 cat >> $readme << 'END'
-## iOS
+## iOS Apps
 END
 jq '.iOS[] | " - [\(.Title)](\(.Url)) » \(.Description)"' $resources --raw-output >> $readme

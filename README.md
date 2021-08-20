@@ -55,19 +55,19 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Zwingli's Fidei Ratio (1530)](https://quod.lib.umich.edu/e/eebo2/A15880.0001.001?rgn=main;view=fulltext)
 # Additional Resources (aka Bonus Content!)
 ## Android Apps
- - [Creeds](https://play.google.com/store/apps/details?id=com.nonlinearfruit.creeds) » Read, search, copy classic creeds
- - [Creeds and Confessions](play.google.com/store/apps/details?id=nz.co.conglomo.confessions) » Creeds and Confessions Mobile App
+ - [Creeds](https://play.google.com/store/apps/details?id=com.nonlinearfruit.creeds) » Read, search, copy classic creeds ![Installs](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.nonlinearfruit.creeds%26l%3Dinstalls%26m%3D%24installs) ![Rating](https://img.shields.io/endpoint?color=blue&logo=google-play&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.nonlinearfruit.creeds%26l%3Drating%26m%3D%24rating)
+ - [Creeds and Confessions](https://play.google.com/store/apps/details?id=nz.co.conglomo.confessions) » Creeds and Confessions Mobile App ![Installs](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dnz.co.conglomo.confessions%26l%3Dinstalls%26m%3D%24installs) ![Rating](https://img.shields.io/endpoint?color=blue&logo=google-play&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dnz.co.conglomo.confessions%26l%3Drating%26m%3D%24rating)
 ## Books
  - [Creeds of Christendom (Vol 1-3) by Philip Schaff (1876)](https://www.ccel.org/ccel/schaff/creeds1) » Through Creeds of Christendom, Schaff aims to bring understanding to those who adhere to different creeds. He wisely reminds us that despite varying Christian denominations, Christ always remains at the center of the creeds.
  - [Reformed Confessions of the 16th and 17th Centuries (Vol 1-4) by James T. Dennison Jr (2008)](https://www.heritagebooks.org/products/reformed-confessions-of-the-16th-and-17th-centuries-in-english-translation-volume-1-1523-1552-dennison-ed.html) » This four volume set compiles numerous Reformed confessions of the sixteenth and seventeenth centuries translated into English. For many of these texts, this is their debut in the Anglo-Saxon vernacular.
 ## Data
- - [Creeds.json](https://github.com/NonlinearFruit/Creeds.json) » You're looking at it!
- - [Standards Bot](https://github.com/Nokeo08/standardsbot) » A reddit bot that is triggered by reddit comments made in /r/Reformed that references various christian confessions and catechisms.
- - [Reformed Standards](https://github.com/reformed-standards/compendium) » The compendium is a collection of reformed documents, such as confessions and catechisms.
+ - [Creeds.json](https://github.com/NonlinearFruit/Creeds.json) » You're looking at it! ![GitHub last commit](https://img.shields.io/github/last-commit/NonlinearFruit/Creeds.json) ![GitHub Repo stars](https://img.shields.io/github/stars/NonlinearFruit/Creeds.json)
+ - [Standards Bot](https://github.com/Nokeo08/standardsbot) » A reddit bot that is triggered by reddit comments made in /r/Reformed that references various christian confessions and catechisms. ![GitHub last commit](https://img.shields.io/github/last-commit/Nokeo08/standardsbot) ![GitHub Repo stars](https://img.shields.io/github/stars/Nokeo08/standardsbot)
+ - [Reformed Standards](https://github.com/reformed-standards/compendium) » The compendium is a collection of reformed documents, such as confessions and catechisms. ![GitHub last commit](https://img.shields.io/github/last-commit/reformed-standards/compendium) ![GitHub Repo stars](https://img.shields.io/github/stars/reformed-standards/compendium)
 ## Websites
  - [Creeds](https://nonlinearfruit.github.io/Creeds-Blazor/) » Read, search, copy classic creeds
  - [Reformed Standards](https://reformedstandards.com) » All the reformed documents in one tidy package
  - [Westminster Assembly Project](https://westminsterassembly.org) » The Westminster Assembly Project exists to make the writings of the Westminster Assembly and its members available to scholars and to the general public.
  - [Relight](https://relight.app) » Relight dreams of one day becoming a fully-featured app for studying the Bible and theology from a reformed perspective.
-## iOS
+## iOS Apps
  - [Christian Creeds & Confessions](https://apps.apple.com/us/app/christian-creeds-confessions/id359513722#?platform=iphone) » This application provides a searchable library of the most universally used Christian creeds, confessions and catechisms of the Continental Reformed and English Presbyterian churches.

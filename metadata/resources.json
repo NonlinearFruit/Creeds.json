@@ -2,12 +2,14 @@
   "Android": [ 
     {
       "Title": "Creeds",
+      "Id": "com.nonlinearfruit.creeds",
       "Url": "https://play.google.com/store/apps/details?id=com.nonlinearfruit.creeds",
       "Description": "Read, search, copy classic creeds"
     },
     {
       "Title": "Creeds and Confessions",
-      "Url": "play.google.com/store/apps/details?id=nz.co.conglomo.confessions",
+      "Id": "nz.co.conglomo.confessions",
+      "Url": "https://play.google.com/store/apps/details?id=nz.co.conglomo.confessions",
       "Description": "Creeds and Confessions Mobile App"
     }
   ],
@@ -30,16 +32,19 @@
   "Data": [ 
     {
       "Title": "Creeds.json",
+      "UserRepo": "NonlinearFruit/Creeds.json",
       "Url": "https://github.com/NonlinearFruit/Creeds.json",
       "Description": "You're looking at it!"
     },
     {
       "Title": "Standards Bot",
+      "UserRepo": "Nokeo08/standardsbot",
       "Url": "https://github.com/Nokeo08/standardsbot",
       "Description": "A reddit bot that is triggered by reddit comments made in /r/Reformed that references various christian confessions and catechisms."
     },
     {
       "Title": "Reformed Standards",
+      "UserRepo": "reformed-standards/compendium",
       "Url": "https://github.com/reformed-standards/compendium",
       "Description": "The compendium is a collection of reformed documents, such as confessions and catechisms."
     }
