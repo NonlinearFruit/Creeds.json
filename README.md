@@ -67,6 +67,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
 ## Websites
  - [Creeds](https://nonlinearfruit.github.io/Creeds-Blazor/) » Read, search, copy classic creeds
  - [Reformed Standards](https://reformedstandards.com) » All the reformed documents in one tidy package
+ - [Creeds and Confessions](https://confessions.azurewebsites.net) » 
  - [Westminster Assembly Project](https://westminsterassembly.org) » The Westminster Assembly Project exists to make the writings of the Westminster Assembly and its members available to scholars and to the general public.
  - [Relight](https://relight.app) » Relight dreams of one day becoming a fully-featured app for studying the Bible and theology from a reformed perspective.
 ## iOS Apps
