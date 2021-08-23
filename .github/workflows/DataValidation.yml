@@ -10,6 +10,6 @@ jobs:
       - name: Install Schema Checker
         run: 'pip install jsonschema'
       - name: Install Shell Spec
-        run: 'curl -fsSL https://git.io/shellspec | sh'
+        run: 'curl -fsSL https://git.io/shellspec | sh -- -y'
       - name: Run Tests
         run: 'shellspec'
