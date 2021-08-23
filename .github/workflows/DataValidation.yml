@@ -1,0 +1,15 @@
+name: Validate Data
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Schema Checker
+        run: 'pip install jsonschema'
+      - name: Install Shell Spec
+        run: 'curl -fsSL https://git.io/shellspec | sh'
+      - name: Run Tests
+        run: 'shellspec'
