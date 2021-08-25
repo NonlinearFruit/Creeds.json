@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./metadata/feature_graphic.png">
 </p>
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests)
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
 ## Copyrights
