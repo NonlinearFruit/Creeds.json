@@ -23,21 +23,21 @@
       "ContentWithProofs": "We believe in God the Father, God the Son, God the Holy Spirit, one holy, divine Trinity, three Persons and one single, eternal, almighty God, in essence and substance, and not three gods. We also believe that God has created all things by His eternal Word, that is, by His only-begotten Son, and preserves and strengthens all things by His Spirit, that is, by His power; and therefore, God sustains and governs all things as He created them.[1]\n\nHence we confess that before He created the world God elected all those upon whom He willed to bestow the inheritance of eternal salvation.[2]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Gen. 1:1; John 1:14; I Chron. 29:11-12; Acts 2:23"
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Rom. 8:28; 9:6; 11:5; Eph. 1:4"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "The universal faith. This is proved by the whole Scriptures of the Old and New Testaments in many passages. Gen. 1:1 ff.; John 1:14; I Chron. 29:11.12; Acts 2:23."
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Rom. 8:28 ff.; 9:6 ff.; 11:5 ff.; Eph. 1:4 ff."
         }
       ]
@@ -49,13 +49,13 @@
       "ContentWithProofs": "We confess that in the beginning God made man faultless in the likeness of righteousness and holiness. But he willfully fell into sin. Through this fall the whole human race was corrupted and made subject to damnation. Moreover, our nature was enfeebled and became so inclined to sin that, unless it is restored by the Spirit of God, man neither does nor wants to do anything good of himself.[1]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Gen. 1:26; Eph. 4:21; Gen. 8:6; 5:3; Rom. 5:12, 15; I Cor.  15:21; Eph. 2:1; Gen. 6:5; 8:21; John 3:3; Rom. 3:10, 23; Ps. 143:2, 10; Eph. 2:1"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Gen. 1:26; Eph. 4:21; Gen. 8:6; 5:3; Rom. 5:12, 15 ff.: I Cor.  15:21 f.; Eph. 2:1 ff.; Gen. 6:5; 8:21; John 3:3 ff.; Rom. 3:10 ff., 23; Ps. 143:2, 10; Eph. 2:1 ff."
         }
       ]
@@ -67,13 +67,13 @@
       "ContentWithProofs": "Although man through the fall became subject to damnation and became God's enemy, yet God never ceased to care for the human race. Witnesses to this are the patriarchs, the promises before and after the flood, the law given by God through Moses, and the holy prophets.[1]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Rom. 5:16; Gen. 3:15; 21:15; 26:3-4, 24; 28:13"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Rom. 5:16; Gen. 3:15; 21:15; 26:3-4, 24; 28:13"
         }
       ]
@@ -85,21 +85,21 @@
       "ContentWithProofs": "We firmly believe and confess that Christ was given to us by the Father at the appointed time according to the promises of God, and that the eternal, divine Word became flesh, that is, the Son of God, united with human nature in one person, became our brother in order that we might become heirs of God through Him.[1]\n\nConcerning this Jesus Christ, we believe that He was conceived by the Holy Spirit, born of the pure, undefiled Virgin Mary, suffered tinder Pontius Pilate, was crucified and died for our sins; and thus by offering up Himself He made satisfaction to God for our sins and the sins of all believers and reconciled us to God, our heavenly Father, and by His death has conquered and overcome the world, death and hell. Moreover, we believe that according to the flesh He was buried, descended into hell, on the third day rose from the dead, and when He had sufficiently shown himself, He ascended into heaven with body and soul where He sits at the right hand of God in the glory of God His heavenly Father, whence He will come to judge the living and the dead. Furthermore, as He had promised He sent to His disciples His Holy Spirit, in whom we believe even as we believe in the Father and the Son.[2]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Man. 1:20; Luke 2:10; John 1:14; Phil. 2:6-7; Rom. 6:8; Rom. 8:15; Heb. 2:10"
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Matt. 1:18; Luke 1:35; 2:7; Matt. 20:28; 26:28; Rom. 5:6; I Cor. 15:3; 1 Peter 2:24; Heb. 9:14, 26, 28; 10:10, 12, 14; Rom. 6:10; I Peter 3:18; John 16:11, 33; Phil. 2:9; Col. 2:14; I Cor. 15:4, 14; Mark 16:19; Luke 24:51; Acts 1:9; Matt. 26:64; Eph. 1:20; Col. 3:1; Heb. 1:13; 10:12; 12:2; Acts 2:1"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Man. 1:20 ff.; Luke 2:10 ff.; John 1:14; Phil. 2:6-7. We have one Father, namely, God through Christ. Rom. 6:8 f.; Rom. 8:15 ff.; Heb. 2:10 f."
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Matt. 1:18 ff.; Luke 1:35; 2:7. All the Evangelists attest it.  Matt. 20:28; 26e28; Rom. 5:6 ff.; I Cor. 15:3 f.; 1 Peter 2:24; Heb. 9:14 1.; 26. 28; 10:10, 12, 14; Rom. 6:10; I Peter 3:18: John 16:11, 33; Phil. 2:9 IL; Col. 2:14 1.; I Cor. 15:4 ff., 14; Mark 16:19; Luke 24:51: Acts 1:9 ff.; matt. 26:64; Eph. 1:20 ff.; Col. 3:1; Heb. 1:13; 10:12; 12:2; Acts 2:1 ff."
         }
       ]
@@ -111,29 +111,29 @@
       "ContentWithProofs": "We believe one holy, Christian Church, the fellowship of the saints, the spiritual assembly of believers which is holy and the one bride of Christ, and in which all are citizens who truly confess that Jesus is the Christ, the Lamb of God who takes away the sin of the world, and who also confirm such faith by works of love.[1]\n\nIn this Church one and the same sacrament is used, namely, Baptism upon entering the Church, and in due time in later life the Lord's Supper, as a testimony to faith and brotherly love as was promised in Baptism.[2]\n\nThis Christian Church endeavors to keep the bonds of peace and love in unity, and therefore it has no fellowship with sects and the rules of religious orders which are determined to distinguish between days, food, clothing, and ecclesiastical pageantry.[3]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Matt. 16:18; Eph. 1:22; 5:25; John 3:29; II Cor. 11:2; Eph. 2:19; Heb. 12:22; John 1:29; Gal. 5:6"
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Matt. 3:11; 28:19: Acts 2:41: 16:15, 33; Col. 2:12; Matt. 26:26; 14:22; Luke 22:19: I Cor. 11:23"
         },
         {
-          "Id": "3",
+          "Id": 3,
           "References": "Rom. 12:9; John 15:12, 17; I John 3:11, 14, 16, 23; 4:7, 20"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Matt. 16:18; Eph. 1:22; 5:25; John 3:29; II Cor. 11:2; Eph. 2:19; Heb. 12:22; John 1:29; Gal. 5:6"
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Matt. 3:11; 28:19: Acts 2:41: 16:15, 33; Col. 2:12; Matt. 26:26; 14:22; Luke 22:19: I Cor. 11:23"
         },
         {
-          "Id": "3",
+          "Id": 3,
           "References": "Rom. 12:9; John 15:12, 17; I John 3:11, 14, 16, 23; 4:7, 20"
         }
       ]
@@ -145,53 +145,53 @@
       "ContentWithProofs": "We confess that the Lord Jesus instituted His holy Supper for the observance of His holy passion with thanksgiving, to proclaim His death, and also to attest Christian love and unity with true faith.[10]\n\nAnd just as in Baptism, in which the washing away of sins is offered to us by the ministers of the Church but can only be effected by the Father, Son and Holy Spirit, water remains truly water, so also does the bread and wine remain bread and wine in the Lord's Supper, in which the true body and blood of Christ is portrayed and offered to us with the bread and wine of the Lord, together with the words of institution.[11]\n\nWe firmly believe, however, that Christ Himself is the food of a believing soul unto eternal life, and that our souls are nourished through true faith in the crucified Christ with the flesh and blood of Christ,[12] and that we, as members of His body of which He is our only Head, live in Him and He in us, so that on the Day of Judgment we may be raised by Him and in Him to eternal joy and blessedness. Therefore we confess this: that Christ is present in His holy Supper for all who truly believe.[13] However, we do not enclose in the bread and wine of the Lord the natural, true and essential body of Christ who was born of the pure Virgin Mary, suffered for us and has ascended into heaven.[14] Consequently we do not adore Christ in these signs of bread and wine which we commonly call sacraments of the body and blood of Christ, but in heaven at the right hand of God the Father, whence He will come to judge the living and the dead.[15]",
       "Proofs": [
         {
-          "Id": "10",
+          "Id": 10,
           "References": "Luke 22:19; I Cor. 11:23; 10:16"
         },
         {
-          "Id": "11",
+          "Id": 11,
           "References": "John 6:35"
         },
         {
-          "Id": "12",
+          "Id": 12,
           "References": "John 11:25; Eph. 1:22; 4:15; 5:23; Col. 1:18"
         },
         {
-          "Id": "13",
+          "Id": 13,
           "References": ""
         },
         {
-          "Id": "14",
+          "Id": 14,
           "References": "Acts 1:9; 7:55; Col. 3:1; Heb. 1:3; 10:19"
         },
         {
-          "Id": "15",
+          "Id": 15,
           "References": "Acts 3:21; II Tim. 4:1"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "10",
+          "Id": 10,
           "References": "Luke 22:19; I Cor. 11:23; 10:16"
         },
         {
-          "Id": "11",
+          "Id": 11,
           "References": "A powerful parable against the enemies of truth. John 6:35f.  It is in. deed a spiritual food and hence it has to be enjoyed by a believing soul."
         },
         {
-          "Id": "12",
+          "Id": 12,
           "References": "That is, the souls are satisfied, made strong and robust, contented and at peace, cheerful and a match for anything, just as the body is nourished by bodily food. A man becomes a spiritual member of the spiritual body of Christ. John 11:25 f.; Eph. 1:22 f.; 4:15; 5:23; Col. 1:18 f."
         },
         {
-          "Id": "13",
+          "Id": 13,
           "References": "Sacramentally and through the contemplation of faith which raises a man in his thoughts to heaven, but does not draw Christ down in his human nature from the right hand of God."
         },
         {
-          "Id": "14",
+          "Id": 14,
           "References": "Acts 1:9; 7:55; Col. 3:1; Heb. 1:3; 10:19"
         },
         {
-          "Id": "15",
+          "Id": 15,
           "References": "Acts 3:21; II Tim. 4:1"
         }
       ]
@@ -203,21 +203,21 @@
       "ContentWithProofs": "Because weeds are mixed with the Church of Christ, Christ has given His Church authority to excommunicate such weeds when they show themselves by intolerable crimes and sins against the commandment of the Lord, in order that as much as possible the Church may keep her appearance unspotted. This is the reason we use excommunication in the Church.[1]\n\nBut the Christian Church excommunicates solely for the sake of the reclamation of offenders, and consequently it gladly receives them again after they have put away their scandalous life and have improved.[2]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Matt. 18:15; I Cor. 5:3; II Thess. 3:6, 14; I Tim. 1:19"
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "11 Cor. 2:6; I Tim. 1:20"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Matt. 18:15; I Cor. 5:3; II Thess. 3:6, 14; I Tim. 1:19"
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "11 Cor. 2:6; I Tim. 1:20"
         }
       ]
@@ -229,13 +229,13 @@
       "ContentWithProofs": "God has charged governments, His servants, with the sword and with the highest external power for the protection of the good and for vengeance upon and punishment of evildoers. For this reason, every Christian government with which we desire to be numbered, should do all in its power to see that God's Name is hallowed among its subjects, God's kingdom extended, and His will observed by the assiduous extirpation of crimes.[1]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Rom. 13:1; I Peter 2:13"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Rom. 13:1; I Peter 2:13 Pagan governments have always been charged with this office; how much more should a Christian government be required to be a true lieutenant of God!"
         }
       ]
@@ -247,13 +247,13 @@
       "ContentWithProofs": "We confess that there is forgiveness of sins through faith in Jesus Christ the crucified. Although this faith is continually exercised, signalized, and thus confirmed by works of love, yet do we not ascribe to works, which are the fruit of faith, the righteousness and satisfaction for our sins. On the contrary, we ascribe it solely to a genuine trust and faith in the shed blood of the Lamb of God. For we freely confess that all things are granted to us in Christ, Who is our righteousness, holiness, redemption, the way, the truth, the wisdom and the life.  Therefore the works of believers are not for the satisfaction of their sins, but solely for the purpose of showing in some degree our gratitude to the Lord God for the great kindness He has shown us in Christ.[1]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Matt. 20:28; Mark 10:45; Luke 7:48, 50: John 3:15, 36; 5:24: 6:28 35, 40, 47; Rom. 3:21; 4; 10:4; Gal. 2:16; Rom. 3:27; Eph. 2:8, 13; I Cor. 1:1, 30; Rom. 8:32: Eph. 2:9; John 14:6"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Matt. 20:28; Mark 10:45; Luke 7:48. 50: John 3:15 f., 36; 5:24: 6:28 35, 40, 47; Rom. 3:21 ff.; 4; 10:4 ff.; Gal. 2:16 ff.; Rom. 3:27 f.; Eph. 2:8 1.. 13 ff.; I Cor. 1:1, 30 f.; Rom. 8:32: Eph. 2:9 f.; John 14:6. Gratitude consists in recompensing blessings received. Now God cannot be recompensed at all since He does not lack anything. Hence we look to His demand, namely, faith and works of love. God demands faith for Himself and love for our fellowman."
         }
       ]
@@ -265,21 +265,21 @@
       "ContentWithProofs": "We believe that there will be a Day of Judgment on which the resurrection of the flesh will take place, when every man will receive from Christ the Judge, according as he has lived in this life: eternal life, if out of true faith and with unfeigned love he has brought works of righteousness which are the fruit of faith; or everlasting fire if he has done either good [1] or evil without faith or with a feigned faith without love.[2]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": ""
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Matt. 24:30; 25:31; II Tim. 4:1, 8; Rom. 2:5; II Cor. 5:10; John 5:25"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "\"Good\" is to be understood as good according to human judgment."
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Matt. 24:30; 25:31; II Tim. 4:1, 8; Rom. 2:5; II Cor. 5:10; John 5:25"
         }
       ]
@@ -291,29 +291,29 @@
       "ContentWithProofs": "We confess that just as no one may require things which Christ has not commanded, so in the same way no one may forbid what He has not forbidden. For this reason we hold that the confessional, fasting during Lent, holy days and such things introduced by men are not commanded, and, on the other hand, that the marriage of priests is not forbidden.[1]\n\nStill less may anyone permit what God has forbidden. This is the reason we reject the veneration and invoking of departed saints,[2] the veneration and setting up of images, and such like.  Moreover, no one may forbid what God has permitted. For this reason we do not think it is forbidden to enjoy food with thanksgiving.[3]",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "Matt. 17:5; Luke 9:35; Deut.  18:18; Acts 7:37"
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": ""
         },
         {
-          "Id": "3",
+          "Id": 3,
           "References": "Lev. 18:2; Dent. 10:17; I Tim. 1:4"
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "It is written: \"Hear Him!\" Matt. 17:5; Luke 9:35; Deist.  18:18 f.; Acts 7:37."
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Concerning them we confess, however, that they are with God, reigning with Christ in eternity, because they have confessed Christ by words and deeds as their Savior, their redemption and righteousness, without any assistance of human merit. Therefore we highly praise them as those who have been pardoned by God and are now heirs of an eternal kingdom, yet all to the honor of God and of Christ."
         },
         {
-          "Id": "3",
+          "Id": 3,
           "References": "He says: \"I am the Lord your God,\" Lev. 18:2, and in Dent.  10:17 He speaks through Moses: For the Lord your God is God of gods and Lord of lords, the great, the mighty, and the terrible God, etc. Therefore who would want to permit among His creatures what He has forbidden? I Tim. 1:4 ff."
         }
       ]
@@ -325,21 +325,21 @@
       "ContentWithProofs": "We publicly declare that we not only do not accept but reject as an abomination and as blasphemy the alien false doctrines which are among the damnable and wicked opinions uttered by these factious spirits, namely, that children (whom we baptize according to the custom of the apostles and the early Church and because baptism has replaced circumcision) should not be baptized; that in no case may an oath be taken, even though the honor of God and love for one's neighbor require it; [1] and that Christians may not hold political offices; [2] together with all other doctrines which are opposed to the sound, pure teaching of Jesus Christ.",
       "Proofs": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": ""
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": ""
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": "1",
+          "Id": 1,
           "References": "An oath may be taken at appropriate times: for God has enjoined it in the Old Testament and Christ has not forbidden it in the New. Christ and also the apostles have themselves taken oaths."
         },
         {
-          "Id": "2",
+          "Id": 2,
           "References": "Government is only then a true government when it is truly Christian. "
         }
       ]

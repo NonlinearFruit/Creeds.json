@@ -10,22 +10,19 @@
         },
         "AlternativeTitles": {
           "type": "array",
-          "items": [
-            {
+          "items": {
               "type": "string"
             }
-          ]
+          
         },
         "Year": {
           "type": "string"
         },
         "Authors": {
           "type": "array",
-          "items": [
-            {
+          "items": {
               "type": "string"
             }
-          ]
         },
         "Location": {
           "type": ["string", "null"]

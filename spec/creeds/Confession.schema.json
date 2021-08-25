@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Chapter": {
+            "type": "string"
+          },
+          "Title": {
+            "type": "string"
+          },
+          "Sections": {
+            "type": "array",
+            "items": [
+              {
+                "type": "object",
+                "properties": {
+                  "Section": {
+                    "type": "string"
+                  },
+                  "Content": {
+                    "type": "string"
+                  }
+                },
+                "required": [
+                  "Section",
+                  "Content"
+                ]
+              }
+            ]
+          }
+        },
+        "required": [
+          "Chapter",
+          "Title",
+          "Sections"
+        ]
+      }
+    }
+  },
+  "required": [
+    "Data"
+  ]
+}
