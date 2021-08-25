@@ -5,8 +5,8 @@ resources="metadata/resources.json"
 cat > $readme << 'END'
 <p align="center">
   <img src="./metadata/feature_graphic.png">
+  <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"></a>
 </p>
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests)
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
 END
