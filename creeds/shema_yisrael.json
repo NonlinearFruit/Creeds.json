@@ -2,7 +2,7 @@
   "Metadata": {
     "Title": "Shema Yisrael",
     "AlternativeTitles": [
-      "Shema Israel", "Sh'ma Yisrael"
+      "Shema Israel", "Sh'ma Yisrael", "Shema"
     ],
     "Year": "-1500",
     "Authors": [
@@ -11,13 +11,13 @@
     "Location": "",
     "OriginalLanguage": "Hebrew",
     "OriginStory": "",
-    "SourceUrl": "https://esv.literalword.com/?q=deut+6%3A4",
+    "SourceUrl": "https://esv.literalword.com/?q=deut+6%3A4-5",
     "SourceAttribution": "Copyright - Crossway",
     "CreedFormat": "Creed"
   },
   "Data": {
-    "Content": "Hear, O Israel: The LORD our God, the LORD is one.",
-    "ContentWithProofs": "Hear, O Israel: The LORD our God, the LORD is one.[1]",
-    "Proofs": [{"Id": "1", "References":"Deut. 6:4"}]
+    "Content": "Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might.",
+    "ContentWithProofs": "Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might.[1]",
+    "Proofs": [{"Id": "1", "References":"Deut. 6:4-5"}]
   }
 }
