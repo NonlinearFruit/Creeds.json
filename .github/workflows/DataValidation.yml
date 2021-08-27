@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: DEBUG
-        run: 'file --version'
+        run: 'for file in creeds/*; do file $file; done'
       - name: Install Schema Checker
         run: 'pip install jsonschema'
       - name: Install Shell Spec

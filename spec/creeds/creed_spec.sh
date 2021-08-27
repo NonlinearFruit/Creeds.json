@@ -6,7 +6,7 @@ Describe 'Creed'
     done
   End
 
-  is_ascii() { file $1 | grep -q "ASCII"; }
+  is_ascii() { file --exclude json $1 | grep -q "ASCII"; }
 
   It "$1 is ascii only"
     When call is_ascii $1
