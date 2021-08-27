@@ -37,6 +37,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Gregory's Declaration of Faith (265)](creeds/gregorys_declaration_of_faith.json)
  - [x] [Heidelberg Catechism (1563)](creeds/heidelberg_catechism.json)
  - [x] [Helvetic Consensus (1675)](creeds/helvetic_consensus.json)
+ - [x] [Ignatius' Creed (110)](creeds/ignatius_creed.json)
  - [x] [Irenaeus' Rule of Faith (180)](creeds/irenaeus_rule_of_faith.json)
  - [x] [Keach's Catechism (1693)](creeds/keachs_catechism.json)
  - [x] [1689 London Baptist Confession (1677)](creeds/london_baptist_1689.json)
