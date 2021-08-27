@@ -5,7 +5,14 @@ resources="metadata/resources.json"
 cat > $readme << 'END'
 <p align="center">
   <img src="./metadata/feature_graphic.png">
-  <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"></a>
+END
+image="https://img.shields.io/badge/documents-$(ls creeds/ -Aq | wc -l)-blue"
+link="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"
+echo  "  <a href=\"$link\"><img src=\"$image\"></a>" >> $readme
+image="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"
+link="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"
+echo  "  <a href=\"$link\"><img src=\"$image\"></a>" >> $readme
+cat >> $readme << 'END'
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
