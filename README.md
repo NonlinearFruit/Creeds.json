@@ -6,54 +6,54 @@
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
 ## Copyrights
 
-This repo is not licensed for reuse due to the copyright right status of several texts (listed here). To reuse these texts, explicit permission needs to be granted by the copyright holder.
+This repo as a whole is not licensed for reuse due to the copyright right status of several texts (listed below). To reuse these texts, explicit permission needs to be granted by the copyright holder. These documents aside, the rest of this repo is licensed under the [Unlicense](https://choosealicense.com/licenses/unlicense/).
 
- - [Chicago Statement on Biblical Inerrancy](https://library.dts.edu/Pages/TL/Special/ICBI_1.pdf) <Copyright - Alliance of Confessing Evangelicals, Inc>
- - [Christ Hymn of Colossians](https://esv.literalword.com/?q=colossians+1%3A15-19) <Copyright - Crossway>
- - [Christ Hymn of Philippians](https://esv.literalword.com/?q=Philippians+2%3A6-10) <Copyright - Crossway>
- - [Confession of Peter](https://esv.literalword.com/?q=Matthew+16%3A16) <Copyright - Crossway>
- - [Helvetic Consensus](http://apostles-creed.org/wp-content/uploads/2014/07/Creed_Helvetic.pdf) <Translation Copyright 1990 - Martin Klauber>
- - [Shema Yisrael](https://esv.literalword.com/?q=deut+6%3A4) <Copyright - Crossway>
+ - [Chicago Statement on Biblical Inerrancy](creeds/chicago_statement_on_biblical_inerrancy.json) <Copyright - Alliance of Confessing Evangelicals, Inc>
+ - [Christ Hymn of Colossians](creeds/christ_hymn_of_colossians.json) <Copyright - Crossway>
+ - [Christ Hymn of Philippians](creeds/christ_hymn_of_philippians.json) <Copyright - Crossway>
+ - [Confession of Peter](creeds/confession_of_peter.json) <Copyright - Crossway>
+ - [Helvetic Consensus](creeds/helvetic_consensus.json) <Translation Copyright 1990 - Martin Klauber>
+ - [Shema Yisrael](creeds/shema_yisrael.json) <Copyright - Crossway>
 ## Creeds Included
 
 Read more about the json structure [here](https://github.com/NonlinearFruit/Creeds.json/wiki/Json-Structure)
 
- - [x] [Abstract of Principles (1858)](https://www.sbts.edu/about/abstract/)
- - [x] [Apostles' Creed (710)](https://www.crcna.org/welcome/beliefs/creeds/apostles-creed)
- - [x] [Athanasian Creed (800)](https://www.wikiwand.com/en/Athanasian_Creed)
- - [x] [Belgic Confession (1561)](http://apostles-creed.org/wp-content/uploads/2014/07/belgic_confession.pdf)
- - [x] [Canons of Dort (1619)](http://apostles-creed.org/wp-content/uploads/2014/07/canons-of-dort.pdf)
- - [x] [Catechism For Young Children (1840)](https://static1.squarespace.com/static/590be125ff7c502a07752a5b/t/5a84cca971c10b7697dda564/1518652588323/Engles%2C+Joseph+Patterson%2C+Catechism+for+Young+Children.pdf)
- - [x] [Chalcedonian Definition (451)](https://www.ccel.org/ccel/schaff/creeds2.iv.i.iii.html)
- - [x] [Chicago Statement on Biblical Inerrancy (1978)](https://library.dts.edu/Pages/TL/Special/ICBI_1.pdf)
- - [x] [Christ Hymn of Colossians (60)](https://esv.literalword.com/?q=colossians+1%3A15-19)
- - [x] [Christ Hymn of Philippians (60)](https://esv.literalword.com/?q=Philippians+2%3A6-10)
- - [x] [Confession of Peter (30)](https://esv.literalword.com/?q=Matthew+16%3A16)
- - [x] [Consensus Tigurinus (1549)](http://apostles-creed.org/wp-content/uploads/2014/07/The-Consenus-Tigurinus-Zurich.pdf)
- - [x] [Council of Orange (529)](www.onthewing.org/user/Creed_Council%20of%20Orange%20-%20Pelagianism.pdf)
- - [x] [First Confession of Basel (1534)](http://apostles-creed.org/wp-content/uploads/2014/09/The-First-Confession-of-Basel-1534.pdf)
- - [x] [First Helvetic Confession (1536)](https://quod.lib.umich.edu/e/eebo/A13256.0001.001?rgn=main;view=fulltext)
- - [x] [French Confession of Faith (1559)](https://www.ccel.org/ccel/schaff/creeds3.iv.vii.html)
- - [x] [Gregory's Declaration of Faith (265)](https://ccel.org/ccel/gregory_thau/writings/anf06.iii.iii.i.i.html)
- - [x] [Heidelberg Catechism (1563)](http://apostles-creed.org/wp-content/uploads/2014/07/Heidelberg-Catechism-with-Intro.pdf)
- - [x] [Helvetic Consensus (1675)](http://apostles-creed.org/wp-content/uploads/2014/07/Creed_Helvetic.pdf)
- - [x] [Irenaeus' Rule of Faith (180)](https://ccel.org/ccel/irenaeus/against_heresies_i/anf01.ix.ii.xi.html)
- - [x] [Keach's Catechism (1693)](http://www.reformedreader.org/ccc/keachcat.htm)
- - [x] [1689 London Baptist Confession (1677)](http://apostles-creed.org/wp-content/uploads/2014/07/London-Baptist-of-Faith-1689.pdf)
- - [x] [Matthew Henry's Scripture Catechism (1703)](https://www.blueletterbible.org/study/ccc/mh_sc.cfm)
- - [x] [Nicene Creed (381)](http://www.onthewing.org/user/Creed_Nicene.pdf)
- - [x] [Puritan Catechism (1855)](https://www.blueletterbible.org/study/ccc/chs_puritancatechism.cfm)
- - [x] [Scots Confession (1560)](http://apostles-creed.org/wp-content/uploads/2014/07/Scots_Confession_1560.pdf)
- - [x] [Second Helvetic Confession (1562)](https://www.ccel.org/creeds/helvetic.htm)
- - [x] [Shema Yisrael (-1500)](https://esv.literalword.com/?q=deut+6%3A4)
- - [x] [Ten Theses of Berne (1528)](https://ccel.org/ccel/schaff/hcc8/hcc8.iv.iv.ii.html)
- - [x] [Tetrapolitan Confession (1530)](http://apostles-creed.org/wp-content/uploads/2014/09/tetrapolatan-strasbourg-swabian-confession.pdf)
- - [x] [Waldensian Confession (1120)](http://apostles-creed.org/wp-content/uploads/2014/07/waldensian_confession_1120.pdf)
- - [x] [Westminster Confession of Faith (1646)](http://apostles-creed.org/wp-content/uploads/2014/07/the-westminster-confession-of-faith.pdf)
- - [x] [Westminster Larger Catechism (1647)](http://apostles-creed.org/wp-content/uploads/2014/07/the-westminster-larger-catechism.pdf)
- - [x] [Westminster Shorter Catechism (1647)](https://www.apuritansmind.com/westminster-standards/shorter-catechism/)
- - [x] [Zwingli's 67 Articles (1523)](https://christianhistoryinstitute.org/study/module/zwinglis-sixty-seven-articles/)
- - [x] [Zwingli's Fidei Ratio (1530)](https://quod.lib.umich.edu/e/eebo2/A15880.0001.001?rgn=main;view=fulltext)
+ - [x] [Abstract of Principles (1858)](creeds/abstract_of_principles.json)
+ - [x] [Apostles' Creed (710)](creeds/apostles_creed.json)
+ - [x] [Athanasian Creed (800)](creeds/athanasian_creed.json)
+ - [x] [Belgic Confession (1561)](creeds/belgic_confession_of_faith.json)
+ - [x] [Canons of Dort (1619)](creeds/canons_of_dort.json)
+ - [x] [Catechism For Young Children (1840)](creeds/catechism_for_young_children.json)
+ - [x] [Chalcedonian Definition (451)](creeds/chalcedonian_definition.json)
+ - [x] [Chicago Statement on Biblical Inerrancy (1978)](creeds/chicago_statement_on_biblical_inerrancy.json)
+ - [x] [Christ Hymn of Colossians (60)](creeds/christ_hymn_of_colossians.json)
+ - [x] [Christ Hymn of Philippians (60)](creeds/christ_hymn_of_philippians.json)
+ - [x] [Confession of Peter (30)](creeds/confession_of_peter.json)
+ - [x] [Consensus Tigurinus (1549)](creeds/consensus_tigurinus.json)
+ - [x] [Council of Orange (529)](creeds/council_of_orange.json)
+ - [x] [First Confession of Basel (1534)](creeds/first_confession_of_basel.json)
+ - [x] [First Helvetic Confession (1536)](creeds/first_helvetic_confession.json)
+ - [x] [French Confession of Faith (1559)](creeds/french_confession_of_faith.json)
+ - [x] [Gregory's Declaration of Faith (265)](creeds/gregorys_declaration_of_faith.json)
+ - [x] [Heidelberg Catechism (1563)](creeds/heidelberg_catechism.json)
+ - [x] [Helvetic Consensus (1675)](creeds/helvetic_consensus.json)
+ - [x] [Irenaeus' Rule of Faith (180)](creeds/irenaeus_rule_of_faith.json)
+ - [x] [Keach's Catechism (1693)](creeds/keachs_catechism.json)
+ - [x] [1689 London Baptist Confession (1677)](creeds/london_baptist_1689.json)
+ - [x] [Matthew Henry's Scripture Catechism (1703)](creeds/matthew_henrys_scripture_catechism.json)
+ - [x] [Nicene Creed (381)](creeds/nicene_creed.json)
+ - [x] [Puritan Catechism (1855)](creeds/puritan_catechism.json)
+ - [x] [Scots Confession (1560)](creeds/scots_confession.json)
+ - [x] [Second Helvetic Confession (1562)](creeds/second_helvetic_confession.json)
+ - [x] [Shema Yisrael (-1500)](creeds/shema_yisrael.json)
+ - [x] [Ten Theses of Berne (1528)](creeds/ten_theses_of_berne.json)
+ - [x] [Tetrapolitan Confession (1530)](creeds/tetrapolitan_confession.json)
+ - [x] [Waldensian Confession (1120)](creeds/waldensian_confession.json)
+ - [x] [Westminster Confession of Faith (1646)](creeds/westminster_confession_of_faith.json)
+ - [x] [Westminster Larger Catechism (1647)](creeds/westminster_larger_catechism.json)
+ - [x] [Westminster Shorter Catechism (1647)](creeds/westminster_shorter_catechism.json)
+ - [x] [Zwingli's 67 Articles (1523)](creeds/zwinglis_67_articles.json)
+ - [x] [Zwingli's Fidei Ratio (1530)](creeds/zwinglis_fidei_ratio.json)
 # Additional Resources (aka Bonus Content!)
 ## Android Apps
  - [Creeds](https://play.google.com/store/apps/details?id=com.nonlinearfruit.creeds) » Read, search, copy classic creeds ![Installs](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.nonlinearfruit.creeds%26l%3Dinstalls%26m%3D%24installs) ![Rating](https://img.shields.io/endpoint?color=blue&logo=google-play&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.nonlinearfruit.creeds%26l%3Drating%26m%3D%24rating)

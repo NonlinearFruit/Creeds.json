@@ -15,11 +15,11 @@ END
 cat >> $readme << 'END'
 ## Copyrights
 
-This repo is not licensed for reuse due to the copyright right status of several texts (listed here). To reuse these texts, explicit permission needs to be granted by the copyright holder.
+This repo as a whole is not licensed for reuse due to the copyright right status of several texts (listed below). To reuse these texts, explicit permission needs to be granted by the copyright holder. These documents aside, the rest of this repo is licensed under the [Unlicense](https://choosealicense.com/licenses/unlicense/).
 
 END
-for file in $(ls creeds/); do
-  jq '.Metadata | select(.SourceAttribution | startswith("Public Domain") | not) | " - [\(.Title)](\(.SourceUrl)) <\(.SourceAttribution)>"' "creeds/${file}" --raw-output >> $readme
+for file in creeds/*; do
+  jq --arg FILE "$file" '.Metadata | select(.SourceAttribution | startswith("Public Domain") | not) | " - [\(.Title)](\($FILE)) <\(.SourceAttribution)>"' "$file" --raw-output >> $readme
 done
 
 # CREEDS
@@ -29,8 +29,8 @@ cat >> $readme << 'END'
 Read more about the json structure [here](https://github.com/NonlinearFruit/Creeds.json/wiki/Json-Structure)
 
 END
-for file in $(ls creeds/); do
-  jq '.Metadata | " - [x] [\(.Title) (\(.Year))](\(.SourceUrl))"' "creeds/${file}" --raw-output >> $readme
+for file in creeds/*; do
+  jq --arg FILE "$file" '.Metadata | " - [x] [\(.Title) (\(.Year))](\($FILE))"' "$file" --raw-output >> $readme
 done
 
 # EXTRAS
