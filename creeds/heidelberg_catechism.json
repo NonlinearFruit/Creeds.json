@@ -20,7 +20,7 @@
       "Number": 1,
       "Question": "What is your only comfort in life and death?",
       "Answer": "That I am not my own, but belong with body and soul, both in life and in death, to my faithful Saviour Jesus Christ. He has fully paid for all my sins with His precious blood, and has set me free from all the power of the devil. He also preserves me in such a way that without the will of my heavenly Father not a hair can fall from my head; indeed, all things must work together for my salvation. Therefore, by His Holy Spirit He also assures me of eternal life and makes me heartily willing and ready from now on to live for Him.[10]",
-      "AnswerWithProofs": "That I am not my own,[1] but belong with body and soul, both in life and in death,[2] to my faithful Saviour Jesus Christ.[3] He has fully paid for all my sins with His precious blood, and has set me free from all the power of the devil.[5] He also preserves me in such a way[6] that without the will of my heavenly Father not a hair can fall from my head;[7] indeed, all things must work together for my salvation.[8] Therefore, by His Holy Spirit He also assures me of eternal life[9] and makes me heartily willing and ready from now on to live for Him.[10]",
+      "AnswerWithProofs": "That I am not my own,[1] but belong with body and soul, both in life and in death,[2] to my faithful Saviour Jesus Christ.[3] He has fully paid for all my sins with His precious blood,[4] and has set me free from all the power of the devil.[5] He also preserves me in such a way[6] that without the will of my heavenly Father not a hair can fall from my head;[7] indeed, all things must work together for my salvation.[8] Therefore, by His Holy Spirit He also assures me of eternal life[9] and makes me heartily willing and ready from now on to live for Him.[10]",
       "Proofs": [
         {
           "Id": "1",
@@ -464,7 +464,8 @@
     },
     {
       "Number": 25,
-      "Question": "Since there is only one God,[1] why do you speak of three persons, Father, Son, and Holy Spirit?",
+      "Question": "Since there is only one God, why do you speak of three persons, Father, Son, and Holy Spirit?",
+      "QuestionWithProofs": "Since there is only one God,[1] why do you speak of three persons, Father, Son, and Holy Spirit?",
       "Answer": "Because God has so revealed Himself in His Word that these three distinct persons are the one, true, eternal God.",
       "AnswerWithProofs": "Because God has so revealed Himself in His Word[2] that these three distinct persons are the one, true, eternal God.",
       "Proofs": [
@@ -924,7 +925,8 @@
     },
     {
       "Number": 47,
-      "Question": "Is Christ, then, not with us until the end of the world, as He has promised us?[1] ",
+      "Question": "Is Christ, then, not with us until the end of the world, as He has promised us?",
+      "QuestionWithProofs": "Is Christ, then, not with us until the end of the world, as He has promised us?[1]",
       "Answer": "Christ is true man and true God. With respect to His human nature He is no longer on earth, but with respect to His divinity, majesty, grace, and Spirit He is never absent from us.",
       "AnswerWithProofs": "Christ is true man and true God. With respect to His human nature He is no longer on earth,[2] but with respect to His divinity, majesty, grace, and Spirit He is never absent from us.[3]",
       "Proofs": [
