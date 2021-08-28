@@ -25,7 +25,7 @@
               "type": "object",
               "properties": {
                 "Id": {
-                  "type": "string"
+                  "type": "integer"
                 },
                 "References": {
                   "type": "string"
