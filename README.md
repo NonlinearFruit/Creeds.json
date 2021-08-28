@@ -16,6 +16,7 @@ This repo as a whole is not licensed for reuse due to the copyright right status
  - [Confession of Peter](creeds/confession_of_peter.json) <Copyright - Crossway>
  - [Helvetic Consensus](creeds/helvetic_consensus.json) <Translation Copyright 1990 - Martin Klauber>
  - [Shema Yisrael](creeds/shema_yisrael.json) <Copyright - Crossway>
+ - [Westminster Confession of Faith](creeds/westminster_confession_of_faith.json) <Copyright - Reformed Standards>
 ## Creeds Included
 
 Read more about the json structure [here](https://github.com/NonlinearFruit/Creeds.json/wiki/Json-Structure)
