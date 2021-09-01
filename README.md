@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./metadata/feature_graphic.png">
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-39-blue"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-40-blue"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-196-yellowgreen"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-201-yellowgreen"></a>
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
@@ -55,6 +55,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Second Helvetic Confession (1562)](creeds/second_helvetic_confession.json)
  - [x] [Shema Yisrael (-1500)](creeds/shema_yisrael.json)
  - [x] [Ten Theses of Berne (1528)](creeds/ten_theses_of_berne.json)
+ - [x] [Tertullian's Rule of Faith (c. 200)](creeds/tertullians_rule_of_faith.json)
  - [x] [Tetrapolitan Confession (1530)](creeds/tetrapolitan_confession.json)
  - [x] [Waldensian Confession (1120)](creeds/waldensian_confession.json)
  - [x] [Westminster Confession of Faith (1646)](creeds/westminster_confession_of_faith.json)
