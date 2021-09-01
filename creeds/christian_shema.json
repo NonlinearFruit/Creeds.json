@@ -1,0 +1,26 @@
+{
+  "Metadata": {
+    "Title": "Christian Shema",
+    "AlternativeTitles": [],
+    "Year": "55",
+    "Authors": [
+      "Paul"
+    ],
+    "Location": "Ephesus, Roman Empire",
+    "OriginalLanguage": "Greek",
+    "OriginStory": "To the church of God that is in Corinth",
+    "SourceUrl": "https://esv.literalword.com/?q=1+corinthians+8%3A6",
+    "SourceAttribution": "Copyright - Crossway",
+    "CreedFormat": "Creed"
+  },
+  "Data": {
+    "Content": "There is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.",
+    "ContentWithProofs": "There is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.[1]",
+    "Proofs": [
+      {
+        "Id": 1,
+        "References": [ "1 Cor 8:6" ]
+      }
+    ]
+  }
+}

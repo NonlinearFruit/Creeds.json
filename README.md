@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./metadata/feature_graphic.png">
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-38-blue"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-39-blue"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-191-yellowgreen"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-196-yellowgreen"></a>
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
@@ -13,6 +13,7 @@ This repo as a whole is not licensed for reuse due to the copyright right status
  - [Chicago Statement on Biblical Inerrancy](creeds/chicago_statement_on_biblical_inerrancy.json) <Copyright - Alliance of Confessing Evangelicals, Inc>
  - [Christ Hymn of Colossians](creeds/christ_hymn_of_colossians.json) <Copyright - Crossway>
  - [Christ Hymn of Philippians](creeds/christ_hymn_of_philippians.json) <Copyright - Crossway>
+ - [Christian Shema](creeds/christian_shema.json) <Copyright - Crossway>
  - [Confession of Peter](creeds/confession_of_peter.json) <Copyright - Crossway>
  - [Helvetic Consensus](creeds/helvetic_consensus.json) <Translation Copyright 1990 - Martin Klauber>
  - [Savoy Declaration of Faith](creeds/savoy_declaration.json) <Copyright - Reformed Standards>
@@ -32,6 +33,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Chicago Statement on Biblical Inerrancy (1978)](creeds/chicago_statement_on_biblical_inerrancy.json)
  - [x] [Christ Hymn of Colossians (60)](creeds/christ_hymn_of_colossians.json)
  - [x] [Christ Hymn of Philippians (60)](creeds/christ_hymn_of_philippians.json)
+ - [x] [Christian Shema (55)](creeds/christian_shema.json)
  - [x] [Confession of Peter (30)](creeds/confession_of_peter.json)
  - [x] [Consensus Tigurinus (1549)](creeds/consensus_tigurinus.json)
  - [x] [Council of Orange (529)](creeds/council_of_orange.json)
