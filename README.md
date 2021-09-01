@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./metadata/feature_graphic.png">
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-37-blue"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-38-blue"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-185-yellowgreen"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-190-yellowgreen"></a>
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
@@ -15,6 +15,7 @@ This repo as a whole is not licensed for reuse due to the copyright right status
  - [Christ Hymn of Philippians](creeds/christ_hymn_of_philippians.json) <Copyright - Crossway>
  - [Confession of Peter](creeds/confession_of_peter.json) <Copyright - Crossway>
  - [Helvetic Consensus](creeds/helvetic_consensus.json) <Translation Copyright 1990 - Martin Klauber>
+ - [Savoy Declaration of Faith](creeds/savoy_declaration.json) <Copyright - Reformed Standards>
  - [Shema Yisrael](creeds/shema_yisrael.json) <Copyright - Crossway>
  - [Westminster Confession of Faith](creeds/westminster_confession_of_faith.json) <Copyright - Reformed Standards>
 ## Creeds Included
@@ -47,6 +48,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Matthew Henry's Scripture Catechism (1703)](creeds/matthew_henrys_scripture_catechism.json)
  - [x] [Nicene Creed (381)](creeds/nicene_creed.json)
  - [x] [Puritan Catechism (1855)](creeds/puritan_catechism.json)
+ - [x] [Savoy Declaration of Faith (1658)](creeds/savoy_declaration.json)
  - [x] [Scots Confession (1560)](creeds/scots_confession.json)
  - [x] [Second Helvetic Confession (1562)](creeds/second_helvetic_confession.json)
  - [x] [Shema Yisrael (-1500)](creeds/shema_yisrael.json)
