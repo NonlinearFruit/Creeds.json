@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "Title": "Confession of Peter",
-    "AlternativeTitles": [],
+    "AlternativeTitles": ["Petrine Confession"],
     "Year": "30",
     "Authors": [],
     "Location": "",
@@ -12,6 +12,15 @@
     "CreedFormat": "Creed"
   },
   "Data": {
-    "Content": "Simon Peter replied, \"You are the Christ, the Son of the living God.\""
+    "Content": "Simon Peter replied, \"You are the Christ, the Son of the living God.\"",
+    "ContentWithProofs": "Simon Peter replied, \"You are the Christ, the Son of the living God.\"[1]",
+    "Proofs": [
+      {
+        "Id": 1,
+        "References": [
+"Matt 16:16", "Mark 8:29", "Luke 9:20", "John 20:31", "1 John 5:1", "John 9:22", "John 11:27", "Mark 14:61"
+        ]
+      }
+    ]
   }
 }
