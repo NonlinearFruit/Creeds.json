@@ -812,8 +812,8 @@
     {
       "Number": 67,
       "Question": "What is forbidden in the fourth commandment?",
-      "Answer": "The fourth commandment forbids the ommission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.",
-      "AnswerWithProofs": "The fourth commandment forbids the ommission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.[1]",
+      "Answer": "The fourth commandment forbids the omission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.",
+      "AnswerWithProofs": "The fourth commandment forbids the omission or careless performance of the duties required, and the profaning the day by idleness, or doing that which is in itself sinful, or by unnecessary thoughts, words, or works, about worldly employments or recreations.[1]",
       "Proofs": [
         {
           "Id": 1,
@@ -1233,8 +1233,13 @@
       "Number": 102,
       "Question": "Are the infants of such as are professing believers to be baptized?",
       "Answer": "The infants of such as are professing believers are not to be baptized; because there is neither command nor example in the Holy Scriptures, or certain consequence from them, to baptize such.",
-      "AnswerWithProofs": "",
-      "Proofs": []
+      "AnswerWithProofs": "The infants of such as are professing believers are not to be baptized; because there is neither command nor example in the Holy Scriptures, or certain consequence from them, to baptize such.[1]",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Col. 2:12; 1 Peter 3:21; Gal. 3:26,27."
+        }
+      ]
     },
     {
       "Number": 103,
@@ -1251,8 +1256,8 @@
     {
       "Number": 104,
       "Question": "What is the duty of those who are rightly baptized?",
-      "Answer": "It is the duty of those who are rightly baptized to give up (join) themselves to some visible and orderly church of Jesus Christ, that they may walk in all the command- ments and ordinances of the Lord blameless.",
-      "AnswerWithProofs": "It is the duty of those who are rightly baptized to give up (join) themselves to some visible and orderly church of Jesus Christ, that they may walk in all the command- ments and ordinances of the Lord blameless.[1]",
+      "Answer": "It is the duty of those who are rightly baptized to give up (join) themselves to some visible and orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blameless.",
+      "AnswerWithProofs": "It is the duty of those who are rightly baptized to give up (join) themselves to some visible and orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blameless.[1]",
       "Proofs": [
         {
           "Id": 1,
