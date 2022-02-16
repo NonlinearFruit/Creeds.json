@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./metadata/feature_graphic.png">
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-40-blue"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-41-blue"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-201-yellowgreen"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-206-yellowgreen"></a>
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
@@ -23,6 +23,7 @@ This repo as a whole is not licensed for reuse due to the copyright right status
 
 Read more about the json structure [here](https://github.com/NonlinearFruit/Creeds.json/wiki/Json-Structure)
 
+ - [x] [1695 Baptist Catechism (1695)](creeds/1695_baptist_catechism.json)
  - [x] [Abstract of Principles (1858)](creeds/abstract_of_principles.json)
  - [x] [Apostles' Creed (710)](creeds/apostles_creed.json)
  - [x] [Athanasian Creed (800)](creeds/athanasian_creed.json)
@@ -45,7 +46,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Helvetic Consensus (1675)](creeds/helvetic_consensus.json)
  - [x] [Ignatius' Creed (110)](creeds/ignatius_creed.json)
  - [x] [Irenaeus' Rule of Faith (180)](creeds/irenaeus_rule_of_faith.json)
- - [x] [Keach's Catechism (1693)](creeds/keachs_catechism.json)
+ - [x] [Keach's Catechism (1794)](creeds/keachs_catechism.json)
  - [x] [1689 London Baptist Confession (1677)](creeds/london_baptist_1689.json)
  - [x] [Matthew Henry's Scripture Catechism (1703)](creeds/matthew_henrys_scripture_catechism.json)
  - [x] [Nicene Creed (381)](creeds/nicene_creed.json)
