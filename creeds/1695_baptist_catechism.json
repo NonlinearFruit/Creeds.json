@@ -18,85 +18,125 @@
   "Data": [
     {
       "Number": 1,
-      "Question": "Who is the first and best of beings?",
-      "Answer": "God is the first and best of beings.",
-      "AnswerWithProofs": "God is the first and best of beings.[1]",
+      "Question": "Who is the First and Chiefest Being?",
+      "Answer": "God is the First and Chiefest Being",
+      "AnswerWithProofs": "God is the First and Chiefest Being.[1]",
       "Proofs": [
         {
           "Id": 1,
-          "References": "Isaiah 44:6; Psalm 8:1; 97:9"
+          "References": "Isaiah 44:6; Isaiah 48:12"
         }
       ]
     },
     {
       "Number": 2,
-      "Question": "What is the chief end of man?",
-      "Answer": "Man's chief end is to glorify God and to enjoy Him forever.",
-      "AnswerWithProofs": "Man's chief end is to glorify God and to enjoy Him forever.[1]",
+      "Question": "Ought every One to believe there is a God?",
+      "Answer": "Every One ought to believe there is a God; and it is their great Sin and Folly who do not.",
+      "AnswerWithProofs": "Every One ought to believe there is a God;[1] and it is their great Sin and Folly who do not.[2]",
       "Proofs": [
         {
           "Id": 1,
-          "References": "1 Cor. 10:31; Psalm 73:25-26"
+          "References": "Hebrews 11:6"
+        },
+        {
+          "Id": 2,
+          "References": "Psalms 14:1"
         }
       ]
     },
     {
       "Number": 3,
-      "Question": "How do we know there is a God?",
-      "Answer": "The light of nature in man, and the works of God, plainly declare that there is a God; but His Word and Spirit only, do effectually reveal Him unto us for our salvation.",
-      "AnswerWithProofs": "The light of nature in man, and the works of God, plainly declare that there is a God; but His Word and Spirit only, do effectually reveal Him unto us for our salvation.[1]",
+      "Question": "How may we know there is a God?",
+      "Answer": "The Light of Nature in Man, and the Works of God plainly declare there is a God; but his Word and Spirit only, do it fully and effectually, for the Salvation of Sinners.",
+      "AnswerWithProofs": "The Light of Nature in Man, and the Works of God plainly declare there is a God;[1] but his Word and Spirit only, do it fully and effectually, for the Salvation of Sinners.[2]",
       "Proofs": [
         {
           "Id": 1,
-          "References": "Rom. 1:18-20; Psalm 19:1,2; 2 Tim. 3:15; 1 Cor.  1:21-24; 1 Cor. 2:9,10"
+          "References": "Rom. 1:19-20; Psalms 19:1-3; Acts 17:24"
+        },
+        {
+          "Id": 2,
+          "References": "1 Cor. 2:10; 2 Tim. 3:15-16"
         }
       ]
     },
     {
       "Number": 4,
       "Question": "What is the Word of God?",
-      "Answer": "The Scriptures of the Old and New Testaments, being given by divine inspiration, are the Word of God, the only infallible rule of faith and practice.",
-      "AnswerWithProofs": "The Scriptures of the Old and New Testaments, being given by divine inspiration, are the Word of God, the only infallible rule of faith and practice.[1]",
+      "Answer": "The Holy Scriptures of the Old and New Testaments are the Word of God, and the only certain Rule of Faith and Obedience.",
+      "AnswerWithProofs": "The Holy Scriptures of the Old and New Testaments are the Word of God, and the only certain Rule of Faith and Obedience.[1]",
       "Proofs": [
         {
           "Id": 1,
-          "References": "2 Peter 1:21; 2 Timothy 3:16,17; Isaiah 8:20"
+          "References": "2 Tim. 3:16; Eph. 2:20"
         }
       ]
     },
     {
       "Number": 5,
-      "Question": "How do we know that the Bible is the Word of God?",
-      "Answer": "The Bible evidences itself to be God's Word by the heavenliness of its doctrine, the unity of its parts, its power to convert sinners and to edify saints; but the Spirit of God only, bearing witness by and with the Scriptures in our hearts, is able fully to persuade us that the Bible is the Word of God.",
-      "AnswerWithProofs": "The Bible evidences itself to be God's Word by the heavenliness of its doctrine, the unity of its parts, its power to convert sinners and to edify saints; but the Spirit of God only, bearing witness by and with the Scriptures in our hearts, is able fully to persuade us that the Bible is the Word of God.[1]",
+      "Question": "May all Men make use of the Holy Scriptures?",
+      "Answer": "All Men are not only permitted, but commanded and exhorted, to read, hear, and understand the Holy Scriptures.",
+      "AnswerWithProofs": "All Men are not only permitted, but commanded and exhorted, to read, hear, and understand the Holy Scriptures.[1]",
       "Proofs": [
         {
           "Id": 1,
-          "References": "1 Cor. 2:6,7,13; Ps. 119:18, 129; Acts 10:43, 26:22; Acts 18:28; Heb 4:12; Ps. 19:7-9; Rom.  15:4; John 16:13,14; 1 John 2:20-27; 2 Cor.  3:14-17"
+          "References": "John 5:39; Deut. 17:18-19; Rev. 1:3; Acts 8:30"
         }
       ]
     },
     {
       "Number": 6,
-      "Question": "May all men make use of the Scriptures?",
-      "Answer": "All men are not only permitted, but commanded and exhorted, to read, hear, and understand the Scriptures.",
-      "AnswerWithProofs": "All men are not only permitted, but commanded and exhorted, to read, hear, and understand the Scriptures.[1]",
+      "Question": "What things are chiefly contained in the Holy Scriptures?",
+      "Answer": "The Holy Scriptures chiefly contain, what Man ought to believe concerning God, and what Duty God requireth of Man.",
+      "AnswerWithProofs": "The Holy Scriptures chiefly contain, what Man ought to believe concerning God, and what Duty God requireth of Man.[1]",
       "Proofs": [
         {
           "Id": 1,
-          "References": "John 5:39; Luke 16:29; Acts 8:28-30; 17:11"
+          "References": "2 Tim. 1:13; 2 Tim. 3:15-16"
         }
       ]
     },
     {
       "Number": 7,
-      "Question": "What do the Scriptures principally teach?",
-      "Answer": "The Scriptures principally teach what man is to believe concerning God and what duty God requires of man.",
-      "AnswerWithProofs": "The Scriptures principally teach what man is to believe concerning God and what duty God requires of man.[1]",
+      "Question": "What is God?",
+      "Answer": "God is a Spirit, Infinite, Eternal, and Unchangeable, in his Being, Wisdom, Power, Holiness, Justice, Goodness and Truth.",
+      "AnswerWithProofs": "God is a Spirit[1], Infinite[2], Eternal[3], and Unchangeable[4], in his Being[5], Wisdom[6], Power[7], Holiness[8], Justice, Goodness and Truth[9].",
       "Proofs": [
         {
           "Id": 1,
-          "References": "2 Tim. 3:16,17; John 20:31; Acts 24:14; 1 Cor.  10:11; Eccles. 12:13"
+          "References": ""
+        },
+        {
+          "Id": 2,
+          "References": ""
+        },
+        {
+          "Id": 3,
+          "References": ""
+        },
+        {
+          "Id": 4,
+          "References": ""
+        },
+        {
+          "Id": 5,
+          "References": ""
+        },
+        {
+          "Id": 6,
+          "References": ""
+        },
+        {
+          "Id": 7,
+          "References": ""
+        },
+        {
+          "Id": 8,
+          "References": ""
+        },
+        {
+          "Id": 9,
+          "References": ""
         }
       ]
     },
