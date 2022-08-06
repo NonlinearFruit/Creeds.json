@@ -104,39 +104,63 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ""
+          "References": "John 4:24"
         },
         {
           "Id": 2,
-          "References": ""
+          "References": "Job 11:7-9"
         },
         {
           "Id": 3,
-          "References": ""
+          "References": "Psal. 90:2"
         },
         {
           "Id": 4,
-          "References": ""
+          "References": "Jam. 1:17"
         },
         {
           "Id": 5,
-          "References": ""
+          "References": "Exod. 3:14"
         },
         {
           "Id": 6,
-          "References": ""
+          "References": "Psal. 147:5"
         },
         {
           "Id": 7,
-          "References": ""
+          "References": "Rev. 4:8"
         },
         {
           "Id": 8,
-          "References": ""
+          "References": "Rev. 15:4"
         },
         {
           "Id": 9,
-          "References": ""
+          "References": "Exod. 34:6-7"
+        }
+      ]
+    },
+    {
+      "Number": 8,
+      "Question": "Are there more Gods than One?",
+      "Answer": "There is but One only, the Living and True God.",
+      "AnswerWithProofs": "There is but One only, the Living and True God[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Deut. 6:4; Jer. 10:10"
+        }
+      ]
+    },
+    {
+      "Number": 9,
+      "Question": "How many Persons are there in the Godhead?",
+      "Answer": "There is but One only, the Living and True God.",
+      "AnswerWithProofs": "There are Three Persons in the Godhead, the Father, the Son, and the Holy Spirit; and these Three are One God, the same in Essence, equal in Power and Glory[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "1 John 5:7; Mat. 28:19"
         }
       ]
     }
