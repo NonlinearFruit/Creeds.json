@@ -155,12 +155,24 @@
     {
       "Number": 9,
       "Question": "How many Persons are there in the Godhead?",
-      "Answer": "There is but One only, the Living and True God.",
+      "Answer": "There are Three Persons in the Godhead, the Father, the Son, and the Holy Spirit; and these Three are One God, the same in Essence, equal in Power and Glory.",
       "AnswerWithProofs": "There are Three Persons in the Godhead, the Father, the Son, and the Holy Spirit; and these Three are One God, the same in Essence, equal in Power and Glory[1].",
       "Proofs": [
         {
           "Id": 1,
           "References": "1 John 5:7; Mat. 28:19"
+        }
+      ]
+    },
+    {
+      "Number": 10,
+      "Question": "What are the Decrees of God?",
+      "Answer": "The Decress of God are, his Eternal Purpose according to the Counsel of his Will, whereby, for his own Glory, he hath foreordained whatsoever comes to pass.",
+      "AnswerWithProofs": "The Decress of God are, his Eternal Purpose according to the Counsel of his Will, whereby, for his own Glory, he hath foreordained whatsoever comes to pass[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Eph. 1:4,11; Rom. 9:22-23"
         }
       ]
     }
