@@ -230,6 +230,78 @@
           "References": "Psal. 103:19; Mat. 10:29-31"
         }
       ]
+    },
+    {
+      "Number": 15,
+      "Question": "What special Act of Providence did God exercise towards Man in the Estate wherein he was created?",
+      "Answer": "When God had created Man, he entered into a Covenant of Life with him, upon Condition of perfect Obedience: forbidding him to eat of the Tree of the Knowledge of Good and Evil, upon pain of Death.",
+      "AnswerWithProofs": "When God had created Man, he entered into a Covenant of Life with him, upon Condition of perfect Obedience: forbidding him to eat of the Tree of the Knowledge of Good and Evil, upon pain of Death[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Gal. 3:12; Gen. 2:17"
+        }
+      ]
+    },
+    {
+      "Number": 16,
+      "Question": "Did our first Parents continue in the Estate wherein they were created?",
+      "Answer": "Our first Parents being left to the freedom of their own Will, fell from the Estate wherein they were created, by sinning against God.",
+      "AnswerWithProofs": "Our first Parents being left to the freedom of their own Will, fell from the Estate wherein they were created, by sinning against God[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Gen. 3:6-8,13; Eccles. 7:29"
+        }
+      ]
+    },
+    {
+      "Number": 17,
+      "Question": "What is Sin?",
+      "Answer": "Sin is any want of Conformity unto, or Transgression of the Law of God.",
+      "AnswerWithProofs": "Sin is any want of Conformity unto, or Transgression of the Law of God[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "1 Joh. 3:4"
+        }
+      ]
+    },
+    {
+      "Number": 18,
+      "Question": "What was the Sin whereby our first Parents fell from the Estate wherein they were created?",
+      "Answer": "The Sin whereby our first Parents fell from the Estate wherein they were created, was their eating the forbidden Fruit.",
+      "AnswerWithProofs": "The Sin whereby our first Parents fell from the Estate wherein they were created, was their eating the forbidden Fruit[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Gen. 3:6,12"
+        }
+      ]
+    },
+    {
+      "Number": 19,
+      "Question": "Did all Mankind fall in Adam's first Transgression?",
+      "Answer": "The Covenant being made with Adam, not only for himself, but for his Posterity, all Mankind descending from him by ordinary Generation, sinned in him, and fell with him in his first Transgression.",
+      "AnswerWithProofs": "The Covenant being made with Adam, not only for himself, but for his Posterity, all Mankind descending from him by ordinary Generation, sinned in him, and fell with him in his first Transgression[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Gen. 2:16-17; Rom. 5:12; 1 Cor. 15:21-22"
+        }
+      ]
+    },
+    {
+      "Number": 20,
+      "Question": "Into what Estate did the Fall bring Mankind?",
+      "Answer": "The Fall brought Mankind into an Estate of Sin and Misery.",
+      "AnswerWithProofs": "The Fall brought Mankind into an Estate of Sin and Misery[1].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "Rom. 5:12"
+        }
+      ]
     }
   ]
 }
