@@ -1,4 +1,20 @@
 {
+  "Metadata": {
+    "AlternativeTitles": [
+      "The Humble Advice of the Assembly Divines, Now by Authority of Parliament fitting at Westminster, Concerning a Confession of Faith: With Quotations and Texts of Scripture Annexed."
+    ],
+    "Authors": [
+      "Westminster Assembly"
+    ],
+    "CreedFormat": "Confession",
+    "Location": "London, England",
+    "OriginStory": "The Westminster Divines were assembled and assigned by parliament to reform the Church of England.",
+    "OriginalLanguage": "English",
+    "SourceAttribution": "Copyright - Reformed Standards",
+    "SourceUrl": "https://github.com/reformed-standards/compendium/blob/master/data/westminster/wcf.yaml",
+    "Title": "Westminster Confession of Faith",
+    "Year": "1646"
+  },
   "Data": [
     {
       "Chapter": "1",
@@ -6162,21 +6178,5 @@
       ],
       "Title": "Of the Last Judgment"
     }
-  ],
-  "Metadata": {
-    "AlternativeTitles": [
-      "The Humble Advice of the Assembly Divines, Now by Authority of Parliament fitting at Westminster, Concerning a Confession of Faith: With Quotations and Texts of Scripture Annexed."
-    ],
-    "Authors": [
-      "Westminster Assembly"
-    ],
-    "CreedFormat": "Confession",
-    "Location": "London, England",
-    "OriginStory": "The Westminster Divines were assembled and assigned by parliament to reform the Church of England.",
-    "OriginalLanguage": "English",
-    "SourceAttribution": "Copyright - Reformed Standards",
-    "SourceUrl": "https://github.com/reformed-standards/compendium/blob/master/data/westminster/wcf.yaml",
-    "Title": "Westminster Confession of Faith",
-    "Year": "1646"
-  }
+  ]
 }
