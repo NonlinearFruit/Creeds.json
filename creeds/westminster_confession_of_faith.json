@@ -1,7 +1,7 @@
 {
   "Metadata": {
     "AlternativeTitles": [
-      "The Humble Advice of the Assembly Divines, Now by Authority of Parliament fitting at Westminster, Concerning a Confession of Faith: With Quotations and Texts of Scripture Annexed."
+      "The humble advice of the Assembly of Divines, now by authority of Parliament sitting at Westminster, concerning a confession of faith: with the quotations and texts of Scripture annexed; presented by them lately to both Houses of Parliament"
     ],
     "Authors": [
       "Westminster Assembly"
@@ -10,10 +10,10 @@
     "Location": "London, England",
     "OriginStory": "The Westminster Divines were assembled and assigned by parliament to reform the Church of England.",
     "OriginalLanguage": "English",
-    "SourceAttribution": "Copyright - Reformed Standards",
-    "SourceUrl": "https://github.com/reformed-standards/compendium/blob/master/data/westminster/wcf.yaml",
+    "SourceAttribution": "Public Domain",
+    "SourceUrl": "https://archive.org/details/humbleadviceofas00west/mode/2up",
     "Title": "Westminster Confession of Faith",
-    "Year": "1646"
+    "Year": "1647"
   },
   "Data": [
     {
