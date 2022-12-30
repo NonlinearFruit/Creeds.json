@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./metadata/feature_graphic.png">
   <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-41-blue"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/actions/workflow/status/NonlinearFruit/Creeds.json/DataValidation.yml?label=tests&branch=master"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-247-yellowgreen"></a>
 </p>
 
