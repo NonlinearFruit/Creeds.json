@@ -9,7 +9,7 @@ END
 image="https://img.shields.io/badge/documents-$(ls creeds/ -Aq | wc -l)-blue"
 link="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"
 echo  "  <a href=\"$link\"><img src=\"$image\"></a>" >> $readme
-image="https://img.shields.io/github/workflow/status/NonlinearFruit/Creeds.json/Validate%20Data?label=tests"
+image="https://img.shields.io/github/actions/workflow/status/NonlinearFruit/Creeds.json/DataValidation.yml?label=tests&branch=master"
 link="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"
 echo  "  <a href=\"$link\"><img src=\"$image\"></a>" >> $readme
 image="https://img.shields.io/badge/test%20count-$(shellspec --count | cut -d' ' -f2)-yellowgreen"

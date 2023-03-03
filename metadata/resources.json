@@ -51,6 +51,11 @@
   ],
   "Websites": [ 
     {
+      "Title": "Catechesis",
+      "Url": "https://www.catechesis.app",
+      "Description": "An open-source app designed to help you catechize yourself, your family, and your church - by engaging with catechisms that have stood the test of time throughout the church age."
+    },
+    {
       "Title": "Creeds",
       "Url": "https://nonlinearfruit.github.io/Creeds-Blazor/",
       "Description": "Read, search, copy classic creeds"
