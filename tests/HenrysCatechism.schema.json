@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Number": {
+            "type": "string"
+          },
+          "Question": {
+            "type": "string"
+          },
+          "Answer": {
+            "type": "string"
+          },
+          "SubQuestions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Number": {
+                  "type": "string"
+                },
+                "Question": {
+                  "type": "string"
+                },
+                "Answer": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Number",
+                "Question",
+                "Answer"
+                  ]
+            }
+          }
+        },
+        "required": [
+          "Number",
+          "Question",
+          "Answer",
+          "SubQuestions"
+        ]
+      }
+    }
+  },
+  "required": [
+    "Data"
+  ]
+}

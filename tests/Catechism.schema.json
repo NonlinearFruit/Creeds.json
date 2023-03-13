@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Data": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Number": {
+            "type": "integer"
+          },
+          "Question": {
+            "type": "string"
+          },
+          "Answer": {
+            "type": "string"
+          },
+          "AnswerWithProofs": {
+            "type": "string"
+          },
+          "Proofs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "Id": {
+                  "type": "integer"
+                },
+                "References": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Id",
+                "References"
+                  ]
+            }
+          }
+        },
+        "required": [
+          "Number",
+          "Question",
+          "Answer"
+        ]
+      }
+    }
+  },
+  "required": [
+    "Data"
+  ]
+}

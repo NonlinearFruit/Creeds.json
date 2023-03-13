@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "Metadata": {
+      "type": "object",
+      "properties": {
+        "Title": {
+          "type": "string"
+        },
+        "AlternativeTitles": {
+          "type": "array",
+          "items": {
+              "type": "string"
+            }
+          
+        },
+        "Year": {
+          "type": "string"
+        },
+        "Authors": {
+          "type": "array",
+          "items": {
+              "type": "string"
+            }
+        },
+        "Location": {
+          "type": ["string", "null"]
+        },
+        "OriginalLanguage": {
+          "type": ["string", "null"]
+        },
+        "OriginStory": {
+          "type": ["string", "null"]
+        },
+        "SourceUrl": {
+          "type": "string"
+        },
+        "SourceAttribution": {
+          "type": "string"
+        },
+        "CreedFormat": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "Title",
+        "Year",
+        "Authors",
+        "Location",
+        "OriginalLanguage",
+        "OriginStory",
+        "SourceUrl",
+        "SourceAttribution",
+        "CreedFormat"
+      ]
+    }
+  },
+  "required": [
+    "Metadata"
+  ]
+}
