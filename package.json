@@ -1,0 +1,15 @@
+{
+  "name": "creeds-json",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.29.2",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0",
+    "vitest": "^0.29.2"
+  }
+}
