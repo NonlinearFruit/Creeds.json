@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest",
+    "test-json": "vitest --run --reporter json"
   },
   "devDependencies": {
     "@vitest/coverage-c8": "^0.29.2",
