@@ -2,7 +2,7 @@
   <img src="./metadata/feature_graphic.png">
   <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-41-blue"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/actions/workflow/status/NonlinearFruit/Creeds.json/DataValidation.yml?label=tests&branch=master"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-247-yellowgreen"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-486-yellowgreen"></a>
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
@@ -18,7 +18,6 @@ This repo as a whole is not licensed for reuse due to the copyright right status
  - [Helvetic Consensus](creeds/helvetic_consensus.json) <Translation Copyright 1990 - Martin Klauber>
  - [Savoy Declaration of Faith](creeds/savoy_declaration.json) <Copyright - Reformed Standards>
  - [Shema Yisrael](creeds/shema_yisrael.json) <Copyright - Crossway>
- - [Westminster Confession of Faith](creeds/westminster_confession_of_faith.json) <Copyright - Reformed Standards>
 ## Creeds Included
 
 Read more about the json structure [here](https://github.com/NonlinearFruit/Creeds.json/wiki/Json-Structure)
@@ -59,7 +58,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Tertullian's Rule of Faith (c. 200)](creeds/tertullians_rule_of_faith.json)
  - [x] [Tetrapolitan Confession (1530)](creeds/tetrapolitan_confession.json)
  - [x] [Waldensian Confession (1120)](creeds/waldensian_confession.json)
- - [x] [Westminster Confession of Faith (1646)](creeds/westminster_confession_of_faith.json)
+ - [x] [Westminster Confession of Faith (1647)](creeds/westminster_confession_of_faith.json)
  - [x] [Westminster Larger Catechism (1647)](creeds/westminster_larger_catechism.json)
  - [x] [Westminster Shorter Catechism (1647)](creeds/westminster_shorter_catechism.json)
  - [x] [Zwingli's 67 Articles (1523)](creeds/zwinglis_67_articles.json)
@@ -76,6 +75,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [Standards Bot](https://github.com/Nokeo08/standardsbot) » A reddit bot that is triggered by reddit comments made in /r/Reformed that references various christian confessions and catechisms. ![GitHub last commit](https://img.shields.io/github/last-commit/Nokeo08/standardsbot.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/Nokeo08/standardsbot.svg)
  - [Reformed Standards](https://github.com/reformed-standards/compendium) » The compendium is a collection of reformed documents, such as confessions and catechisms. ![GitHub last commit](https://img.shields.io/github/last-commit/reformed-standards/compendium.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/reformed-standards/compendium.svg)
 ## Websites
+ - [Catechesis](https://www.catechesis.app) » An open-source app designed to help you catechize yourself, your family, and your church - by engaging with catechisms that have stood the test of time throughout the church age.
  - [Creeds](https://nonlinearfruit.github.io/Creeds-Blazor/) » Read, search, copy classic creeds
  - [Reformed Standards](https://reformedstandards.com) » All the reformed documents in one tidy package
  - [Creeds and Confessions](https://confessions.azurewebsites.net) » 

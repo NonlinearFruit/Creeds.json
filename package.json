@@ -1,0 +1,18 @@
+{
+  "name": "creeds-json",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "test-json": "vitest --run --reporter json"
+  },
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.29.2",
+    "jsonschema": "^1.4.1",
+    "typescript": "^4.9.3",
+    "typescript-json-schema": "^0.55.0",
+    "vite": "^4.1.0",
+    "vitest": "^0.29.2"
+  }
+}
