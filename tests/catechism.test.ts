@@ -16,14 +16,19 @@ const program = TJS.getProgramFromFiles(
 const settings: TJS.PartialArgs = {
   required: true,
 }
-const type = "CreedDocument"
 
+const type = "Catechism"
 const repoPath = resolve(__dirname, '..')
 const creedFolder = `${repoPath}/creeds`
-const files = [`westminster_confession_of_faith.json`] //readdirSync(creedFolder)
+const files = readdirSync(creedFolder)
+const testData = files
+  .map(filename => ({
+    filename,
+    creed: require(`${creedFolder}/${filename}`)
+  }))
+  .filter(testData => testData.creed.Metadata.CreedFormat == type)
 
-describe.each(files)('%s', (filename) => {
-  const creed = require(`${creedFolder}/${filename}`)
+describe.each(testData)('$filename', ({filename, creed}) => {
 
   test('has metadata', async () => {
     const schema = TJS.generateSchema(program, "Metadata", settings)

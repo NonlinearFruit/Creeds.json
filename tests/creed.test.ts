@@ -17,6 +17,7 @@ const settings: TJS.PartialArgs = {
   required: true,
 }
 
+const type = "Creed"
 const repoPath = resolve(__dirname, '..')
 const creedFolder = `${repoPath}/creeds`
 const files = readdirSync(creedFolder)
@@ -25,7 +26,7 @@ const testData = files
     filename,
     creed: require(`${creedFolder}/${filename}`)
   }))
-  .filter(testData => testData.creed.Metadata.CreedFormat == "Creed")
+  .filter(testData => testData.creed.Metadata.CreedFormat == type)
 
 describe.each(testData)('$filename', ({filename, creed}) => {
 
