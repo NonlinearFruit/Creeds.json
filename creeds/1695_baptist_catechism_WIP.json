@@ -498,6 +498,30 @@
           "References": "Act. 2:24-27,31"
         }
       ]
+    },
+    {
+      "Number": 31,
+      "Question": "Wherein consisteth Christ's Exaltation?",
+      "Answer": "Christ's Exaltation consisteth in his rising again from the Dead on the third Day, in ascending up into Heaven, in sitting at the right Hand of God the Father, and in coming to judg the World at the last Day.",
+      "AnswerWithProofs": "Christ's Exaltation consisteth in his rising again from the Dead on the third Day[1], in ascending up into Heaven[2], in sitting at the right Hand of God the Father[3], and in coming to judg the World at the last Day[4].",
+      "Proofs": [
+        {
+          "Id": 1,
+          "References": "1 Cor. 15:4"
+        },
+        {
+          "Id": 2,
+          "References": "Mark 16:19"
+        },
+        {
+          "Id": 3,
+          "References": "Ephes. 1:20"
+        },
+        {
+          "Id": 4,
+          "References": "Acts 1:11, 17:31"
+        }
+      ]
     }
   ]
 }
