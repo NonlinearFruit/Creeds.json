@@ -23,7 +23,7 @@
     "Proofs": [
       {
         "Id": "1",
-        "References": "Deut. 6:4-5"
+        "References": ["Deut. 6:4-5"]
       }
     ]
   }
