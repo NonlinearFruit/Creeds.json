@@ -95,6 +95,14 @@ describe.each(testData)('$filename', ({filename, creed}) => {
         expect(text).toContain(`[${proof.Id}]`)
     })
 
+    test('each proof reference is valid', async () => {
+      if (!item.Proofs || !(item.Proofs instanceof Array))
+        return
+      for (const proof of item.Proofs) {
+        expect(proof.References).toBeInstanceOf(Array)
+      }
+    })
+
     test('no footnotes in non-WithProofs strings', async () => {
       const footnoteIds = Object
         .entries(item)
