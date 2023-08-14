@@ -56,7 +56,7 @@ describe.each(testData)('$filename', ({filename, creed}) => {
   let data = creed.Data
   if (data instanceof Array)
     data = data.map(item => ({
-      title: `${data.Number ?? data.Article ?? data.Chapter} ${data.Title ?? data.Question}`,
+      title: `${item.Number ?? item.Article ?? item.Chapter} ${item.Title ?? item.Question}`,
       item
     }))
   else
