@@ -74,11 +74,11 @@
         },
         {
           "Id": 2,
-          "References": ["Psa. 12:6; 119:140"]
+          "References": ["Psa. 12:6; Psa. 119:140"]
         },
         {
           "Id": 3,
-          "References": ["Acts 10:43; 26:22"]
+          "References": ["Acts 10:43; Acts 26:22"]
         },
         {
           "Id": 4,
@@ -90,7 +90,7 @@
         },
         {
           "Id": 6,
-          "References": ["John 16:13-14; 20:31; 1 John 2:20, 27"]
+          "References": ["John 16:13-14; John 20:31; 1 John 2:20, 27"]
         }
       ]
     },
@@ -222,7 +222,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["I John 5:7; Matt. 3:16-17; 28:19; II Cor. 13:14; John 10:30"]
+          "References": ["I John 5:7; Matt. 3:16-17; Matt. 28:19; II Cor. 13:14; John 10:30"]
         }
       ]
     },
@@ -254,11 +254,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Isa. 6:3, 5, 8; John 12:41; Acts 5:3-4; 28:25; I John 5:20"]
+          "References": ["Isa. 6:3, 5, 8; John 12:41; Acts 5:3-4; Acts 28:25; I John 5:20"]
         },
         {
           "Id": 2,
-          "References": ["John 1:1; 2:24-25; Isa. 9:6; I Cor. 2:10-11"]
+          "References": ["John 1:1; John 2:24-25; Isa. 9:6; I Cor. 2:10-11"]
         },
         {
           "Id": 3,
@@ -278,7 +278,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph. 1:11; Rom. 9:14-15, 18; 11:33"]
+          "References": ["Eph. 1:11; Rom. 9:14-15, 18; Rom. 11:33"]
         },
         {
           "Id": 2,
@@ -502,7 +502,7 @@
         },
         {
           "Id": 4,
-          "References": ["Gen. 1:26-29; 3:8"]
+          "References": ["Gen. 1:26-29; Gen. 3:8"]
         },
         {
           "Id": 5,
@@ -558,7 +558,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Rom. 3:23; 5:12"]
+          "References": ["Rom. 3:23; Rom. 5:12"]
         }
       ]
     },
@@ -586,7 +586,7 @@
         },
         {
           "Id": 2,
-          "References": ["Rom. 3:10-19; 5:6; 8:7-8; Eph. 2:1-3; Gen. 6:5"]
+          "References": ["Rom. 3:10-19; Rom. 5:6; Rom. 8:7-8; Eph. 2:1-3; Gen. 6:5"]
         },
         {
           "Id": 3,
@@ -602,7 +602,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Psa. 51:5; Job 14:4; 15:14; John 3:6"]
+          "References": ["Psa. 51:5; Job 14:4; Job 15:14; John 3:6"]
         }
       ]
     },
@@ -734,7 +734,7 @@
         },
         {
           "Id": 3,
-          "References": ["John 1:12; 3:16"]
+          "References": ["John 1:12; John 3:16"]
         },
         {
           "Id": 4,
@@ -798,7 +798,7 @@
         },
         {
           "Id": 6,
-          "References": ["Heb. ch. 8-10; 11:13"]
+          "References": ["Heb. ch. 8-10; Heb. 11:13"]
         },
         {
           "Id": 7,
@@ -842,7 +842,7 @@
         },
         {
           "Id": 2,
-          "References": ["John 1:1, 14; 10:30; Phil. 2:6"]
+          "References": ["John 1:1, 14; John 10:30; Phil. 2:6"]
         },
         {
           "Id": 3,
@@ -870,7 +870,7 @@
         },
         {
           "Id": 3,
-          "References": ["Heb. 4:15; 7:26"]
+          "References": ["Heb. 4:15; Heb. 7:26"]
         }
       ]
     },
@@ -882,11 +882,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Acts. 2:24-25; Rom. 1:4; 4:25; Heb. 9:14"]
+          "References": ["Acts. 2:24-25; Rom. 1:4; Rom. 4:25; Heb. 9:14"]
         },
         {
           "Id": 2,
-          "References": ["Acts 20:28; Heb. 7:25-28; 9:14"]
+          "References": ["Acts 20:28; Heb. 7:25-28; Heb. 9:14"]
         },
         {
           "Id": 3,
@@ -910,7 +910,7 @@
         },
         {
           "Id": 8,
-          "References": ["Heb. 5:8-9; 9:11-15"]
+          "References": ["Heb. 5:8-9; Heb. 9:11-15"]
         }
       ]
     },
@@ -930,7 +930,7 @@
         },
         {
           "Id": 3,
-          "References": ["Heb. 2:14; 7:24-25"]
+          "References": ["Heb. 2:14; Heb. 7:24-25"]
         },
         {
           "Id": 4,
@@ -954,7 +954,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Matt. 1:21, 23; 3:17; Heb. 9:14"]
+          "References": ["Matt. 1:21, 23; Matt. 3:17; Heb. 9:14"]
         },
         {
           "Id": 2,
@@ -994,7 +994,7 @@
         },
         {
           "Id": 4,
-          "References": ["Heb. 4:14-15; 5:5-7"]
+          "References": ["Heb. 4:14-15; Heb. 5:5-7"]
         },
         {
           "Id": 5,
@@ -1078,7 +1078,7 @@
         },
         {
           "Id": 6,
-          "References": ["Rev. 2:10; 22:12"]
+          "References": ["Rev. 2:10; Rev. 22:12"]
         },
         {
           "Id": 7,
@@ -1154,7 +1154,7 @@
         },
         {
           "Id": 5,
-          "References": ["Heb. 2:17-18; 4:15; Isa. 52:13-14"]
+          "References": ["Heb. 2:17-18; Heb. 4:15; Isa. 52:13-14"]
         }
       ]
     },
@@ -1230,7 +1230,7 @@
         },
         {
           "Id": 4,
-          "References": ["Acts 1:11; 17:31"]
+          "References": ["Acts 1:11; Acts 17:31"]
         }
       ]
     },
@@ -1386,7 +1386,7 @@
         },
         {
           "Id": 3,
-          "References": ["John 3:16; 17:9, 20, 24"]
+          "References": ["John 3:16; John 17:9, 20, 24"]
         },
         {
           "Id": 4,
@@ -1478,7 +1478,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph. 1:13-14; John 6:37, 39; 10:15-16"]
+          "References": ["Eph. 1:13-14; John 6:37, 39; John 10:15-16"]
         },
         {
           "Id": 2,
@@ -1530,7 +1530,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["John 12:38-40; Rom. 9:6; 11:7; Matt. 7:21; 22:14"]
+          "References": ["John 12:38-40; Rom. 9:6; Rom. 11:7; Matt. 7:21; Matt. 22:14"]
         }
       ]
     },
@@ -1542,7 +1542,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["I Cor. 1:2; 12:13; Rom. 15:9-12; Rev. 7:9; Psa. 2:8; 22:27-31; 45:17; Matt. 28:19-20; Isa. 59:21"]
+          "References": ["I Cor. 1:2; I Cor. 12:13; Rom. 15:9-12; Rev. 7:9; Psa. 2:8; Psa. 22:27-31; Psa. 45:17; Matt. 28:19-20; Isa. 59:21"]
         },
         {
           "Id": 2,
@@ -1610,7 +1610,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph. 1:22; 2:6-8"]
+          "References": ["Eph. 1:22; Eph. 2:6-8"]
         },
         {
           "Id": 2,
@@ -1638,7 +1638,7 @@
         },
         {
           "Id": 3,
-          "References": ["II Cor. 5:20; 6:1-2; John 6:44; II Thess. 2:13-14"]
+          "References": ["II Cor. 5:20; II Cor. 6:1-2; John 6:44; II Thess. 2:13-14"]
         },
         {
           "Id": 4,
@@ -1646,7 +1646,7 @@
         },
         {
           "Id": 5,
-          "References": ["Ezek. 11:19; 36:26-27; John 6:45"]
+          "References": ["Ezek. 11:19; Ezek. 36:26-27; John 6:45"]
         },
         {
           "Id": 6,
@@ -1670,11 +1670,11 @@
         },
         {
           "Id": 3,
-          "References": ["Matt. 7:22; 13:20-21; Heb. 6:4-6"]
+          "References": ["Matt. 7:22; Matt. 13:20-21; Heb. 6:4-6"]
         },
         {
           "Id": 4,
-          "References": ["John 6:64-65; 12:38-40; Acts 18:25-27; Psa. 81:11-12"]
+          "References": ["John 6:64-65; John 12:38-40; Acts 18:25-27; Psa. 81:11-12"]
         }
       ]
     },
@@ -1706,7 +1706,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Rom. 3:22, 24-25; 4:5"]
+          "References": ["Rom. 3:22, 24-25; Rom. 4:5"]
         },
         {
           "Id": 2,
@@ -1718,7 +1718,7 @@
         },
         {
           "Id": 4,
-          "References": ["Rom. 4:6-8; 5:17-19"]
+          "References": ["Rom. 4:6-8; Rom. 5:17-19"]
         },
         {
           "Id": 5,
@@ -1738,7 +1738,7 @@
         },
         {
           "Id": 2,
-          "References": ["II Tim. 2:5-6; Heb. 7:22; 10:10; Matt. 20:28; Dan. 9:24, 26; Isa. 53:4-6, 10-12; Rom. 8:32; I Peter 1:18-19"]
+          "References": ["II Tim. 2:5-6; Heb. 7:22; Heb. 10:10; Matt. 20:28; Dan. 9:24, 26; Isa. 53:4-6, 10-12; Rom. 8:32; I Peter 1:18-19"]
         },
         {
           "Id": 3,
@@ -1778,7 +1778,7 @@
         },
         {
           "Id": 4,
-          "References": ["Acts 2:37; 4:12; 16:30; John 16:8-9; Rom. 5:6; Eph. 2:1"]
+          "References": ["Acts 2:37; Acts 4:12; Acts 16:30; John 16:8-9; Rom. 5:6; Eph. 2:1"]
         },
         {
           "Id": 5,
@@ -1786,7 +1786,7 @@
         },
         {
           "Id": 6,
-          "References": ["John 1:12; Acts 10:43; 16:31"]
+          "References": ["John 1:12; Acts 10:43; Acts 16:31"]
         },
         {
           "Id": 7,
@@ -1806,7 +1806,7 @@
         },
         {
           "Id": 2,
-          "References": ["Rom. 4:5; 10:10"]
+          "References": ["Rom. 4:5; Rom. 10:10"]
         },
         {
           "Id": 3,
@@ -1878,7 +1878,7 @@
         },
         {
           "Id": 6,
-          "References": ["Rom. 6:4; 6:14; Gal. 5:24"]
+          "References": ["Rom. 6:4; Rom. 6:14; Gal. 5:24"]
         }
       ]
     },
@@ -1938,7 +1938,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["I Cor. 1:30; 6:11"]
+          "References": ["I Cor. 1:30; I Cor. 6:11"]
         },
         {
           "Id": 2,
@@ -2018,7 +2018,7 @@
         },
         {
           "Id": 5,
-          "References": ["I John 2:27; 3:9"]
+          "References": ["I John 2:27; I John 3:9"]
         },
         {
           "Id": 6,
@@ -2042,7 +2042,7 @@
         },
         {
           "Id": 2,
-          "References": ["I Cor. 2:12; I John 3:14, 18-19, 21, 24; 4:13, 16; Heb. 6:11-12"]
+          "References": ["I Cor. 2:12; I John 3:14, 18-19, 21, 24; I John 4:13, 16; Heb. 6:11-12"]
         },
         {
           "Id": 3,
@@ -2070,7 +2070,7 @@
         },
         {
           "Id": 3,
-          "References": ["Psa. 22:1; 31:22; 51:8, 12; 77:1-12; Song of Sol. 5:2-3, 6"]
+          "References": ["Psa. 22:1; Psa. 31:22; Psa. 51:8, 12; Psa. 77:1-12; Song of Sol. 5:2-3, 6"]
         },
         {
           "Id": 4,
@@ -2114,7 +2114,7 @@
         },
         {
           "Id": 3,
-          "References": ["Rom. 5:1-2; 14:17"]
+          "References": ["Rom. 5:1-2; Rom. 14:17"]
         },
         {
           "Id": 4,
@@ -2330,7 +2330,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Gen. 1:26-27; 2:17; Rom. 2:14-15; 10:5"]
+          "References": ["Gen. 1:26-27; Gen. 2:17; Rom. 2:14-15; Rom. 10:5"]
         }
       ]
     },
@@ -2378,7 +2378,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Lev. 11:44-45; 20:7-8; Rom. 7:12"]
+          "References": ["Lev. 11:44-45; Lev. 20:7-8; Rom. 7:12"]
         },
         {
           "Id": 2,
@@ -2386,7 +2386,7 @@
         },
         {
           "Id": 3,
-          "References": ["Psa. 19:11-12; Rom. 3:20; 7:7"]
+          "References": ["Psa. 19:11-12; Rom. 3:20; Rom. 7:7"]
         },
         {
           "Id": 4,
@@ -2418,7 +2418,7 @@
         },
         {
           "Id": 3,
-          "References": ["Rom. 1:20; 2:15"]
+          "References": ["Rom. 1:20; Rom. 2:15"]
         },
         {
           "Id": 4,
@@ -2434,7 +2434,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Rom. 6:14; 7:4, 6; Gal. 4:4-5"]
+          "References": ["Rom. 6:14; Rom. 7:4, 6; Gal. 4:4-5"]
         },
         {
           "Id": 2,
@@ -2446,7 +2446,7 @@
         },
         {
           "Id": 4,
-          "References": ["Rom. 7:24-25; 8:3-4; Gal. 3:13-14"]
+          "References": ["Rom. 7:24-25; Rom. 8:3-4; Gal. 3:13-14"]
         },
         {
           "Id": 5,
@@ -2454,7 +2454,7 @@
         },
         {
           "Id": 6,
-          "References": ["Rom. 7:22; 12:2; Titus 2:11-14"]
+          "References": ["Rom. 7:22; Rom. 12:2; Titus 2:11-14"]
         }
       ]
     },
@@ -2486,7 +2486,7 @@
         },
         {
           "Id": 2,
-          "References": ["Rom. 7:14; Deut. 6:5; Matt. 5:21-22, 27-28, 33-34, 37-39, 43-44; 22:37-39"]
+          "References": ["Rom. 7:14; Deut. 6:5; Matt. 5:21-22, 27-28, 33-34, 37-39, 43-44; Matt. 22:37-39"]
         },
         {
           "Id": 3,
@@ -2494,7 +2494,7 @@
         },
         {
           "Id": 4,
-          "References": ["Isa. 58:13; Deut. 6:13; Matt. 4:9-10; 15:4-6"]
+          "References": ["Isa. 58:13; Deut. 6:13; Matt. 4:9-10; Matt. 15:4-6"]
         },
         {
           "Id": 5,
@@ -2506,11 +2506,11 @@
         },
         {
           "Id": 7,
-          "References": ["Jer. 18:7-8; Exod. 20:7; Psa. 15:1, 4-5; 24:4-5"]
+          "References": ["Jer. 18:7-8; Exod. 20:7; Psa. 15:1, 4-5; Psa. 24:4-5"]
         },
         {
           "Id": 8,
-          "References": ["Job. 13:7; 36:21; Rom. 3:8; Heb. 11:25"]
+          "References": ["Job. 13:7; Job. 36:21; Rom. 3:8; Heb. 11:25"]
         },
         {
           "Id": 9,
@@ -2522,7 +2522,7 @@
         },
         {
           "Id": 11,
-          "References": ["Matt. 5:21-22, 27-28; 15:4-6; Heb. 10:24-25; I Thess. 5:22-23; Gal. 5:26; Col. 3:21"]
+          "References": ["Matt. 5:21-22, 27-28; Matt. 15:4-6; Heb. 10:24-25; I Thess. 5:22-23; Gal. 5:26; Col. 3:21"]
         },
         {
           "Id": 12,
@@ -2621,7 +2621,7 @@
         },
         {
           "Id": 2,
-          "References": ["Psa. 29:2; 95:6-7; Matt. 4:10"]
+          "References": ["Psa. 29:2; Psa. 95:6-7; Matt. 4:10"]
         },
         {
           "Id": 3,
@@ -2953,7 +2953,7 @@
         },
         {
           "Id": 5,
-          "References": ["Matt. 16:19; 18:15-17; I Cor. ch. 5; 12:28"]
+          "References": ["Matt. 16:19; Matt. 18:15-17; I Cor. ch. 5; I Cor. 12:28"]
         },
         {
           "Id": 6,
@@ -3001,7 +3001,7 @@
         },
         {
           "Id": 4,
-          "References": ["I Kings 11:33; 12:33"]
+          "References": ["I Kings 11:33; I Kings 12:33"]
         },
         {
           "Id": 5,
@@ -3065,7 +3065,7 @@
         },
         {
           "Id": 20,
-          "References": ["I Sam. 13:11-12; 15:21"]
+          "References": ["I Sam. 13:11-12; I Sam. 15:21"]
         },
         {
           "Id": 21,
@@ -3145,7 +3145,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Matt. 6:9; Deut. 28:58; Psa. 29:2; 68:4; Rev. 15:3-4"]
+          "References": ["Matt. 6:9; Deut. 28:58; Psa. 29:2; Psa. 68:4; Rev. 15:3-4"]
         },
         {
           "Id": 2,
@@ -3237,7 +3237,7 @@
         },
         {
           "Id": 4,
-          "References": ["Mal. 1:6-7, 12; 3:14"]
+          "References": ["Mal. 1:6-7, 12; Mal. 3:14"]
         },
         {
           "Id": 5,
@@ -3265,7 +3265,7 @@
         },
         {
           "Id": 11,
-          "References": ["Zech. 5:4; 8:17"]
+          "References": ["Zech. 5:4; Zech. 8:17"]
         },
         {
           "Id": 12,
@@ -3273,7 +3273,7 @@
         },
         {
           "Id": 13,
-          "References": ["Jer. 5:7; 23:10"]
+          "References": ["Jer. 5:7; Jer. 23:10"]
         },
         {
           "Id": 14,
@@ -3281,7 +3281,7 @@
         },
         {
           "Id": 15,
-          "References": ["Esth. 3:7; 9:24; Psa. 22:18"]
+          "References": ["Esth. 3:7; Esth. 9:24; Psa. 22:18"]
         },
         {
           "Id": 16,
@@ -3301,11 +3301,11 @@
         },
         {
           "Id": 20,
-          "References": ["Rom. 3:5, 7; 6:1-2"]
+          "References": ["Rom. 3:5, 7; Rom. 6:1-2"]
         },
         {
           "Id": 21,
-          "References": ["Eccl. 8:11; 9:3; Psa. ch. 39"]
+          "References": ["Eccl. 8:11; Eccl. 9:3; Psa. ch. 39"]
         },
         {
           "Id": 22,
@@ -3325,7 +3325,7 @@
         },
         {
           "Id": 26,
-          "References": ["I Tim. 1:4, 6-7; 6:4-5, 20; II Tim. 2:14; Titus. 3:9"]
+          "References": ["I Tim. 1:4, 6-7; I Tim. 6:4-5, 20; II Tim. 2:14; Titus. 3:9"]
         },
         {
           "Id": 27,
@@ -3349,11 +3349,11 @@
         },
         {
           "Id": 32,
-          "References": ["Acts 4:18; 13:45-46, 50; 19:9; I Thess 2:16; Heb. 10:29"]
+          "References": ["Acts 4:18; Acts 13:45-46, 50; Acts 19:9; I Thess 2:16; Heb. 10:29"]
         },
         {
           "Id": 33,
-          "References": ["II Tim. 3:5; Matt. 6:1-2, 5, 16; 23:14"]
+          "References": ["II Tim. 3:5; Matt. 6:1-2, 5, 16; Matt. 23:14"]
         },
         {
           "Id": 34,
@@ -3401,7 +3401,7 @@
         },
         {
           "Id": 4,
-          "References": ["I Sam. 2:12, 17, 22, 24; 3:18"]
+          "References": ["I Sam. 2:12, 17, 22, 24; I Sam. 3:18"]
         }
       ]
     },
@@ -3453,11 +3453,11 @@
         },
         {
           "Id": 4,
-          "References": ["Isa. 58:13-14; 66:23; Luke 4:16; Acts 20:7; I Cor. 16:1-2; Psa. ch. 92; Lev. 23:3"]
+          "References": ["Isa. 58:13-14; Isa. 66:23; Luke 4:16; Acts 20:7; I Cor. 16:1-2; Psa. ch. 92; Lev. 23:3"]
         },
         {
           "Id": 5,
-          "References": ["Exod. 16:22, 25-26, 29; 20:8; Luke 23:54, 56; Neh. 13:19"]
+          "References": ["Exod. 16:22, 25-26, 29; Exod. 20:8; Luke 23:54, 56; Neh. 13:19"]
         }
       ]
     },
@@ -3469,7 +3469,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Exod. 20:10; 23:12; Josh. 24:15; Neh. 13:15, 17; Jer. 17:20-22"]
+          "References": ["Exod. 20:10; Exod. 23:12; Josh. 24:15; Neh. 13:15, 17; Jer. 17:20-22"]
         }
       ]
     },
@@ -3605,7 +3605,7 @@
         },
         {
           "Id": 3,
-          "References": ["Gen. 4:20-22; 45:8"]
+          "References": ["Gen. 4:20-22; Gen. 45:8"]
         },
         {
           "Id": 4,
@@ -3613,7 +3613,7 @@
         },
         {
           "Id": 5,
-          "References": ["II Kings 2:12; 13:14; Gal. 4:19"]
+          "References": ["II Kings 2:12; II Kings 13:14; Gal. 4:19"]
         },
         {
           "Id": 6,
@@ -3677,7 +3677,7 @@
         },
         {
           "Id": 6,
-          "References": ["Eph. 6:1-2, 5-7; I Peter 2:13-14; Rom. 13:1-5; Heb. 13:17; Prov. 4:3-4; 23:22; Exod. 18:19, 24"]
+          "References": ["Eph. 6:1-2, 5-7; I Peter 2:13-14; Rom. 13:1-5; Heb. 13:17; Prov. 4:3-4; Prov. 23:22; Exod. 18:19, 24"]
         },
         {
           "Id": 7,
@@ -3693,7 +3693,7 @@
         },
         {
           "Id": 10,
-          "References": ["Matt. 22:21; Rom. 13:6-7; I Tim. 5:17-18; Gal. 6:6; Gen. 45:11; 47:12"]
+          "References": ["Matt. 22:21; Rom. 13:6-7; I Tim. 5:17-18; Gal. 6:6; Gen. 45:11; Gen. 47:12"]
         },
         {
           "Id": 11,
@@ -3837,7 +3837,7 @@
         },
         {
           "Id": 3,
-          "References": ["John 5:44; 7:18"]
+          "References": ["John 5:44; John 7:18"]
         },
         {
           "Id": 4,
@@ -3881,7 +3881,7 @@
         },
         {
           "Id": 14,
-          "References": ["Gen. 9:21; I Kings 1:6; 12:13-16; I Sam. 2:29-31"]
+          "References": ["Gen. 9:21; I Kings 1:6; I Kings 12:13-16; I Sam. 2:29-31"]
         }
       ]
     },
@@ -3993,7 +3993,7 @@
         },
         {
           "Id": 7,
-          "References": ["I Sam. 24:2; 26:9-11; Gen. 37:21-22"]
+          "References": ["I Sam. 24:2; I Sam. 26:9-11; Gen. 37:21-22"]
         },
         {
           "Id": 8,
@@ -4037,7 +4037,7 @@
         },
         {
           "Id": 18,
-          "References": ["I Sam. 19:4-5; 22:13-14"]
+          "References": ["I Sam. 19:4-5; I Sam. 22:13-14"]
         },
         {
           "Id": 19,
@@ -4129,7 +4129,7 @@
         },
         {
           "Id": 14,
-          "References": ["Eccl. 2:22-23; 12:12"]
+          "References": ["Eccl. 2:22-23; Eccl. 12:12"]
         },
         {
           "Id": 15,
@@ -4137,7 +4137,7 @@
         },
         {
           "Id": 16,
-          "References": ["Prov. 12:18; 15:1"]
+          "References": ["Prov. 12:18; Prov. 15:1"]
         },
         {
           "Id": 17,
@@ -4253,7 +4253,7 @@
         },
         {
           "Id": 5,
-          "References": ["Matt. 5:28; 15:19; Col. 3:5"]
+          "References": ["Matt. 5:28; Matt. 15:19; Col. 3:5"]
         },
         {
           "Id": 6,
@@ -4309,7 +4309,7 @@
         },
         {
           "Id": 19,
-          "References": ["Eph. 5:4; Ezek. 23:14-16; Isa. 3:16; 23:15-17; Mark 6:22; Rom. 13:13; I Peter 4:3"]
+          "References": ["Eph. 5:4; Ezek. 23:14-16; Isa. 3:16; Isa. 23:15-17; Mark 6:22; Rom. 13:13; I Peter 4:3"]
         },
         {
           "Id": 20,
@@ -4337,7 +4337,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Psa. 15:2, 4; Zech. 7:4, 10; 8:16-17"]
+          "References": ["Psa. 15:2, 4; Zech. 7:4, 10; Zech. 8:16-17"]
         },
         {
           "Id": 2,
@@ -4361,7 +4361,7 @@
         },
         {
           "Id": 7,
-          "References": ["Prov. 27:23-27; Eccl. 2:24; 3:12-13; I Tim. 6:17-18; Isa. 38:1; Matt. 11:8"]
+          "References": ["Prov. 27:23-27; Eccl. 2:24; Eccl. 3:12-13; I Tim. 6:17-18; Isa. 38:1; Matt. 11:8"]
         },
         {
           "Id": 8,
@@ -4381,7 +4381,7 @@
         },
         {
           "Id": 12,
-          "References": ["Prov. 6:1-6; 11:15"]
+          "References": ["Prov. 6:1-6; Prov. 11:15"]
         },
         {
           "Id": 13,
@@ -4421,7 +4421,7 @@
         },
         {
           "Id": 7,
-          "References": ["Prov. 11:1; 20:10"]
+          "References": ["Prov. 11:1; Prov. 20:10"]
         },
         {
           "Id": 8,
@@ -4485,7 +4485,7 @@
         },
         {
           "Id": 23,
-          "References": ["Psa. 37:1, 7; 73:3"]
+          "References": ["Psa. 37:1, 7; Psa. 73:3"]
         },
         {
           "Id": 24,
@@ -4493,11 +4493,11 @@
         },
         {
           "Id": 25,
-          "References": ["Prov. 21:17; 23:20-21; 28:19"]
+          "References": ["Prov. 21:17; Prov. 23:20-21; Prov. 28:19"]
         },
         {
           "Id": 26,
-          "References": ["Eccl. 4:8; 6:2; I Tim. 5:8"]
+          "References": ["Eccl. 4:8; Eccl. 6:2; I Tim. 5:8"]
         }
       ]
     },
@@ -4569,7 +4569,7 @@
         },
         {
           "Id": 13,
-          "References": ["II Cor. 2:4; 12:21"]
+          "References": ["II Cor. 2:4; II Cor. 12:21"]
         },
         {
           "Id": 14,
@@ -4625,7 +4625,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["I Sam. 17:28; II Sam. 1:9-10, 15-16; 16:3"]
+          "References": ["I Sam. 17:28; II Sam. 1:9-10, 15-16; II Sam. 16:3"]
         },
         {
           "Id": 2,
@@ -4633,7 +4633,7 @@
         },
         {
           "Id": 3,
-          "References": ["Prov. 6:16, 19; 19:5"]
+          "References": ["Prov. 6:16, 19; Prov. 19:5"]
         },
         {
           "Id": 4,
@@ -4641,7 +4641,7 @@
         },
         {
           "Id": 5,
-          "References": ["Jer. 9:3, 5; Acts 24:2, 5; Psa. 3:1-4; 12:3-4"]
+          "References": ["Jer. 9:3, 5; Acts 24:2, 5; Psa. 3:1-4; Psa. 12:3-4"]
         },
         {
           "Id": 6,
@@ -4653,7 +4653,7 @@
         },
         {
           "Id": 8,
-          "References": ["Psa. 119:69; Luke 16:5-7; 19:8"]
+          "References": ["Psa. 119:69; Luke 16:5-7; Luke 19:8"]
         },
         {
           "Id": 9,
@@ -4757,7 +4757,7 @@
         },
         {
           "Id": 34,
-          "References": ["Prov. 28:13; 30:20; Gen. 3:12-13; 4:9; Jer. 2:35; II Kings 5:25"]
+          "References": ["Prov. 28:13; Prov. 30:20; Gen. 3:12-13; Gen. 4:9; Jer. 2:35; II Kings 5:25"]
         },
         {
           "Id": 35,
@@ -4809,7 +4809,7 @@
         },
         {
           "Id": 47,
-          "References": ["II Sam. 13:12-13; Prov. 5:8-9; 6:33"]
+          "References": ["II Sam. 13:12-13; Prov. 5:8-9; Prov. 6:33"]
         }
       ]
     },
@@ -4961,7 +4961,7 @@
         },
         {
           "Id": 14,
-          "References": ["Heb. 2:2-3; 12:25"]
+          "References": ["Heb. 2:2-3; Heb. 12:25"]
         },
         {
           "Id": 15,
@@ -5009,7 +5009,7 @@
         },
         {
           "Id": 26,
-          "References": ["Col. 3:5; I Tim. 6:10; Prov. 5:8-12; 6:32-33; Josh. 7:21"]
+          "References": ["Col. 3:5; I Tim. 6:10; Prov. 5:8-12; Prov. 6:32-33; Josh. 7:21"]
         },
         {
           "Id": 27,
@@ -5165,7 +5165,7 @@
         },
         {
           "Id": 3,
-          "References": ["Hab. 1:13; Lev. 10:3; 11:44-45"]
+          "References": ["Hab. 1:13; Lev. 10:3; Lev. 11:44-45"]
         },
         {
           "Id": 4,
@@ -5197,11 +5197,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Acts 16:30-31; 20:21; Matt. 3:7-8; Luke 13:3, 5; John 3:16, 18"]
+          "References": ["Acts 16:30-31; Acts 20:21; Matt. 3:7-8; Luke 13:3, 5; John 3:16, 18"]
         },
         {
           "Id": 2,
-          "References": ["Prov. 2:1-5; 8:33-36"]
+          "References": ["Prov. 2:1-5; Prov. 8:33-36"]
         }
       ]
     },
@@ -5233,7 +5233,7 @@
         },
         {
           "Id": 3,
-          "References": ["Acts 2:37, 41; 8:27-39"]
+          "References": ["Acts 2:37, 41; Acts 8:27-39"]
         },
         {
           "Id": 4,
@@ -5253,7 +5253,7 @@
         },
         {
           "Id": 8,
-          "References": ["Rom. 1:16; 10:13-17; 15:4; 16:25; I Thess. 3:2, 10-11, 13"]
+          "References": ["Rom. 1:16; Rom. 10:13-17; Rom. 15:4; Rom. 16:25; I Thess. 3:2, 10-11, 13"]
         }
       ]
     },
@@ -5265,7 +5265,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Deut. 31:9, 11-13; Neh. 8:2-3; 9:3-5"]
+          "References": ["Deut. 31:9, 11-13; Neh. 8:2-3; Neh. 9:3-5"]
         },
         {
           "Id": 2,
@@ -5341,7 +5341,7 @@
         },
         {
           "Id": 2,
-          "References": ["Jer. 14:15; Rom. 10:15; Heb. 5:4; I Cor. 12:28-29; I Tim. 3:10; 4:14; 5:22"]
+          "References": ["Jer. 14:15; Rom. 10:15; Heb. 5:4; I Cor. 12:28-29; I Tim. 3:10; I Tim. 4:14; I Tim. 5:22"]
         }
       ]
     },
@@ -5401,7 +5401,7 @@
         },
         {
           "Id": 13,
-          "References": ["II Cor. 2:17; 4:2"]
+          "References": ["II Cor. 2:17; II Cor. 4:2"]
         },
         {
           "Id": 14,
@@ -5489,7 +5489,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["I Peter 3:21; Acts 8:13, 23; I Cor. 3:6-7; 12:13"]
+          "References": ["I Peter 3:21; Acts 8:13, 23; I Cor. 3:6-7; I Cor. 12:13"]
         }
       ]
     },
@@ -5501,7 +5501,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Gen. 17:7, 10; Exod. ch. 12; Matt. 26:26-28; 28:19"]
+          "References": ["Gen. 17:7, 10; Exod. ch. 12; Matt. 26:26-28; Matt. 28:19"]
         },
         {
           "Id": 2,
@@ -5553,7 +5553,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Matt. 26:26-28; 28:19; I Cor. 11:20, 23"]
+          "References": ["Matt. 26:26-28; Matt. 28:19; I Cor. 11:20, 23"]
         }
       ]
     },
@@ -5605,11 +5605,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Acts 2:38; 8:36-37"]
+          "References": ["Acts 2:38; Acts 8:36-37"]
         },
         {
           "Id": 2,
-          "References": ["Gen. 17:7, 9; Gal. 3:9, 14; Col. 2:11-12; Acts 2:38-39; Rom. 4:11-12; 11:16; I Cor. 7:14; Matt 28:19; Luke 18:15-16"]
+          "References": ["Gen. 17:7, 9; Gal. 3:9, 14; Col. 2:11-12; Acts 2:38-39; Rom. 4:11-12; Rom. 11:16; I Cor. 7:14; Matt 28:19; Luke 18:15-16"]
         }
       ]
     },
@@ -5761,7 +5761,7 @@
         },
         {
           "Id": 8,
-          "References": ["I Cor. 5:8; 11:18, 20"]
+          "References": ["I Cor. 5:8; I Cor. 11:18, 20"]
         },
         {
           "Id": 9,
@@ -5801,11 +5801,11 @@
         },
         {
           "Id": 2,
-          "References": ["Isa. 54:7-10; Matt. 5:3-4; Psa. 31:22; 73:13, 22-23"]
+          "References": ["Isa. 54:7-10; Matt. 5:3-4; Psa. 31:22; Psa. 73:13, 22-23"]
         },
         {
           "Id": 3,
-          "References": ["Phil 3:8-9; Psa. 10:17; 42:1-2, 5, 11"]
+          "References": ["Phil 3:8-9; Psa. 10:17; Psa. 42:1-2, 5, 11"]
         },
         {
           "Id": 4,
@@ -5813,7 +5813,7 @@
         },
         {
           "Id": 5,
-          "References": ["Isa. 40:11, 29, 31; Matt. 11:28; 12:20; 26:28"]
+          "References": ["Isa. 40:11, 29, 31; Matt. 11:28; Matt. 12:20; Matt. 26:28"]
         },
         {
           "Id": 6,
@@ -5837,7 +5837,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["I Cor. ch. 5; 11:27-31; Matt. 7:6; Jude 1:23; I Tim. 5:22"]
+          "References": ["I Cor. ch. 5; I Cor. 11:27-31; Matt. 7:6; Jude 1:23; I Tim. 5:22"]
         },
         {
           "Id": 2,
@@ -5869,7 +5869,7 @@
         },
         {
           "Id": 5,
-          "References": ["I Cor. 10:3-5, 11, 14; 11:26"]
+          "References": ["I Cor. 10:3-5, 11, 14; I Cor. 11:26"]
         },
         {
           "Id": 6,
@@ -5945,7 +5945,7 @@
         },
         {
           "Id": 8,
-          "References": ["Psa. 42:5, 8; 43:3-5; 123:1-2"]
+          "References": ["Psa. 42:5, 8; Psa. 43:3-5; Psa. 123:1-2"]
         },
         {
           "Id": 9,
@@ -5977,7 +5977,7 @@
         },
         {
           "Id": 4,
-          "References": ["John 1:33; Matt. 28:19; I Cor. 4:1; 11:23; Heb. 5:4"]
+          "References": ["John 1:33; Matt. 28:19; I Cor. 4:1; I Cor. 11:23; Heb. 5:4"]
         },
         {
           "Id": 5,
@@ -6225,7 +6225,7 @@
         },
         {
           "Id": 2,
-          "References": ["Gen. 18:27; 32:10"]
+          "References": ["Gen. 18:27; Gen. 32:10"]
         },
         {
           "Id": 3,
@@ -6257,7 +6257,7 @@
         },
         {
           "Id": 10,
-          "References": ["Psa. 17:1; 145:18"]
+          "References": ["Psa. 17:1; Psa. 145:18"]
         },
         {
           "Id": 11,
@@ -6376,7 +6376,7 @@
         },
         {
           "Id": 6,
-          "References": ["II Thess. 3:1; Psa. 138:1-3; 147:19-20; II Cor. 2:14-15"]
+          "References": ["II Thess. 3:1; Psa. 138:1-3; Psa. 147:19-20; II Cor. 2:14-15"]
         },
         {
           "Id": 7,
@@ -6384,7 +6384,7 @@
         },
         {
           "Id": 8,
-          "References": ["Psa. 19:14; 103:1"]
+          "References": ["Psa. 19:14; Psa. 103:1"]
         },
         {
           "Id": 9,
@@ -6412,7 +6412,7 @@
         },
         {
           "Id": 15,
-          "References": ["II Chr. 20:6, 10-12; Psa. ch. 83; 140:4, 8"]
+          "References": ["II Chr. 20:6, 10-12; Psa. ch. 83; Psa. 140:4, 8"]
         }
       ]
     },
@@ -6460,7 +6460,7 @@
         },
         {
           "Id": 10,
-          "References": ["Acts 4:29-30; Eph. 6:18-20; Rom. 15:29-30, 32; II Thess. 1:11; 2:16-17"]
+          "References": ["Acts 4:29-30; Eph. 6:18-20; Rom. 15:29-30, 32; II Thess. 1:11; II Thess. 2:16-17"]
         },
         {
           "Id": 11,
@@ -6596,7 +6596,7 @@
         },
         {
           "Id": 9,
-          "References": ["Gen. 28:20; 43:12-14; Eph. 4:28; II Thess. 3:11-12; Phil. 4:6"]
+          "References": ["Gen. 28:20; Gen. 43:12-14; Eph. 4:28; II Thess. 3:11-12; Phil. 4:6"]
         },
         {
           "Id": 10,
@@ -6648,7 +6648,7 @@
         },
         {
           "Id": 8,
-          "References": ["Luke 11:4; Matt. 6:14-15; 18:35"]
+          "References": ["Luke 11:4; Matt. 6:14-15; Matt. 18:35"]
         }
       ]
     },
@@ -6688,7 +6688,7 @@
         },
         {
           "Id": 8,
-          "References": ["Matt. 26:69-72; Gal. 2:11-14; II Chr. 18:3; 19:2"]
+          "References": ["Matt. 26:69-72; Gal. 2:11-14; II Chr. 18:3; II Chr. 19:2"]
         },
         {
           "Id": 9,
@@ -6704,7 +6704,7 @@
         },
         {
           "Id": 12,
-          "References": ["Psa. 51:10; 119:133"]
+          "References": ["Psa. 51:10; Psa. 119:133"]
         },
         {
           "Id": 13,
