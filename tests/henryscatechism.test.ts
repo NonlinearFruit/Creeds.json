@@ -1,9 +1,7 @@
 import { describe } from "vitest"
 import { testData, testDocument, testProofs } from "./common.ts"
 
-const type = "HenrysCatechism"
-
-describe.each(testData[type])('$filename', ({filepath, creed}) => {
+describe.each(testData.HenrysCatechism)('$filename', ({filepath, creed}) => {
 
   testDocument(creed, filepath)
 
