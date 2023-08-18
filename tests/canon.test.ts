@@ -1,22 +1,7 @@
 import { resolve } from "path";
 import { readdirSync, readFileSync } from "fs"
 import { describe, test, expect } from "vitest"
-import { Validator } from "jsonschema"
-import TJS from "typescript-json-schema"
-import { testReferences } from "./common.ts"
-
-const validator = new Validator()
-
-const compilerOptions: TJS.CompilerOptions = {
-  strictNullChecks: true,
-}
-const program = TJS.getProgramFromFiles(
-  [resolve("tests/types.ts")],
-  compilerOptions
-)
-const settings: TJS.PartialArgs = {
-  required: true,
-}
+import { testReferences, validateSchema } from "./common.ts"
 
 const type = "Canon"
 const repoPath = resolve(__dirname, '..')
@@ -31,21 +16,9 @@ const testData = files
 
 describe.each(testData)('$filename', ({filename, creed}) => {
 
-  test('has metadata', async () => {
-    const schema = TJS.generateSchema(program, "Metadata", settings)
+  validateSchema("Metadata", creed.Metadata)
 
-    const result = validator.validate(creed.Metadata, schema)
-
-    expect(result.valid, result).toBeTruthy()
-  })
-
-  test(`matches ${creed.Metadata.CreedFormat} schema`, async () => {
-    const schema = TJS.generateSchema(program, creed.Metadata.CreedFormat, settings)
-
-    const result = validator.validate(creed, schema)
-
-    expect(result.valid, result).toBeTruthy()
-  })
+  validateSchema(creed.Metadata.CreedFormat, creed)
 
   test('is ascii', async () => {
     let buf = readFileSync(`${creedFolder}/${filename}`)
