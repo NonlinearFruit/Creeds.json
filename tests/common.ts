@@ -34,9 +34,13 @@ const settings: TJS.PartialArgs = {
   required: true,
 }
 
+const schemas = {}
+for(const typeName of ["Metadata", "Proof", "Creed", "Canon", "Confession", "Catechism", "HenrysCatechism"])
+  schemas[typeName] = TJS.generateSchema(program, typeName, settings)
+
 const validateSchema = (typeName, document) => {
   test(`matches ${typeName} schema`, async () => {
-    const schema = TJS.generateSchema(program, typeName, settings)
+    const schema = schemas[typeName]
 
     const result = validator.validate(document, schema)
 
