@@ -3,6 +3,7 @@ import { readdirSync, readFileSync } from "fs"
 import { describe, test, expect } from "vitest"
 import { Validator } from "jsonschema"
 import TJS from "typescript-json-schema"
+import { testReferences } from "./common.ts"
 
 const validator = new Validator()
 
@@ -55,6 +56,8 @@ describe.each(testData)('$filename', ({filename, creed}) => {
 
   const item = creed.Data
 
+  testReferences(item.Proofs)
+
   test('each footnote has a proof text', () => {
     if (!item.Proofs || !(item.Proofs instanceof Array))
       return
@@ -82,14 +85,6 @@ describe.each(testData)('$filename', ({filename, creed}) => {
       .reduce((a, b) => a + b, '')
     for (const proof of item.Proofs)
       expect(text).toContain(`[${proof.Id}]`)
-  })
-
-  test('each proof reference is valid', async () => {
-    if (!item.Proofs || !(item.Proofs instanceof Array))
-      return
-    for (const proof of item.Proofs) {
-      expect(proof.References).toBeInstanceOf(Array)
-    }
   })
 
   test('no footnotes in non-WithProofs strings', async () => {
