@@ -63,6 +63,9 @@ const testReferences = (proofs: Proof[]) => {
       return
     for (const proof of proofs) {
       expect(proof.References).toBeInstanceOf(Array)
+      for (const reference of proof.References) {
+        expect(reference).not.toContain(';')
+      }
     }
   })
 }
