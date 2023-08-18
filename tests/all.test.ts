@@ -1,4 +1,4 @@
-import { test, expect } from "vitest"
+import { describe, test, expect } from "vitest"
 import { resolve } from "path";
 import { readdirSync, readFileSync } from "fs"
 import { Validator } from "jsonschema"
@@ -117,3 +117,94 @@ export const testProofs = (item: any) => {
     expect(footnoteIds).toBeNull()
   })
 }
+
+describe.each(testData.Canon)('$filename', ({filepath, creed}) => {
+
+  testDocument(creed, filepath)
+
+  let data = creed.Data
+  if (data instanceof Array)
+    data = data.map(item => ({
+      title: `${item.Number ?? item.Article ?? item.Chapter} ${item.Title ?? item.Question}`,
+      item
+    }))
+  else
+    data = [{
+      title: "Content",
+      item: data
+    }]
+  describe.each(data)('$title', ({item}) => {
+    testProofs(item)
+  })
+})
+
+describe.each(testData.Catechism)('$filename', ({filepath, creed}) => {
+
+  testDocument(creed, filepath)
+
+  let data = creed.Data
+  if (data instanceof Array)
+    data = data.map(item => ({
+      title: `${item.Number ?? item.Article ?? item.Chapter} ${item.Title ?? item.Question}`,
+      item
+    }))
+  else
+    data = [{
+      title: "Content",
+      item: data
+    }]
+  describe.each(data)('$title', ({item}) => {
+    testProofs(item)
+  })
+})
+
+describe.each(testData.Confession)('$filename', ({filepath, creed}) => {
+
+  testDocument(creed, filepath)
+
+  let data = creed.Data
+  if (data instanceof Array)
+    data = data.map(item => ({
+      title: `${item.Number ?? item.Article ?? item.Chapter} ${item.Title ?? item.Question}`,
+      item
+    }))
+  else
+    data = [{
+      title: "Content",
+      item: data
+    }]
+  describe.each(data)('$title', ({item}) => {
+    testProofs(item)
+  })
+})
+
+describe.each(testData.Creed)('$filename', ({filepath, creed}) => {
+
+  testDocument(creed, filepath)
+
+  const item = creed.Data
+
+  testProofs(item)
+})
+
+describe.each(testData.HenrysCatechism)('$filename', ({filepath, creed}) => {
+
+  testDocument(creed, filepath)
+
+  let data = creed.Data
+  if (data instanceof Array)
+    data = data.map(item => ({
+      title: `${item.Number ?? item.Article ?? item.Chapter} ${item.Title ?? item.Question}`,
+      item
+    }))
+  else
+    data = [{
+      title: "Content",
+      item: data
+    }]
+  describe.each(data)('$title', ({item}) => {
+    describe.each(item.SubQuestions)('$Number $Question', (subquestion) => {
+      testProofs(subquestion)
+    })
+  })
+})
