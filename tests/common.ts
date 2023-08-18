@@ -1,9 +1,25 @@
 import { test, expect } from "vitest"
 import { resolve } from "path";
-import { readFileSync } from "fs"
+import { readdirSync, readFileSync } from "fs"
 import { Validator } from "jsonschema"
 import TJS from "typescript-json-schema"
 import type { CreedDocument, Proof } from "./types.ts"
+
+const repoPath = resolve(__dirname, '..')
+const creedFolder = `${repoPath}/creeds`
+const files = readdirSync(creedFolder)
+export const testData = files.reduce((acc, filename) => {
+  const filepath = `${creedFolder}/${filename}`
+  const creed = require(filepath)
+  const data = {
+    filename,
+    filepath,
+    creed,
+  }
+  acc[creed.Metadata.CreedFormat] ??= []
+  acc[creed.Metadata.CreedFormat].push(data)
+  return acc
+}, {})
 
 const validator = new Validator()
 

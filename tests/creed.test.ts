@@ -1,22 +1,11 @@
-import { resolve } from "path";
-import { readdirSync } from "fs"
 import { describe, test, expect } from "vitest"
-import { testReferences, testDocument } from "./common.ts"
+import { testData, testReferences, testDocument } from "./common.ts"
 
 const type = "Creed"
-const repoPath = resolve(__dirname, '..')
-const creedFolder = `${repoPath}/creeds`
-const files = readdirSync(creedFolder)
-const testData = files
-  .map(filename => ({
-    filename,
-    creed: require(`${creedFolder}/${filename}`)
-  }))
-  .filter(testData => testData.creed.Metadata.CreedFormat == type)
 
-describe.each(testData)('$filename', ({filename, creed}) => {
+describe.each(testData[type])('$filename', ({filename, filepath, creed}) => {
 
-  testDocument(creed, `${creedFolder}/${filename}`)
+  testDocument(creed, filepath)
 
   const item = creed.Data
 
