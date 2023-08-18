@@ -17,6 +17,8 @@ describe.each(testData.HenrysCatechism)('$filename', ({filepath, creed}) => {
       item: data
     }]
   describe.each(data)('$title', ({item}) => {
-    testProofs(item)
+    describe.each(item.SubQuestions)('$Number $Question', (subquestion) => {
+      testProofs(subquestion)
+    })
   })
 })

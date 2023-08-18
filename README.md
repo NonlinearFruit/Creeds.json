@@ -2,7 +2,7 @@
   <img src="./metadata/feature_graphic.png">
   <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-41-blue"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/actions/workflow/status/NonlinearFruit/Creeds.json/DataValidation.yml?label=tests&branch=master"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-5899-yellowgreen"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"><img src="https://img.shields.io/badge/test%20count-16487-yellowgreen"></a>
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
