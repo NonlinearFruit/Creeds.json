@@ -65,3 +65,8 @@ interface HenrysCatechismSubQuestion {
   Question: string;
   Answer: string;
 }
+
+export interface Proof {
+  Id: number;
+  References: string[];
+}
