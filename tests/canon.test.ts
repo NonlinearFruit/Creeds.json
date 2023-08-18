@@ -1,7 +1,7 @@
 import { resolve } from "path";
-import { readdirSync, readFileSync } from "fs"
+import { readdirSync } from "fs"
 import { describe, test, expect } from "vitest"
-import { testReferences, validateSchema } from "./common.ts"
+import { testReferences, testDocument } from "./common.ts"
 
 const type = "Canon"
 const repoPath = resolve(__dirname, '..')
@@ -16,16 +16,7 @@ const testData = files
 
 describe.each(testData)('$filename', ({filename, creed}) => {
 
-  validateSchema("Metadata", creed.Metadata)
-
-  validateSchema(creed.Metadata.CreedFormat, creed)
-
-  test('is ascii', async () => {
-    let buf = readFileSync(`${creedFolder}/${filename}`)
-    const len=buf.length
-    for (let i=0; i<len; i++)
-      expect(buf[i]).toBeLessThan(127)
-  })
+  testDocument(creed, `${creedFolder}/${filename}`)
 
   let data = creed.Data
   if (data instanceof Array)
