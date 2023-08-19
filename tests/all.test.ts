@@ -62,12 +62,10 @@ export const testDocument = (document: CreedDocument<any>, filename: string) => 
 }
 
 const testReferences = (proof: any) => {
-  test('each reference is valid', async () => {
-    expect(proof.References).toBeInstanceOf(Array)
-    for (const reference of proof.References) {
+  for(const reference of proof.References)
+    test(`${reference} is valid`, async () => {
       expect(reference).not.toContain(';')
-    }
-  })
+    })
 }
 
 export const testProofs = (item: any) => {
@@ -101,7 +99,7 @@ export const testProofs = (item: any) => {
         expect(proofTextIds).toContain(footnoteId)
   })
 
-  describe.each(item.Proofs)('Proof: $id', (proof) => {
+  describe.each(item.Proofs)('Proof: $Id', (proof) => {
     validateSchema("Proof", proof)
 
     testReferences(proof)
