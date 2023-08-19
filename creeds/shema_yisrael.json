@@ -22,7 +22,7 @@
     "ContentWithProofs": "Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might.[1]",
     "Proofs": [
       {
-        "Id": "1",
+        "Id": 1,
         "References": ["Deut. 6:4-5"]
       }
     ]

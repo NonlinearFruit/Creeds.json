@@ -102,6 +102,8 @@ export const testProofs = (item: any) => {
   })
 
   describe.each(item.Proofs)('Proof: $id', (proof) => {
+    validateSchema("Proof", proof)
+
     testReferences(proof)
 
     test('has a footnote', async () => {
