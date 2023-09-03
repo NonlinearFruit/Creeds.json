@@ -3,7 +3,8 @@ import { resolve } from "path";
 import { readdirSync, readFileSync } from "fs"
 import { Validator } from "jsonschema"
 import TJS from "typescript-json-schema"
-import type { CreedDocument, Proof } from "./types.ts"
+import { bcv_parser as BcvParcer } from "bible-passage-reference-parser/js/en_bcv_parser"
+import type { CreedDocument } from "./types.ts"
 
 const repoPath = resolve(__dirname, '..')
 const creedFolder = `${repoPath}/creeds`
@@ -34,6 +35,8 @@ const settings: TJS.PartialArgs = {
   required: true,
 }
 
+const referenceParser = new BcvParcer()
+
 const schemas = {}
 for(const typeName of ["Metadata", "Proof", "Creed", "Canon", "Confession", "Catechism", "HenrysCatechism"])
   schemas[typeName] = TJS.generateSchema(program, typeName, settings)
@@ -62,10 +65,16 @@ export const testDocument = (document: CreedDocument<any>, filename: string) => 
 }
 
 const testReferences = (proof: any) => {
-  for(const reference of proof.References)
-    test(`${reference} is valid`, async () => {
+  for(const reference of proof.References) {
+    test(`${reference} is a single reference`, async () => {
       expect(reference).not.toContain(';')
     })
+
+    test(`${reference} is OSIS`, async () => {
+      const osis = referenceParser.parse(reference).osis()
+      expect(reference).toEqual(osis)
+    })
+  }
 }
 
 export const testProofs = (item: any) => {
