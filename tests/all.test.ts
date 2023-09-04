@@ -8,7 +8,7 @@ import type { CreedDocument, Proof } from "./types.ts"
 const repoPath = resolve(__dirname, '..')
 const creedFolder = `${repoPath}/creeds`
 const files = readdirSync(creedFolder)
-export const testData = files.reduce((acc, filename) => {
+const testData = files.reduce((acc, filename) => {
   const filepath = `${creedFolder}/${filename}`
   const creed = require(filepath)
   const data = {
@@ -48,7 +48,7 @@ const validateSchema = (typeName, document) => {
   })
 }
 
-export const testDocument = (document: CreedDocument<any>, filename: string) => {
+const testDocument = (document: CreedDocument<any>, filename: string) => {
   validateSchema("Metadata", document.Metadata)
 
   validateSchema(document.Metadata.CreedFormat, document)
@@ -68,7 +68,7 @@ const testReferences = (proof: any) => {
     })
 }
 
-export const testProofs = (item: any) => {
+const testProofs = (item: any) => {
   test('no footnotes in non-WithProofs strings', async () => {
     const footnoteIds = Object
       .entries(item)
