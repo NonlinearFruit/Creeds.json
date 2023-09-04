@@ -143,56 +143,56 @@
       "Article": "VI",
       "Title": "CONCERNING OUR LORD'S SUPPER",
       "Content": "We confess that the Lord Jesus instituted His holy Supper for the observance of His holy passion with thanksgiving, to proclaim His death, and also to attest Christian love and unity with true faith.\n\nAnd just as in Baptism, in which the washing away of sins is offered to us by the ministers of the Church but can only be effected by the Father, Son and Holy Spirit, water remains truly water, so also does the bread and wine remain bread and wine in the Lord's Supper, in which the true body and blood of Christ is portrayed and offered to us with the bread and wine of the Lord, together with the words of institution.\n\nWe firmly believe, however, that Christ Himself is the food of a believing soul unto eternal life, and that our souls are nourished through true faith in the crucified Christ with the flesh and blood of Christ, and that we, as members of His body of which He is our only Head, live in Him and He in us, so that on the Day of Judgment we may be raised by Him and in Him to eternal joy and blessedness. Therefore we confess this: that Christ is present in His holy Supper for all who truly believe. However, we do not enclose in the bread and wine of the Lord the natural, true and essential body of Christ who was born of the pure Virgin Mary, suffered for us and has ascended into heaven. Consequently we do not adore Christ in these signs of bread and wine which we commonly call sacraments of the body and blood of Christ, but in heaven at the right hand of God the Father, whence He will come to judge the living and the dead.",
-      "ContentWithProofs": "We confess that the Lord Jesus instituted His holy Supper for the observance of His holy passion with thanksgiving, to proclaim His death, and also to attest Christian love and unity with true faith.[10]\n\nAnd just as in Baptism, in which the washing away of sins is offered to us by the ministers of the Church but can only be effected by the Father, Son and Holy Spirit, water remains truly water, so also does the bread and wine remain bread and wine in the Lord's Supper, in which the true body and blood of Christ is portrayed and offered to us with the bread and wine of the Lord, together with the words of institution.[11]\n\nWe firmly believe, however, that Christ Himself is the food of a believing soul unto eternal life, and that our souls are nourished through true faith in the crucified Christ with the flesh and blood of Christ,[12] and that we, as members of His body of which He is our only Head, live in Him and He in us, so that on the Day of Judgment we may be raised by Him and in Him to eternal joy and blessedness. Therefore we confess this: that Christ is present in His holy Supper for all who truly believe.[13] However, we do not enclose in the bread and wine of the Lord the natural, true and essential body of Christ who was born of the pure Virgin Mary, suffered for us and has ascended into heaven.[14] Consequently we do not adore Christ in these signs of bread and wine which we commonly call sacraments of the body and blood of Christ, but in heaven at the right hand of God the Father, whence He will come to judge the living and the dead.[15]",
+      "ContentWithProofs": "We confess that the Lord Jesus instituted His holy Supper for the observance of His holy passion with thanksgiving, to proclaim His death, and also to attest Christian love and unity with true faith.[1]\n\nAnd just as in Baptism, in which the washing away of sins is offered to us by the ministers of the Church but can only be effected by the Father, Son and Holy Spirit, water remains truly water, so also does the bread and wine remain bread and wine in the Lord's Supper, in which the true body and blood of Christ is portrayed and offered to us with the bread and wine of the Lord, together with the words of institution.[2]\n\nWe firmly believe, however, that Christ Himself is the food of a believing soul unto eternal life, and that our souls are nourished through true faith in the crucified Christ with the flesh and blood of Christ,[3] and that we, as members of His body of which He is our only Head, live in Him and He in us, so that on the Day of Judgment we may be raised by Him and in Him to eternal joy and blessedness. Therefore we confess this: that Christ is present in His holy Supper for all who truly believe.[4] However, we do not enclose in the bread and wine of the Lord the natural, true and essential body of Christ who was born of the pure Virgin Mary, suffered for us and has ascended into heaven.[5] Consequently we do not adore Christ in these signs of bread and wine which we commonly call sacraments of the body and blood of Christ, but in heaven at the right hand of God the Father, whence He will come to judge the living and the dead.[6]",
       "Proofs": [
         {
-          "Id": 10,
+          "Id": 1,
           "References": ["Luke 22:19", "I Cor. 11:23", "I Cor. 10:16"]
         },
         {
-          "Id": 11,
+          "Id": 2,
           "References": ["John 6:35"]
         },
         {
-          "Id": 12,
+          "Id": 3,
           "References": ["John 11:25", "Eph. 1:22", "Eph. 4:15", "Eph. 5:23", "Col. 1:18"]
         },
         {
-          "Id": 13,
+          "Id": 4,
           "References": []
         },
         {
-          "Id": 14,
+          "Id": 5,
           "References": ["Acts 1:9", "Acts 7:55", "Col. 3:1", "Heb. 1:3", "Heb. 10:19"]
         },
         {
-          "Id": 15,
+          "Id": 6,
           "References": ["Acts 3:21", "II Tim. 4:1"]
         }
       ],
       "ProofsWithScripture": [
         {
-          "Id": 10,
+          "Id": 1,
           "References": ["Luke 22:19", "I Cor. 11:23", "I Cor. 10:16"]
         },
         {
-          "Id": 11,
+          "Id": 2,
           "References": ["A powerful parable against the enemies of truth. John 6:35f.  It is in. deed a spiritual food and hence it has to be enjoyed by a believing soul."]
         },
         {
-          "Id": 12,
+          "Id": 3,
           "References": ["That is, the souls are satisfied, made strong and robust, contented and at peace, cheerful and a match for anything, just as the body is nourished by bodily food. A man becomes a spiritual member of the spiritual body of Christ. John 11:25 f.", "Eph. 1:22 f.", "Eph. 4:15", "Eph. 5:23", "Col. 1:18 f."]
         },
         {
-          "Id": 13,
+          "Id": 4,
           "References": ["Sacramentally and through the contemplation of faith which raises a man in his thoughts to heaven, but does not draw Christ down in his human nature from the right hand of God."]
         },
         {
-          "Id": 14,
+          "Id": 5,
           "References": ["Acts 1:9", "Acts 7:55", "Col. 3:1", "Heb. 1:3", "Heb. 10:19"]
         },
         {
-          "Id": 15,
+          "Id": 6,
           "References": ["Acts 3:21", "II Tim. 4:1"]
         }
       ]

@@ -99,6 +99,14 @@ const testProofs = (item: any) => {
         expect(proofTextIds).toContain(footnoteId)
   })
 
+  test('proof ids are consecuative starting with one', () => {
+    item
+      .Proofs
+      .map(p => p.Id)
+      .sort((a, b) => a-b)
+      .forEach((id, index) => expect(id).toEqual(index+1));
+  })
+
   describe.each(item.Proofs)('Proof: $Id', (proof) => {
     validateSchema("Proof", proof)
 
