@@ -25,11 +25,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Gen. 1:1", "John 1:14", "I Chron. 29:11-12", "Acts 2:23"]
+          "References": ["Gen.1.1", "John.1.14", "1Chr.29.11-1Chr.29.12", "Acts.2.23"]
         },
         {
           "Id": 2,
-          "References": ["Rom. 8:28", "Rom. 9:6", "Rom. 11:5", "Eph. 1:4"]
+          "References": ["Rom.8.28", "Rom.9.6", "Rom.11.5", "Eph.1.4"]
         }
       ],
       "ProofsWithScripture": [
@@ -51,7 +51,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Gen. 1:26", "Eph. 4:21", "Gen. 8:6", "Gen. 5:3", "Rom. 5:12, 15", "I Cor.  15:21", "Eph. 2:1", "Gen. 6:5", "Gen. 8:21", "John 3:3", "Rom. 3:10, 23", "Ps. 143:2, 10", "Eph. 2:1"]
+          "References": ["Gen.1.26", "Eph.4.21", "Gen.8.6", "Gen.5.3", "Rom.5.12,Rom.5.15", "1Cor.15.21", "Eph.2.1", "Gen.6.5", "Gen.8.21", "John.3.3", "Rom.3.10,Rom.3.23", "Ps.143.2,Ps.143.10", "Eph.2.1"]
         }
       ],
       "ProofsWithScripture": [
@@ -69,7 +69,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Rom. 5:16", "Gen. 3:15", "Gen. 21:15", "Gen. 26:3-4, 24", "Gen. 28:13"]
+          "References": ["Rom.5.16", "Gen.3.15", "Gen.21.15", "Gen.26.3-Gen.26.4,Gen.26.24", "Gen.28.13"]
         }
       ],
       "ProofsWithScripture": [
@@ -87,11 +87,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Man. 1:20", "Luke 2:10", "John 1:14", "Phil. 2:6-7", "Rom. 6:8", "Rom. 8:15", "Heb. 2:10"]
+          "References": ["Matt.1.20", "Luke.2.10", "John.1.14", "Phil.2.6-Phil.2.7", "Rom.6.8", "Rom.8.15", "Heb.2.10"]
         },
         {
           "Id": 2,
-          "References": ["Matt. 1:18", "Luke 1:35", "Luke 2:7", "Matt. 20:28", "Matt. 26:28", "Rom. 5:6", "I Cor. 15:3", "1 Peter 2:24", "Heb. 9:14, 26, 28", "Heb. 10:10, 12, 14", "Rom. 6:10", "I Peter 3:18", "John 16:11, 33", "Phil. 2:9", "Col. 2:14", "I Cor. 15:4, 14", "Mark 16:19", "Luke 24:51", "Acts 1:9", "Matt. 26:64", "Eph. 1:20", "Col. 3:1", "Heb. 1:13", "Heb. 10:12", "Heb. 12:2", "Acts 2:1"]
+          "References": ["Matt.1.18", "Luke.1.35", "Luke.2.7", "Matt.20.28", "Matt.26.28", "Rom.5.6", "1Cor.15.3", "1Pet.2.24", "Heb.9.14,Heb.9.26,Heb.9.28", "Heb.10.10,Heb.10.12,Heb.10.14", "Rom.6.10", "1Pet.3.18", "John.16.11,John.16.33", "Phil.2.9", "Col.2.14", "1Cor.15.4,1Cor.15.14", "Mark.16.19", "Luke.24.51", "Acts.1.9", "Matt.26.64", "Eph.1.20", "Col.3.1", "Heb.1.13", "Heb.10.12", "Heb.12.2", "Acts.2.1"]
         }
       ],
       "ProofsWithScripture": [
@@ -113,15 +113,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Matt. 16:18", "Eph. 1:22", "Eph. 5:25", "John 3:29", "II Cor. 11:2", "Eph. 2:19", "Heb. 12:22", "John 1:29", "Gal. 5:6"]
+          "References": ["Matt.16.18", "Eph.1.22", "Eph.5.25", "John.3.29", "2Cor.11.2", "Eph.2.19", "Heb.12.22", "John.1.29", "Gal.5.6"]
         },
         {
           "Id": 2,
-          "References": ["Matt. 3:11", "Matt. 28:19", "Acts 2:41", "Acts 16:15, 33", "Col. 2:12", "Matt. 26:26", "Matt. 14:22", "Luke 22:19", "I Cor. 11:23"]
+          "References": ["Matt.3.11", "Matt.28.19", "Acts.2.41", "Acts.16.15,Acts.16.33", "Col.2.12", "Matt.26.26", "Matt.14.22", "Luke.22.19", "1Cor.11.23"]
         },
         {
           "Id": 3,
-          "References": ["Rom. 12:9", "John 15:12, 17", "I John 3:11, 14, 16, 23", "I John 4:7, 20"]
+          "References": ["Rom.12.9", "John.15.12,John.15.17", "1John.3.11,1John.3.14,1John.3.16,1John.3.23", "1John.4.7,1John.4.20"]
         }
       ],
       "ProofsWithScripture": [
@@ -147,15 +147,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Luke 22:19", "I Cor. 11:23", "I Cor. 10:16"]
+          "References": ["Luke.22.19", "1Cor.11.23", "1Cor.10.16"]
         },
         {
           "Id": 2,
-          "References": ["John 6:35"]
+          "References": ["John.6.35"]
         },
         {
           "Id": 3,
-          "References": ["John 11:25", "Eph. 1:22", "Eph. 4:15", "Eph. 5:23", "Col. 1:18"]
+          "References": ["John.11.25", "Eph.1.22", "Eph.4.15", "Eph.5.23", "Col.1.18"]
         },
         {
           "Id": 4,
@@ -163,11 +163,11 @@
         },
         {
           "Id": 5,
-          "References": ["Acts 1:9", "Acts 7:55", "Col. 3:1", "Heb. 1:3", "Heb. 10:19"]
+          "References": ["Acts.1.9", "Acts.7.55", "Col.3.1", "Heb.1.3", "Heb.10.19"]
         },
         {
           "Id": 6,
-          "References": ["Acts 3:21", "II Tim. 4:1"]
+          "References": ["Acts.3.21", "2Tim.4.1"]
         }
       ],
       "ProofsWithScripture": [
@@ -205,11 +205,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Matt. 18:15", "I Cor. 5:3", "II Thess. 3:6, 14", "I Tim. 1:19"]
+          "References": ["Matt.18.15", "1Cor.5.3", "2Thess.3.6,2Thess.3.14", "1Tim.1.19"]
         },
         {
           "Id": 2,
-          "References": ["11 Cor. 2:6", "I Tim. 1:20"]
+          "References": ["2Cor.2.6", "1Tim.1.20"]
         }
       ],
       "ProofsWithScripture": [
@@ -231,7 +231,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Rom. 13:1", "I Peter 2:13"]
+          "References": ["Rom.13.1", "1Pet.2.13"]
         }
       ],
       "ProofsWithScripture": [
@@ -249,7 +249,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Matt. 20:28", "Mark 10:45", "Luke 7:48, 50", "John 3:15, 36", "John 5:24", "John 6:28 35, 40, 47", "Rom. 3:21", "4", "10:4", "Gal. 2:16", "Rom. 3:27", "Eph. 2:8, 13", "I Cor. 1:1, 30", "Rom. 8:32", "Eph. 2:9", "John 14:6"]
+          "References": ["Matt.20.28", "Mark.10.45", "Luke.7.48,Luke.7.50", "John.3.15,John.3.36", "John.5.24", "John.6.28,John.6.35,John.6.40,John.6.47", "Rom.3.21", "Rom.4", "Rom.10.4", "Gal.2.16", "Rom.3.27", "Eph.2.8,Eph.2.13", "1Cor.1.1,1Cor.1.30", "Rom.8.32", "Eph.2.9", "John.14.6"]
         }
       ],
       "ProofsWithScripture": [
@@ -271,7 +271,7 @@
         },
         {
           "Id": 2,
-          "References": ["Matt. 24:30", "Matt. 25:31", "II Tim. 4:1, 8", "Rom. 2:5", "II Cor. 5:10", "John 5:25"]
+          "References": ["Matt.24.30", "Matt.25.31", "2Tim.4.1,2Tim.4.8", "Rom.2.5", "2Cor.5.10", "John.5.25"]
         }
       ],
       "ProofsWithScripture": [
@@ -293,7 +293,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Matt. 17:5", "Luke 9:35", "Deut.  18:18", "Acts 7:37"]
+          "References": ["Matt.17.5", "Luke.9.35", "Deut.18.18", "Acts.7.37"]
         },
         {
           "Id": 2,
@@ -301,7 +301,7 @@
         },
         {
           "Id": 3,
-          "References": ["Lev. 18:2", "Dent. 10:17", "I Tim. 1:4"]
+          "References": ["Lev.18.2", "Deut.10.17", "1Tim.1.4"]
         }
       ],
       "ProofsWithScripture": [
