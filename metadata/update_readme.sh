@@ -13,7 +13,7 @@ image="https://img.shields.io/github/actions/workflow/status/NonlinearFruit/Cree
 link="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"
 echo  "  <a href=\"$link\"><img src=\"$image\"></a>" >> $readme
 image="https://img.shields.io/badge/test%20count-$(npm run test-json -s | jq '.numTotalTests - .numTodoTests')-yellowgreen"
-link="https://github.com/NonlinearFruit/Creeds.json/tree/master/spec"
+link="https://github.com/NonlinearFruit/Creeds.json/tree/master/tests"
 echo  "  <a href=\"$link\"><img src=\"$image\"></a>" >> $readme
 cat >> $readme << 'END'
 </p>
