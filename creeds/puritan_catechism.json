@@ -22,11 +22,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 10:31"]
+          "References": ["1Cor.10.31"]
         },
         {
           "Id": 2,
-          "References": ["Ps 73:25,26"]
+          "References": ["Ps.73.25-Ps.73.26"]
         }
       ]
     },
@@ -38,11 +38,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph 2:20", "2Ti 3:16"]
+          "References": ["Eph.2.20", "2Tim.3.16"]
         },
         {
           "Id": 2,
-          "References": ["1Jo 1:3"]
+          "References": ["1John.1.3"]
         }
       ]
     },
@@ -54,7 +54,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["2Ti 1:13", "Ec 12:13"]
+          "References": ["2Tim.1.13", "Eccl.12.13"]
         }
       ]
     },
@@ -66,35 +66,35 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Joh 4:24"]
+          "References": ["John.4.24"]
         },
         {
           "Id": 2,
-          "References": ["Job 11:7"]
+          "References": ["Job.11.7"]
         },
         {
           "Id": 3,
-          "References": ["Ps 90:2", "1Ti 1:17"]
+          "References": ["Ps.90.2", "1Tim.1.17"]
         },
         {
           "Id": 4,
-          "References": ["Jas 1:17"]
+          "References": ["Jas.1.17"]
         },
         {
           "Id": 5,
-          "References": ["Ex 3:14"]
+          "References": ["Exod.3.14"]
         },
         {
           "Id": 6,
-          "References": ["Ps 147:5"]
+          "References": ["Ps.147.5"]
         },
         {
           "Id": 7,
-          "References": ["Re 4:8"]
+          "References": ["Rev.4.8"]
         },
         {
           "Id": 8,
-          "References": ["Ex 34:6,7"]
+          "References": ["Exod.34.6-Exod.34.7"]
         }
       ]
     },
@@ -106,11 +106,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["De 6:4"]
+          "References": ["Deut.6.4"]
         },
         {
           "Id": 2,
-          "References": ["Jer 10:10"]
+          "References": ["Jer.10.10"]
         }
       ]
     },
@@ -122,7 +122,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Jo 5:7", "Mt 28:19"]
+          "References": ["1John.5.7", "Matt.28.19"]
         }
       ]
     },
@@ -134,7 +134,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph 1:11,12"]
+          "References": ["Eph.1.11-Eph.1.12"]
         }
       ]
     },
@@ -146,11 +146,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Re 4:11"]
+          "References": ["Rev.4.11"]
         },
         {
           "Id": 2,
-          "References": ["Da 4:35"]
+          "References": ["Dan.4.35"]
         }
       ]
     },
@@ -162,19 +162,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ge 1:1"]
+          "References": ["Gen.1.1"]
         },
         {
           "Id": 2,
-          "References": ["Heb 11:3"]
+          "References": ["Heb.11.3"]
         },
         {
           "Id": 3,
-          "References": ["Ex 20:11"]
+          "References": ["Exod.20.11"]
         },
         {
           "Id": 4,
-          "References": ["Ge 1:31"]
+          "References": ["Gen.1.31"]
         }
       ]
     },
@@ -186,15 +186,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ge 1:27"]
+          "References": ["Gen.1.27"]
         },
         {
           "Id": 2,
-          "References": ["Col 3:10", "Eph 4:24"]
+          "References": ["Col.3.10", "Eph.4.24"]
         },
         {
           "Id": 3,
-          "References": ["Gen 1:28"]
+          "References": ["Gen.1.28"]
         }
       ]
     },
@@ -206,19 +206,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ps 145:17"]
+          "References": ["Ps.145.17"]
         },
         {
           "Id": 2,
-          "References": ["Isa 28:29"]
+          "References": ["Isa.28.29"]
         },
         {
           "Id": 3,
-          "References": ["Heb 1:3"]
+          "References": ["Heb.1.3"]
         },
         {
           "Id": 4,
-          "References": ["Ps 103:19", "Mt 10:29"]
+          "References": ["Ps.103.19", "Matt.10.29"]
         }
       ]
     },
@@ -230,11 +230,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ga 3:12"]
+          "References": ["Gal.3.12"]
         },
         {
           "Id": 2,
-          "References": ["Ge 2:17"]
+          "References": ["Gen.2.17"]
         }
       ]
     },
@@ -246,11 +246,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ec 7:29"]
+          "References": ["Eccl.7.29"]
         },
         {
           "Id": 2,
-          "References": ["Ge 3:6-8"]
+          "References": ["Gen.3.6-Gen.3.8"]
         }
       ]
     },
@@ -262,7 +262,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Jo 3:4"]
+          "References": ["1John.3.4"]
         }
       ]
     },
@@ -274,7 +274,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 15:22", "Ro 5:12"]
+          "References": ["1Cor.15.22", "Rom.5.12"]
         }
       ]
     },
@@ -286,7 +286,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ro 5:18"]
+          "References": ["Rom.5.18"]
         }
       ]
     },
@@ -298,19 +298,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ro 5:19"]
+          "References": ["Rom.5.19"]
         },
         {
           "Id": 2,
-          "References": ["Ro 3:10"]
+          "References": ["Rom.3.10"]
         },
         {
           "Id": 3,
-          "References": ["Eph 2:1", "Ps 51:5"]
+          "References": ["Eph.2.1", "Ps.51.5"]
         },
         {
           "Id": 4,
-          "References": ["Mt 15:19"]
+          "References": ["Matt.15.19"]
         }
       ]
     },
@@ -322,15 +322,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ge 3:8,24"]
+          "References": ["Gen.3.8,Gen.3.24"]
         },
         {
           "Id": 2,
-          "References": ["Eph 2:3", "Ga 3:10"]
+          "References": ["Eph.2.3", "Gal.3.10"]
         },
         {
           "Id": 3,
-          "References": ["Ro 6:23", "Mt 25:41"]
+          "References": ["Rom.6.23", "Matt.25.41"]
         }
       ]
     },
@@ -342,11 +342,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["2Th 2:13"]
+          "References": ["2Thess.2.13"]
         },
         {
           "Id": 2,
-          "References": ["Ro 5:21"]
+          "References": ["Rom.5.21"]
         }
       ]
     },
@@ -358,15 +358,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Ti 2:5"]
+          "References": ["1Tim.2.5"]
         },
         {
           "Id": 2,
-          "References": ["Joh 1:14"]
+          "References": ["John.1.14"]
         },
         {
           "Id": 3,
-          "References": ["1Ti 3:16", "Col 2:9"]
+          "References": ["1Tim.3.16", "Col.2.9"]
         }
       ]
     },
@@ -378,19 +378,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Heb 2:14"]
+          "References": ["Heb.2.14"]
         },
         {
           "Id": 2,
-          "References": ["Mt 26:38", "Heb 4:15"]
+          "References": ["Matt.26.38", "Heb.4.15"]
         },
         {
           "Id": 3,
-          "References": ["Lu 1:31,35"]
+          "References": ["Luke.1.31,Luke.1.35"]
         },
         {
           "Id": 4,
-          "References": ["Heb 7:26"]
+          "References": ["Heb.7.26"]
         }
       ]
     },
@@ -402,15 +402,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ac 3:22"]
+          "References": ["Acts.3.22"]
         },
         {
           "Id": 2,
-          "References": ["Heb 5:6"]
+          "References": ["Heb.5.6"]
         },
         {
           "Id": 3,
-          "References": ["Ps 2:6"]
+          "References": ["Ps.2.6"]
         }
       ]
     },
@@ -422,15 +422,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Joh 1:18"]
+          "References": ["John.1.18"]
         },
         {
           "Id": 2,
-          "References": ["Joh 20:31"]
+          "References": ["John.20.31"]
         },
         {
           "Id": 3,
-          "References": ["Joh 14:26"]
+          "References": ["John.14.26"]
         }
       ]
     },
@@ -442,15 +442,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Heb 9:28"]
+          "References": ["Heb.9.28"]
         },
         {
           "Id": 2,
-          "References": ["Heb 2:17"]
+          "References": ["Heb.2.17"]
         },
         {
           "Id": 3,
-          "References": ["Heb 7:25"]
+          "References": ["Heb.7.25"]
         }
       ]
     },
@@ -462,11 +462,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ps 110:3"]
+          "References": ["Ps.110.3"]
         },
         {
           "Id": 2,
-          "References": ["Mt 2:6", "1Co 15:25"]
+          "References": ["Matt.2.6", "1Cor.15.25"]
         }
       ]
     },
@@ -478,27 +478,27 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Lu 2:7"]
+          "References": ["Luke.2.7"]
         },
         {
           "Id": 2,
-          "References": ["Ga 4:4"]
+          "References": ["Gal.4.4"]
         },
         {
           "Id": 3,
-          "References": ["Isa 53:3"]
+          "References": ["Isa.53.3"]
         },
         {
           "Id": 4,
-          "References": ["Mt 27:46"]
+          "References": ["Matt.27.46"]
         },
         {
           "Id": 5,
-          "References": ["Php 2:8"]
+          "References": ["Phil.2.8"]
         },
         {
           "Id": 6,
-          "References": ["Mt 12:40"]
+          "References": ["Matt.12.40"]
         }
       ]
     },
@@ -510,15 +510,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 15:4"]
+          "References": ["1Cor.15.4"]
         },
         {
           "Id": 2,
-          "References": ["Mr 16:19"]
+          "References": ["Mark.16.19"]
         },
         {
           "Id": 3,
-          "References": ["Ac 17:31"]
+          "References": ["Acts.17.31"]
         }
       ]
     },
@@ -530,11 +530,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Joh 1:12"]
+          "References": ["John.1.12"]
         },
         {
           "Id": 2,
-          "References": ["Tit 3:5,6"]
+          "References": ["Titus.3.5-Titus.3.6"]
         }
       ]
     },
@@ -546,11 +546,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph 2:8"]
+          "References": ["Eph.2.8"]
         },
         {
           "Id": 2,
-          "References": ["Eph 3:17"]
+          "References": ["Eph.3.17"]
         }
       ]
     },
@@ -562,23 +562,23 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["2Ti 1:9"]
+          "References": ["2Tim.1.9"]
         },
         {
           "Id": 2,
-          "References": ["Ac 2:37"]
+          "References": ["Acts.2.37"]
         },
         {
           "Id": 3,
-          "References": ["Ac 26:18"]
+          "References": ["Acts.26.18"]
         },
         {
           "Id": 4,
-          "References": ["Eze 36:26"]
+          "References": ["Ezek.36.26"]
         },
         {
           "Id": 5,
-          "References": ["Joh 6:44,45"]
+          "References": ["John.6.44-John.6.45"]
         }
       ]
     },
@@ -590,15 +590,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ro 8:30"]
+          "References": ["Rom.8.30"]
         },
         {
           "Id": 2,
-          "References": ["Eph 1:5"]
+          "References": ["Eph.1.5"]
         },
         {
           "Id": 3,
-          "References": ["1Co 1:30"]
+          "References": ["1Cor.1.30"]
         }
       ]
     },
@@ -610,19 +610,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ro 3:24", "Eph 1:7"]
+          "References": ["Rom.3.24", "Eph.1.7"]
         },
         {
           "Id": 2,
-          "References": ["2Co 5:21"]
+          "References": ["2Cor.5.21"]
         },
         {
           "Id": 3,
-          "References": ["Ro 5:19"]
+          "References": ["Rom.5.19"]
         },
         {
           "Id": 4,
-          "References": ["Ga 2:16", "Php 3:9"]
+          "References": ["Gal.2.16", "Phil.3.9"]
         }
       ]
     },
@@ -634,11 +634,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Jo 3:1"]
+          "References": ["1John.3.1"]
         },
         {
           "Id": 2,
-          "References": ["Joh 1:12", "Ro 8:17"]
+          "References": ["John.1.12", "Rom.8.17"]
         }
       ]
     },
@@ -650,15 +650,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["2Th 2:13"]
+          "References": ["2Thess.2.13"]
         },
         {
           "Id": 2,
-          "References": ["Eph 4:24"]
+          "References": ["Eph.4.24"]
         },
         {
           "Id": 3,
-          "References": ["Ro 6:11"]
+          "References": ["Rom.6.11"]
         }
       ]
     },
@@ -670,15 +670,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ro 5:1,2,5"]
+          "References": ["Rom.5.1-Rom.5.2,Rom.5.5"]
         },
         {
           "Id": 2,
-          "References": ["Ro 14:17"]
+          "References": ["Rom.14.17"]
         },
         {
           "Id": 3,
-          "References": ["Pr 4:18", "1Jo 5:13", "1Pe 1:5"]
+          "References": ["Prov.4.18", "1John.5.13", "1Pet.1.5"]
         }
       ]
     },
@@ -690,23 +690,23 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Heb 12:23"]
+          "References": ["Heb.12.23"]
         },
         {
           "Id": 2,
-          "References": ["Php 1:23", "2Co 5:8", "Lu 23:43"]
+          "References": ["Phil.1.23", "2Cor.5.8", "Luke.23.43"]
         },
         {
           "Id": 3,
-          "References": ["1Th 4:14"]
+          "References": ["1Thess.4.14"]
         },
         {
           "Id": 4,
-          "References": ["Isa 57:2"]
+          "References": ["Isa.57.2"]
         },
         {
           "Id": 5,
-          "References": ["Job 19:26"]
+          "References": ["Job.19.26"]
         }
       ]
     },
@@ -718,19 +718,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 15:43"]
+          "References": ["1Cor.15.43"]
         },
         {
           "Id": 2,
-          "References": ["Mt 10:32"]
+          "References": ["Matt.10.32"]
         },
         {
           "Id": 3,
-          "References": ["1Jo 3:2"]
+          "References": ["1John.3.2"]
         },
         {
           "Id": 4,
-          "References": ["1Th 4:17"]
+          "References": ["1Thess.4.17"]
         }
       ]
     },
@@ -742,11 +742,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Lu 16:22-24"]
+          "References": ["Luke.16.22-Luke.16.24"]
         },
         {
           "Id": 2,
-          "References": ["Ps 49:14"]
+          "References": ["Ps.49.14"]
         }
       ]
     },
@@ -758,7 +758,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Da 12:2", "Joh 5:28,29", "2Th 1:9", "Mt 25:41"]
+          "References": ["Dan.12.2", "John.5.28-John.5.29", "2Thess.1.9", "Matt.25.41"]
         }
       ]
     },
@@ -770,7 +770,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["De 10:4", "Mt 19:17"]
+          "References": ["Deut.10.4", "Matt.19.17"]
         }
       ]
     },
@@ -782,7 +782,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Mt 22:37-40"]
+          "References": ["Matt.22.37-Matt.22.40"]
         }
       ]
     },
@@ -799,15 +799,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Ch 28:9"]
+          "References": ["1Chr.28.9"]
         },
         {
           "Id": 2,
-          "References": ["De 26:17"]
+          "References": ["Deut.26.17"]
         },
         {
           "Id": 3,
-          "References": ["Mt 4:10"]
+          "References": ["Matt.4.10"]
         }
       ]
     },
@@ -824,11 +824,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["De 32:46", "Mt 28:20"]
+          "References": ["Deut.32.46", "Matt.28.20"]
         },
         {
           "Id": 2,
-          "References": ["De 12:32"]
+          "References": ["Deut.12.32"]
         }
       ]
     },
@@ -840,11 +840,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["De 4:15,16"]
+          "References": ["Deut.4.15-Deut.4.16"]
         },
         {
           "Id": 2,
-          "References": ["Col 2:18"]
+          "References": ["Col.2.18"]
         }
       ]
     },
@@ -861,23 +861,23 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ps 29:2"]
+          "References": ["Ps.29.2"]
         },
         {
           "Id": 2,
-          "References": ["Re 15:3,4"]
+          "References": ["Rev.15.3-Rev.15.4"]
         },
         {
           "Id": 3,
-          "References": ["Ec 5:1"]
+          "References": ["Eccl.5.1"]
         },
         {
           "Id": 4,
-          "References": ["Ps 138:2"]
+          "References": ["Ps.138.2"]
         },
         {
           "Id": 5,
-          "References": ["Job 36:24", "De 28:58,59"]
+          "References": ["Job.36.24", "Deut.28.58-Deut.28.59"]
         }
       ]
     },
@@ -894,7 +894,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Le 19:30", "De 5:12"]
+          "References": ["Lev.19.30", "Deut.5.12"]
         }
       ]
     },
@@ -906,15 +906,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Le 23:3"]
+          "References": ["Lev.23.3"]
         },
         {
           "Id": 2,
-          "References": ["Ps 92:1,2", "Isa 58:13,14"]
+          "References": ["Ps.92.1-Ps.92.2", "Isa.58.13-Isa.58.14"]
         },
         {
           "Id": 3,
-          "References": ["Mt 12:11,12"]
+          "References": ["Matt.12.11-Matt.12.12"]
         }
       ]
     },
@@ -931,15 +931,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph 5:21,22", "Eph 6:1,5 Ro 13:1"]
+          "References": ["Eph.5.21-Eph.5.22", "Eph.6.1,Eph.6.5,Rom.13.1"]
         },
         {
           "Id": 2,
-          "References": ["Eph 6:9"]
+          "References": ["Eph.6.9"]
         },
         {
           "Id": 3,
-          "References": ["Ro 12:10"]
+          "References": ["Rom.12.10"]
         }
       ]
     },
@@ -951,7 +951,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph 6:2,3"]
+          "References": ["Eph.6.2-Eph.6.3"]
         }
       ]
     },
@@ -968,15 +968,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ac 16:28"]
+          "References": ["Acts.16.28"]
         },
         {
           "Id": 2,
-          "References": ["Ge 9:6"]
+          "References": ["Gen.9.6"]
         },
         {
           "Id": 3,
-          "References": ["Pr 24:11,12"]
+          "References": ["Prov.24.11-Prov.24.12"]
         }
       ]
     },
@@ -993,15 +993,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Mt 5:28", "Col 4:6"]
+          "References": ["Matt.5.28", "Col.4.6"]
         },
         {
           "Id": 2,
-          "References": ["Eph 5:4", "2Ti 2:22"]
+          "References": ["Eph.5.4", "2Tim.2.22"]
         },
         {
           "Id": 3,
-          "References": ["Eph 5:3"]
+          "References": ["Eph.5.3"]
         }
       ]
     },
@@ -1018,11 +1018,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Ti 5:8", "Pr 28:19", "Pr 21:6"]
+          "References": ["1Tim.5.8", "Prov.28.19", "Prov.21.6"]
         },
         {
           "Id": 2,
-          "References": ["Eph 4:28"]
+          "References": ["Eph.4.28"]
         }
       ]
     },
@@ -1039,19 +1039,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Zec 8:16"]
+          "References": ["Zech.8.16"]
         },
         {
           "Id": 2,
-          "References": ["1Pe 3:16", "Ac 25:10"]
+          "References": ["1Pet.3.16", "Acts.25.10"]
         },
         {
           "Id": 3,
-          "References": ["3Jo 1:12"]
+          "References": ["3John.1.12"]
         },
         {
           "Id": 4,
-          "References": ["Pr 14:5,25"]
+          "References": ["Prov.14.5,Prov.14.25"]
         }
       ]
     },
@@ -1068,15 +1068,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 10:10"]
+          "References": ["1Cor.10.10"]
         },
         {
           "Id": 2,
-          "References": ["Ga 5:26"]
+          "References": ["Gal.5.26"]
         },
         {
           "Id": 3,
-          "References": ["Col 3:5"]
+          "References": ["Col.3.5"]
         }
       ]
     },
@@ -1088,19 +1088,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ec 7:20"]
+          "References": ["Eccl.7.20"]
         },
         {
           "Id": 2,
-          "References": ["Ge 8:21"]
+          "References": ["Gen.8.21"]
         },
         {
           "Id": 3,
-          "References": ["Jas 3:8"]
+          "References": ["Jas.3.8"]
         },
         {
           "Id": 4,
-          "References": ["Jas 3:2"]
+          "References": ["Jas.3.2"]
         }
       ]
     },
@@ -1112,7 +1112,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Joh 19:11", "1Jo 5:15"]
+          "References": ["John.19.11", "1John.5.15"]
         }
       ]
     },
@@ -1124,7 +1124,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Eph 5:6", "Ps 11:6"]
+          "References": ["Eph.5.6", "Ps.11.6"]
         }
       ]
     },
@@ -1136,11 +1136,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Joh 3:16"]
+          "References": ["John.3.16"]
         },
         {
           "Id": 2,
-          "References": ["Ac 20:21"]
+          "References": ["Acts.20.21"]
         }
       ]
     },
@@ -1152,19 +1152,19 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Heb 10:39"]
+          "References": ["Heb.10.39"]
         },
         {
           "Id": 2,
-          "References": ["Joh 1:12"]
+          "References": ["John.1.12"]
         },
         {
           "Id": 3,
-          "References": ["Php 3:9"]
+          "References": ["Phil.3.9"]
         },
         {
           "Id": 4,
-          "References": ["Isa 33:22"]
+          "References": ["Isa.33.22"]
         }
       ]
     },
@@ -1176,23 +1176,23 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ac 11:18"]
+          "References": ["Acts.11.18"]
         },
         {
           "Id": 2,
-          "References": ["Ac 2:37"]
+          "References": ["Acts.2.37"]
         },
         {
           "Id": 3,
-          "References": ["Joe 2:13"]
+          "References": ["Joel.2.13"]
         },
         {
           "Id": 4,
-          "References": ["Jer 31:18,19"]
+          "References": ["Jer.31.18-Jer.31.19"]
         },
         {
           "Id": 5,
-          "References": ["Ps 119:59"]
+          "References": ["Ps.119.59"]
         }
       ]
     },
@@ -1204,7 +1204,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ac 2:41,42", "Jas 1:18"]
+          "References": ["Acts.2.41-Acts.2.42", "Jas.1.18"]
         }
       ]
     },
@@ -1216,15 +1216,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ps 19:7"]
+          "References": ["Ps.19.7"]
         },
         {
           "Id": 2,
-          "References": ["1Th 1:6"]
+          "References": ["1Thess.1.6"]
         },
         {
           "Id": 3,
-          "References": ["Ro 1:16"]
+          "References": ["Rom.1.16"]
         }
       ]
     },
@@ -1236,27 +1236,27 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Pr 8:34", "1Pe 2:1,2"]
+          "References": ["Prov.8.34", "1Pet.2.1-1Pet.2.2"]
         },
         {
           "Id": 2,
-          "References": ["Ps 119:18"]
+          "References": ["Ps.119.18"]
         },
         {
           "Id": 3,
-          "References": ["Heb 4:2"]
+          "References": ["Heb.4.2"]
         },
         {
           "Id": 4,
-          "References": ["2Th 2:10"]
+          "References": ["2Thess.2.10"]
         },
         {
           "Id": 5,
-          "References": ["Ps 119:11"]
+          "References": ["Ps.119.11"]
         },
         {
           "Id": 6,
-          "References": ["Jas 1:25"]
+          "References": ["Jas.1.25"]
         }
       ]
     },
@@ -1268,15 +1268,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 3:7", "1Pe 3:21"]
+          "References": ["1Cor.3.7", "1Pet.3.21"]
         },
         {
           "Id": 2,
-          "References": ["1Co 3:6"]
+          "References": ["1Cor.3.6"]
         },
         {
           "Id": 3,
-          "References": ["1Co 12:13"]
+          "References": ["1Cor.12.13"]
         }
       ]
     },
@@ -1288,23 +1288,23 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Mt 28:19"]
+          "References": ["Matt.28.19"]
         },
         {
           "Id": 2,
-          "References": ["Ro 6:3", "Col 2:12"]
+          "References": ["Rom.6.3", "Col.2.12"]
         },
         {
           "Id": 3,
-          "References": ["Ga 3:27"]
+          "References": ["Gal.3.27"]
         },
         {
           "Id": 4,
-          "References": ["Mr 1:4", "Ac 22:16"]
+          "References": ["Mark.1.4", "Acts.22.16"]
         },
         {
           "Id": 5,
-          "References": ["Ro 6:4,5"]
+          "References": ["Rom.6.4-Rom.6.5"]
         }
       ]
     },
@@ -1316,7 +1316,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ac 2:38", "Mt 3:6", "Mr 16:16", "Ac 8:12,36,37 10:47,48"]
+          "References": ["Acts.2.38", "Matt.3.6", "Mark.16.16", "Acts.8.12,Acts.8.36-Acts.8.37,Acts.10.47-Acts.10.48"]
         }
       ]
     },
@@ -1328,7 +1328,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ex 23:13", "Pr 30:6"]
+          "References": ["Exod.23.13", "Prov.30.6"]
         }
       ]
     },
@@ -1340,15 +1340,15 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Mt 3:16", "Joh 3:23"]
+          "References": ["Matt.3.16", "John.3.23"]
         },
         {
           "Id": 2,
-          "References": ["Mt 28:19,20"]
+          "References": ["Matt.28.19-Matt.28.20"]
         },
         {
           "Id": 3,
-          "References": ["Joh 4:1,2", "Ac 8:38,39"]
+          "References": ["John.4.1-John.4.2", "Acts.8.38-Acts.8.39"]
         }
       ]
     },
@@ -1360,11 +1360,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ac 2:47", "Ac 9:26", "1Pe 2:5"]
+          "References": ["Acts.2.47", "Acts.9.26", "1Pet.2.5"]
         },
         {
           "Id": 2,
-          "References": ["Lu 1:6"]
+          "References": ["Luke.1.6"]
         }
       ]
     },
@@ -1376,11 +1376,11 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 11:23-26"]
+          "References": ["1Cor.11.23-1Cor.11.26"]
         },
         {
           "Id": 2,
-          "References": ["1Co 10:16"]
+          "References": ["1Cor.10.16"]
         }
       ]
     },
@@ -1392,27 +1392,27 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["1Co 11:28,29"]
+          "References": ["1Cor.11.28-1Cor.11.29"]
         },
         {
           "Id": 2,
-          "References": ["2Co 13:5"]
+          "References": ["2Cor.13.5"]
         },
         {
           "Id": 3,
-          "References": ["1Co 11:31"]
+          "References": ["1Cor.11.31"]
         },
         {
           "Id": 4,
-          "References": ["1Co 11:18-20"]
+          "References": ["1Cor.11.18-1Cor.11.20"]
         },
         {
           "Id": 5,
-          "References": ["1Co 5:8"]
+          "References": ["1Cor.5.8"]
         },
         {
           "Id": 6,
-          "References": ["1Co 11:27-29"]
+          "References": ["1Cor.11.27-1Cor.11.29"]
         }
       ]
     },
@@ -1424,7 +1424,7 @@
       "Proofs": [
         {
           "Id": 1,
-          "References": ["Ac 1:11", "1Th 4:16"]
+          "References": ["Acts.1.11", "1Thess.4.16"]
         }
       ]
     }
