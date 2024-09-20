@@ -35,6 +35,7 @@ let copyrights = ls creeds
   | insert attribution $data.Metadata.SourceAttribution
 } 
 | where {|it|  ($it | get attribution | str starts-with "Public Domain") != true} 
+| sort-by output
 | each {|it| $it.output}
 | reduce {|it, acc| $acc + (char newline) + $it}
 
@@ -43,6 +44,7 @@ let creeds = ls creeds/ | each {|file|
   let data = open $file.name | get Metadata
   $" - [x] [($data.Title) \(($data.Year))]\(($file.name))"
 }
+| sort
 | reduce {|it, acc| $acc + (char newline) + $it}
 
 # Resources
