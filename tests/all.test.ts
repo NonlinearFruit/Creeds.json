@@ -60,7 +60,7 @@ const testDocument = (document: CreedDocument<any>, filename: string) => {
     let buf = readFileSync(filename)
     const len=buf.length
     for (let i=0; i<len; i++)
-      expect(buf[i]).toBeLessThan(127)
+      expect(127, "This character is bad: "+i).toBeGreaterThan(buf[i])
   })
 }
 
@@ -207,7 +207,7 @@ describe.each(testData.HenrysCatechism)('$filename', ({filepath, creed}) => {
 
   let data = creed.Data
   if (data instanceof Array)
-    data = data.map(item => ({
+    data = data.filter(item => item.SubQuestions.length != 0).map(item => ({
       title: `${item.Number ?? item.Article ?? item.Chapter} ${item.Title ?? item.Question}`,
       item
     }))

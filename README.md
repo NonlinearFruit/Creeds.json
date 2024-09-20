@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./metadata/feature_graphic.png">
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-41-blue"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/creeds"><img src="https://img.shields.io/badge/documents-42-blue"></a>
   <a href="https://github.com/NonlinearFruit/Creeds.json/actions/workflows/DataValidation.yml"><img src="https://img.shields.io/github/actions/workflow/status/NonlinearFruit/Creeds.json/DataValidation.yml?label=tests&branch=master"></a>
-  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/tests"><img src="https://img.shields.io/badge/test%20count-19347-yellowgreen"></a>
+  <a href="https://github.com/NonlinearFruit/Creeds.json/tree/master/tests"><img src="https://img.shields.io/badge/test%20count-20594-yellowgreen"></a>
 </p>
 
 This is a collection of historic creeds of the Christian faith. This repo focuses on the Reformed church.
@@ -37,6 +37,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [x] [Confession of Peter (30)](creeds/confession_of_peter.json)
  - [x] [Consensus Tigurinus (1549)](creeds/consensus_tigurinus.json)
  - [x] [Council of Orange (529)](creeds/council_of_orange.json)
+ - [x] [An Exposition of the Assemblies Catechism (1688)](creeds/exposition_of_the_assemblies_catechism.json)
  - [x] [First Confession of Basel (1534)](creeds/first_confession_of_basel.json)
  - [x] [First Helvetic Confession (1536)](creeds/first_helvetic_confession.json)
  - [x] [French Confession of Faith (1559)](creeds/french_confession_of_faith.json)
