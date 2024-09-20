@@ -19,7 +19,7 @@ jobs:
         with:
           version: "*"
       - run: |
-          mkdir docs/src
+          mkdir -p docs/src
           nu gen-docs.nu
       - name: Install latest mdbook
         run: |
