@@ -26,7 +26,7 @@ def main [] {
 def make-creeds [it] {
   $it.items
   | each {|c|
-    $"# ($c.content.Metadata.Title)\n\n($c.content.Data.Content)"
+    $"# ($c.content.Metadata.Title)\n(make-metadata-view $c)\n\n($c.content.Data.Content)"
     | save -f $"docs/src/($c.file.stem).md"
 
     $"- [($in.content.Metadata.Title)]\(./($in.file.stem).md)"
@@ -43,7 +43,7 @@ def make-canons [it] {
     }
     | str join (char newline)
 
-    $"# ($c.content.Metadata.Title)\n\n($articles)"
+    $"# ($c.content.Metadata.Title)\n(make-metadata-view $c)\n\n($articles)"
     | save -f $"docs/src/($c.file.stem).md"
 
     $"- [($in.content.Metadata.Title)]\(./($in.file.stem).md)"
@@ -65,7 +65,7 @@ def make-confessions [it] {
     }
     | str join (char newline)
 
-    $"# ($c.content.Metadata.Title)\n\n($data)"
+    $"# ($c.content.Metadata.Title)\n(make-metadata-view $c)\n\n($data)"
     | save -f $"docs/src/($c.file.stem).md"
 
     $"- [($in.content.Metadata.Title)]\(./($in.file.stem).md)"
@@ -82,7 +82,7 @@ def make-catechisms [it] {
     }
     | str join (char newline)
 
-    $"# ($c.content.Metadata.Title)\n\n($articles)"
+    $"# ($c.content.Metadata.Title)\n(make-metadata-view $c)\n\n($articles)"
     | save -f $"docs/src/($c.file.stem).md"
 
     $"- [($in.content.Metadata.Title)]\(./($in.file.stem).md)"
@@ -104,10 +104,30 @@ def make-henrys-catechisms [it] {
     }
     | str join (char newline)
 
-    $"# ($c.content.Metadata.Title)\n\n($data)"
+    $"# ($c.content.Metadata.Title)\n(make-metadata-view $c)\n\n($data)"
     | save -f $"docs/src/($c.file.stem).md"
 
     $"- [($in.content.Metadata.Title)]\(./($in.file.stem).md)"
   }
   | prepend $"# ($it.group)"
+}
+
+def make-metadata-view [it] {
+  $it.content.Metadata
+  | reject Title OriginStory
+  | update SourceUrl {|it| $"<($it.SourceUrl)>"}
+  | insert JsonUrl $"<https://github.com/NonlinearFruit/Creeds.json/blob/master/($it.file | path join)>"
+  | transpose Key Value
+  | to md
+  | [
+    "<details>"
+    "<summary>"
+    "Click to view Metadata"
+    "</summary>"
+    ""
+    ""
+    $in
+    "</details>"
+  ]
+  | str join (char newline)
 }
