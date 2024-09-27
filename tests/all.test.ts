@@ -38,29 +38,17 @@ const settings: TJS.PartialArgs = {
 const referenceParser = new BcvParcer()
 
 const schemas = {}
-for(const typeName of ["Metadata", "Proof", "Creed", "Canon", "Confession", "Catechism", "HenrysCatechism"])
+for(const typeName of ["Proof", "Creed", "Canon", "Confession", "Catechism", "HenrysCatechism"])
   schemas[typeName] = TJS.generateSchema(program, typeName, settings)
 
 const validateSchema = (typeName, document) => {
   test(`matches ${typeName} schema`, async () => {
+    expect(Object.keys(schemas), `'${typeName}' is not a valid CreedFormat`).toContain(typeName)
     const schema = schemas[typeName]
 
     const result = validator.validate(document, schema)
 
     expect(result.valid, result).toBeTruthy()
-  })
-}
-
-const testDocument = (document: CreedDocument<any>, filename: string) => {
-  validateSchema("Metadata", document.Metadata)
-
-  validateSchema(document.Metadata.CreedFormat, document)
-
-  test('is ascii', async () => {
-    let buf = readFileSync(filename)
-    const len=buf.length
-    for (let i=0; i<len; i++)
-      expect(127, "This character is bad: "+i).toBeGreaterThan(buf[i])
   })
 }
 
@@ -132,14 +120,18 @@ const testProofs = (item: any) => {
   })
 }
 
-test("All documents have a valid format type", () => {
-  expect(Object.keys(testData).length).toEqual(5)
+describe.each(Object.values(testData).flat())('$filename', ({filepath, creed}) => {
+  validateSchema(creed.Metadata.CreedFormat, creed)
+
+  test('is ascii', async () => {
+    let buf = readFileSync(filepath)
+    const len=buf.length
+    for (let i=0; i<len; i++)
+    expect(127, "This character is bad: "+i).toBeGreaterThan(buf[i])
+  })
 })
 
 describe.each(testData.Canon)('$filename', ({filepath, creed}) => {
-
-  testDocument(creed, filepath)
-
   let data = creed.Data
   if (data instanceof Array)
     data = data.map(item => ({
@@ -157,9 +149,6 @@ describe.each(testData.Canon)('$filename', ({filepath, creed}) => {
 })
 
 describe.each(testData.Catechism)('$filename', ({filepath, creed}) => {
-
-  testDocument(creed, filepath)
-
   let data = creed.Data
   if (data instanceof Array)
     data = data.map(item => ({
@@ -177,9 +166,6 @@ describe.each(testData.Catechism)('$filename', ({filepath, creed}) => {
 })
 
 describe.each(testData.Confession)('$filename', ({filepath, creed}) => {
-
-  testDocument(creed, filepath)
-
   let data = creed.Data
   if (data instanceof Array)
     data = data.map(item => ({
@@ -197,18 +183,11 @@ describe.each(testData.Confession)('$filename', ({filepath, creed}) => {
 })
 
 describe.each(testData.Creed)('$filename', ({filepath, creed}) => {
-
-  testDocument(creed, filepath)
-
   const item = creed.Data
-
   testProofs(item)
 })
 
 describe.each(testData.HenrysCatechism)('$filename', ({filepath, creed}) => {
-
-  testDocument(creed, filepath)
-
   let data = creed.Data
   if (data instanceof Array)
     data = data.filter(item => item.SubQuestions.length != 0).map(item => ({
