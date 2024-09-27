@@ -132,6 +132,10 @@ const testProofs = (item: any) => {
   })
 }
 
+test("All documents have a valid format type", () => {
+  expect(Object.keys(testData).length).toEqual(5)
+})
+
 describe.each(testData.Canon)('$filename', ({filepath, creed}) => {
 
   testDocument(creed, filepath)
