@@ -20,7 +20,7 @@ jobs:
           version: "*"
       - run: |
           mkdir -p docs/src
-          nu gen-docs.nu
+          nu metadata/gen-docs.nu
       - name: Install latest mdbook
         run: |
           tag=$(curl 'https://api.github.com/repos/rust-lang/mdbook/releases/latest' | jq -r '.tag_name')
