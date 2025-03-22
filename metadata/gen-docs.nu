@@ -8,7 +8,9 @@ def main [] {
     }
   }
   | group-by --to-table content.Metadata.CreedFormat
+  | rename --column {content.Metadata.CreedFormat: group}
   | each {|it|
+    print $it.group
     match $it.group {
       'Canon' => { make-canons $it }
       'Catechism' => { make-catechisms $it }
