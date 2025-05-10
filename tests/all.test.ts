@@ -3,6 +3,7 @@ import { resolve } from "path";
 import { readdirSync, readFileSync } from "fs"
 import { bcv_parser as BcvParcer } from "bible-passage-reference-parser/js/en_bcv_parser"
 import { Validator } from "jsonschema"
+import buffer from 'buffer'
 import TJS from "typescript-json-schema"
 import type { CreedDocument, Proof } from "./types.ts"
 
@@ -125,9 +126,7 @@ describe.each(Object.values(testData).flat())('$filename', ({filepath, creed}) =
 
   test('is ascii', async () => {
     let buf = readFileSync(filepath)
-    const len=buf.length
-    for (let i=0; i<len; i++)
-    expect(127, "This character is bad: "+i).toBeGreaterThan(buf[i])
+    expect(buffer.isAscii(buf)).toBeTruthy()
   })
 })
 
