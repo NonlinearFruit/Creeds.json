@@ -51,6 +51,11 @@
   ],
   "Websites": [ 
     {
+      "Title": "Awesome Bible Developer Resources",
+      "Url": "https://github.com/biblenerd/awesome-bible-developer-resources",
+      "Description": "A curated list of awesome resources for developers (and other nerds) working with biblical texts and related tools."
+    },
+    {
       "Title": "Catechesis",
       "Url": "https://www.catechesis.app",
       "Description": "An open-source app designed to help you catechize yourself, your family, and your church - by engaging with catechisms that have stood the test of time throughout the church age."

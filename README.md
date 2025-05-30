@@ -77,6 +77,7 @@ Read more about the json structure [here](https://github.com/NonlinearFruit/Cree
  - [Standards Bot](https://github.com/Nokeo08/standardsbot) » A reddit bot that is triggered by reddit comments made in /r/Reformed that references various christian confessions and catechisms. ![GitHub last commit](https://img.shields.io/github/last-commit/Nokeo08/standardsbot.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/Nokeo08/standardsbot.svg)
  - [Reformed Standards](https://github.com/reformed-standards/compendium) » The compendium is a collection of reformed documents, such as confessions and catechisms. ![GitHub last commit](https://img.shields.io/github/last-commit/reformed-standards/compendium.svg) ![GitHub Repo stars](https://img.shields.io/github/stars/reformed-standards/compendium.svg)
 ## Websites
+ - [Awesome Bible Developer Resources](https://github.com/biblenerd/awesome-bible-developer-resources) » A curated list of awesome resources for developers (and other nerds) working with biblical texts and related tools.
  - [Catechesis](https://www.catechesis.app) » An open-source app designed to help you catechize yourself, your family, and your church - by engaging with catechisms that have stood the test of time throughout the church age.
  - [Creeds](https://nonlinearfruit.github.io/Creeds-Blazor/) » Read, search, copy classic creeds
  - [Reformed Standards](https://reformedstandards.com) » All the reformed documents in one tidy package
