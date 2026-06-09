@@ -20,8 +20,8 @@ def main [] {
     }
   }
   | flatten
-  | str join (char newline)
   | prepend $"# Summary"
+  | str join (char newline)
   | save -f "docs/src/SUMMARY.md"
 }
 
